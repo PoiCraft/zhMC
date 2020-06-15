@@ -315,7 +315,7 @@ action.interact.trade=交易	#
 action.interact.armorstand.pose=摆姿势	#
 action.interact.armorstand.equip=装备	#
 action.interact.read=阅读	#
-action.interact.wakevillager=守夜村民	#
+action.interact.wakevillager=唤醒村民	#
 
 advMode.allEntities=@e = 全部实体	#
 advMode.allPlayers=@a = 全部玩家	#
