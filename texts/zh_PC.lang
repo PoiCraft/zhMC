@@ -1,4 +1,4 @@
-﻿## Comments can be added anywhere on a valid line by starting with '##'
+## Comments can be added anywhere on a valid line by starting with '##'
 ##
 ## Note, trailing spaces will NOT be trimmed. If you want room between the end of the string and the start of a
 ## comment on the same line, use TABs.
@@ -2259,7 +2259,7 @@ enchantment.level.9=IX	#
 enchantment.lootBonus=抢夺	#
 enchantment.lootBonusDigger=时运	#
 enchantment.lootBonusFishing=海之眷顾	#
-enchantment.mending=正在治愈	#
+enchantment.mending=经验修补	#
 enchantment.oxygen=水下呼吸	#
 enchantment.protect.all=保护	#
 enchantment.protect.explosion=爆炸保护	#
@@ -2292,7 +2292,7 @@ entity.dolphin.name=海豚	#
 entity.panda.name=熊猫	#
 entity.donkey.name=驴	#
 entity.dragon_fireball.name=巨龙火球	#
-entity.drowned.name=水鬼	#
+entity.drowned.name=溺尸	#
 entity.egg.name=鸡蛋	#
 entity.elder_guardian.name=老守卫者	#
 entity.ender_crystal.name=末影水晶	#
@@ -2841,12 +2841,12 @@ howtoplay.commands.title=游戏指南：命令	#
 howtoplay.commands.text.1=可通过聊天执行命令。在您键入命令之前，请先键入 /。	#
 howtoplay.commands.text.2=有大量命令，使您能够做令人惊奇的事情。有许多来源出自这些命令，可提供给您所需要的所有信息。	#
 
-howtoplay.conduits=导管	#
-howtoplay.conduits.title=游戏指南：导管	#
-howtoplay.conduits.text.1=当您处于水下时，处于激活状态的导管会给您提供能量。	#
-howtoplay.conduits.text.2=一根导管由若干鹦鹉螺壳和一枚海洋之心制成。导管会从海晶石和海晶灯中吸取能量。	#
+howtoplay.conduits=潮涌核心	#
+howtoplay.conduits.title=游戏指南：潮涌核心	#
+howtoplay.conduits.text.1=当您处于水下时，处于激活状态的潮涌核心会给您提供能量。	#
+howtoplay.conduits.text.2=一根潮涌核心由若干鹦鹉螺壳和一枚海洋之心制成。潮涌核心会从海晶石和海晶灯中吸取能量。	#
 howtoplay.conduits.header.1=建设	#
-howtoplay.conduits.text.3=一旦被激活，导管会将导管能量赋予给附近的任何物体。	#
+howtoplay.conduits.text.3=一旦被激活，潮涌核心会将潮涌能量赋予给附近的任何物体。	#
 howtoplay.conduits.text.4=其吸取的能量越多，能力的作用范围就越远。	#
 
 howtoplay.controls=控制	#
@@ -4456,7 +4456,7 @@ item.spawn_egg.entity.mule.name=生成骡子	#
 item.spawn_egg.entity.skeleton_horse.name=生成骷髅马	#
 item.spawn_egg.entity.zombie_horse.name=生成僵尸马	#
 item.spawn_egg.entity.zombie.name=生成僵尸	#
-item.spawn_egg.entity.drowned.name=水鬼蛋	#
+item.spawn_egg.entity.drowned.name=溺尸蛋	#
 item.spawn_egg.entity.creeper.name=生成爬行者	#
 item.spawn_egg.entity.skeleton.name=生成骷髅	#
 item.spawn_egg.entity.spider.name=生成蜘蛛	#
@@ -5829,7 +5829,7 @@ potion.absorption=伤害吸收	#
 potion.absorption.postfix=伤害吸收药水	#
 potion.blindness=失明	#
 potion.blindness.postfix=失明药水	#
-potion.conduitPower=导管能量	#
+potion.conduitPower=潮涌能量	#
 potion.confusion=反胃的	#
 potion.confusion.postfix=反胃药水	#
 potion.damageBoost=力量	#
@@ -6994,7 +6994,7 @@ tile.bed.tooFar=床太远了	#
 tile.bedrock.name=基岩	#
 tile.bell.name=钟	#
 tile.camera.name=摄像机	#
-tile.conduit.name=导管	#
+tile.conduit.name=潮涌核心	#
 tile.invisibleBedrock.name=隐形基岩	#
 tile.beetroot.name=甜菜根	#
 tile.birchFence.name=桦木围墙	#
@@ -8178,7 +8178,7 @@ tips.game.20=需要煤做火把或者燃料？试着在熔炉里冶炼木头来�
 tips.game.21=黄金在岩石台地生物群系中储量较为丰富！	#
 tips.game.22=翅鞘可以用来滑翔，它们会出现在末地之城的船中！	#
 tips.game.23=通过打开实验性游戏内容选项来测试一些新的功能！	#
-tips.game.24=三叉戟由水鬼掉落，可以被握住或投掷。	#
+tips.game.24=三叉戟由溺尸掉落，可以被握住或投掷。	#
 tips.game.25=访问 mixer.com/minecraft，观看最新的《我的世界》直播。	#
 tips.game.26=您可以用一个干海带方块作为燃料，在熔炉里冶炼 20 个物品。	#
 tips.game.27=被骷髅箭杀死的怪物有机会掉落音乐唱片。	#
@@ -8196,7 +8196,7 @@ tips.game.38=驯服骷髅马时无需马鞍。	#
 tips.game.39=豹猫会让爬行者知道谁才是老大！	#
 tips.game.40=闪长岩是一种会让您对它非爱即恨的东西。	#
 tips.game.41=幻影是会在夜间出现的危险生物。您得确保自己有规律的睡眠！	#
-tips.game.42=僵尸会在沉入水下时变成水鬼。	#
+tips.game.42=僵尸会在沉入水下时变成溺尸。	#
 tips.game.43=MINECON 每年都有！请关注下一届！	#
 tips.game.44=使用焰火会提高翅鞘在半空中的速度。只要……确保它们不爆炸就好，否则会让您疼得够呛！	#
 tips.game.45=黄金最常出现在岩石台地生物群系中。	#
