@@ -17,3 +17,4 @@ Fix some wrong Chinese translation of Minecraft Bedrock Edition
 |导管能量|潮涌能量|
 |水鬼|溺尸|
 |正在治愈|经验修补|
+|守夜村民|唤醒村民|
