@@ -1,6 +1,6 @@
 # zhMC
 Fix some wrong Chinese translation of Minecraft Bedrock Edition.  
-**This repository has nothing to do with Mojang.**
+**This repository is not related to Mojang.**
 
 ## 如何使用
 
