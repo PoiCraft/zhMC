@@ -6,12 +6,20 @@ labels: mistranslation
 assignees: gggxbbb
 
 ---
+## 错误翻译所在位置  
+> 例如 主菜单 设置 方块名称 物品名称  
 
-需说明以下内容:
+Write here
 
-* 错误翻译所在位置
-* 错误的翻译
+----
+## 错误的翻译  
 
-可选提供以下内容:
+Write here
 
-* 正确的翻译
+----
+## 正确的翻译(可选)  
+
+Write here
+
+----
+  
