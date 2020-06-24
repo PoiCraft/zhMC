@@ -5,9 +5,12 @@ def loadLang(lang_str):
     lang_map = {}
     lang_list = lang_str.splitlines()
     for lang_w in lang_list:
-        if not (lang_w[0]=='#' or lang_w[0]==' '):
-            lang_d = lang_w.split('=')
-            lang_map[lang_d[0]] = lang_d[1]
+        if len(lang_w) = 0:
+            continue
+        if (lang_w[0] == '#' or lang_w[0] == ' '):
+            continue
+        lang_d = lang_w.split('=')
+        lang_map[lang_d[0]] = lang_d[1]
     return lang_map
 
 def exportLang(lang_map):
