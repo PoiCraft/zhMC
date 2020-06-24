@@ -5,7 +5,7 @@ def loadLang(lang_str):
     lang_map = {}
     lang_list = lang_str.splitlines()
     for lang_w in lang_list:
-        if len(lang_w) = 0:
+        if len(lang_w) == 0:
             continue
         if (lang_w[0] == '#' or lang_w[0] == ' '):
             continue
