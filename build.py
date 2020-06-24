@@ -1,5 +1,5 @@
-source = open('texts/zh_PC.source.lang').read()
-diff = open('texts/zh_PC.diff.lang').read()
+source = open('data/zh_CN.lang').read()
+diff = open('data/zh_PC.diff.lang').read()
 
 def loadLang(lang_str):
     lang_map = {}
