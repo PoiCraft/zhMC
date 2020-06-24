@@ -1,6 +1,6 @@
 # zhMC
 Fix some wrong Chinese translation of Minecraft Bedrock Edition.  
-
+![Build zh_PC.lang](https://github.com/PoiCraft/zhMC/workflows/Build%20zh_PC.lang/badge.svg)
 ## 如何使用
 
 至 [releases](https://github.com/PoiCraft/zhMC/releases) 页面下载最新的 `zhMC.mcpack`  
