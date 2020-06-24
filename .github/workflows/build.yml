@@ -20,6 +20,8 @@ jobs:
       uses: actions/setup-python@v2
       with:
         python-version: 3.8
+    - name: install pytz
+      run: pip3 install pytz
     - name: build zh_PC.lang
       run: python3 build.py
     - name: commit
@@ -27,7 +29,7 @@ jobs:
         git config --global user.email 2331490629@qq.com
         git config --global user.name gggxbbb
         git add .
-        git commit -m "update zh_PC.lang" -a
+        git commit -m "[Actions] Build zh_PC.lang" -a
     - name: Push changes
       uses: ad-m/github-push-action@master
       with:
