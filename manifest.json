@@ -4,7 +4,7 @@
     "description": "修正 Minecraft BE 的部分神奇翻译",
     "name": "zhMC",
     "uuid": "475b62fe-48ec-4408-ab16-d2f1befe4c39",
-    "version": [0, 0, 2],
+    "version": [0, 0, 3],
     "min_engine_version": [1, 16, 0]
   },
   "modules": [
@@ -12,7 +12,7 @@
       "description": "修正 Minecraft BE 的部分神奇翻译",
       "type": "resources",
       "uuid": "50ee73c4-eedf-4a7c-ba7b-7ba614f80cb3",
-      "version": [0, 0, 2]
+      "version": [0, 0, 3]
     }
   ]
 }
