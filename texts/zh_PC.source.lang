@@ -1,0 +1,74 @@
+## Comments can be added anywhere on a valid line by starting with '##'
+##
+## Note, trailing spaces will NOT be trimmed. If you want room between the end of the string and the start of a
+## comment on the same line, use TABs.
+accessibility.disableTTS=文本转语音已禁用	#
+accessibility.enableTTS=文本转语音已启用	#
+
+## Translator note:
+## This section of phrases will be given audibly to the user using text to speech
+
+accessibility.chat.tts.says=%s 说 %s	#
+accessibility.chat.tts.hideChat=隐藏聊天	#
+accessibility.chat.tts.keyboard=键盘	#
+accessibility.chat.tts.muteChatToggle=全部静音	#
+accessibility.chat.tts.sendChatMessage=发送	#
+accessibility.chat.tts.textboxTitle=聊天	#
+
+accessibility.loading.done=完成	#
+accessibility.saving.done=完成	#
+accessibility.downloading.start=下载已开始	#
+accessibility.downloading.Progress=正在下载 %s%	#
+accessibility.downloading.canceled=下载已取消	#
+accessibility.downloading.complete=下载完成	#
+accessibility.importing.start=导入已开始	#
+accessibility.importing.Progress=正在导入 %s%	#
+accessibility.importing.canceled=导入已取消	#
+accessibility.importing.complete=导入完成	#
+accessibility.signin.xbl=正在登录至 Xbox Live	#
+accessibility.chat.howtoopen=按 %s 打开聊天	#
+accessibility.key.mouseButton=鼠标按钮 %s	#
+accessibility.key.gamepad=控制器 %s	#
+accessibility.list.or.two=%s或%s	#
+accessibility.list.or.three_or_more.first=%s	#
+accessibility.list.or.three_or_more.inner=，%s	#
+accessibility.list.or.three_or_more.last=，或 %s	#
+
+accessibility.button.tts.title=按钮	#
+accessibility.checkbox.tts.title=复选框	#
+accessibility.checkbox.tts.status=状态 %s			### Status will be checked or unchecked
+accessibility.dropdown.tts.title=下拉	#
+accessibility.slider.tts.title=滑块	#
+accessibility.tab.tts.title=标签	#
+accessibility.textbox.tts.title=文本框	#
+accessibility.toggle.tts.title=切换	#
+
+accessibility.button.close=关闭	#
+accessibility.button.back=返回	#
+accessibility.button.exit=退出	#
+
+accessibility.dropdown.listItem=列表项	#
+
+accessibility.sectionName=第 %s 部分：	#
+
+accessibility.state.on=：打开	#
+accessibility.state.off=：关闭	#
+
+accessibility.state.checked=：选中	#
+accessibility.state.unchecked=：取消选中	#
+
+accessibility.state.selected=：已选择	#
+accessibility.state.unselected=：未选择	#
+
+accessibility.index =第 %s 个，共 %s 个 # 这是编号，表示在所有可互动的物件总数量中的第几个。 例如：第 1 个，共 3 个	#
+
+accessibility.slider.tts.percentValue=%s%	#
+
+accessibility.play.editWorld=编辑世界	#
+accessibility.play.editRealm=编辑 Realm	#
+accessibility.play.editServer=编辑服务器	#
+accessibility.play.importWorld=导入世界	#
+accessibility.play.leaveRealm=离开 Realm	#
+accessibility.play.realmFeed=Realm 内容	#
+accessibility.play.tabLeft=按下选项卡左边的 %s	#
+accessibility.play.tabR
