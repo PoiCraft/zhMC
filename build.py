@@ -21,6 +21,7 @@ source_map = loadLang(source)
 diff_map = loadLang(diff)
 
 for k in diff_map:
+    print(k+':'+source_map[k]+' -> '+diff_map[k])
     source_map[k]=diff_map[k]
 
 with open('texts/zh_PC.lang','w') as f:
