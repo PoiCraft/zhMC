@@ -18,3 +18,6 @@ howtoplay.conduits.text.2=一根潮涌核心由若干鹦鹉螺壳和一枚海洋
 howtoplay.conduits.text.3=一旦被激活，潮涌核心会将潮涌能量赋予给附近的任何物体。
 potion.conduitPower=潮涌能量
 tile.conduit.name=潮涌核心
+
+#教育版
+createWorldScreen.educationtoggle=教育版

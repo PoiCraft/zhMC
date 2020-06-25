@@ -1,6 +1,6 @@
 #Github: https://github.com/PoiCraft/zhMC
 #Version: 0.0.3
-#BuildAt: 2020-06-24 14:12:42 UTC
+#BuildAt: 2020-06-25 12:50:45 UTC
 accessibility.disableTTS=文本转语音已禁用	#
 accessibility.enableTTS=文本转语音已启用	#
 accessibility.chat.tts.says=%s 说 %s	#
@@ -1428,7 +1428,7 @@ createWorldScreen.weathercycle=天气更替	#
 createWorldScreen.daylightcycle=开启昼夜更替	#
 createWorldScreen.mobSpawn=生物生成	#
 createWorldScreen.mobgriefing=生物破坏	#
-createWorldScreen.educationtoggle=Education Edition	#
+createWorldScreen.educationtoggle=教育版
 createWorldScreen.entitiesdroploot=实体掉落战利品	#
 createWorldScreen.commandblocksenabled=命令方块已开启	#
 createWorldScreen.experimentalgameplay=使用实验玩法	#
