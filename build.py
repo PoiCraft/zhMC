@@ -1,19 +1,36 @@
 import json
 import datetime
 import pytz
+import hashlib
+
+m = hashlib.md5()
+
+class NothingChangedException(Exception):
+    pass
 
 info = json.loads(open('manifest.json').read())
 version = '.'.join([str(v) for v in info['header']['version']])
 time = datetime.datetime.now(pytz.timezone('UTC')).strftime('%Y-%m-%d %H:%M:%S')
 
+source = open('data/zh_CN.lang').read()
+diff = open('data/zh_PC.diff.lang').read()
+
+sign_str = source.encode(encoding='utf-8')
+m.update(sign_str)
+sign = f'Sign: {m.hexdigest()}'
+
+sign_old = open('texts/zh_PC.lang').read().splitlines()[0]
+
+print(sign,sign_old)
+if ('#'+sign) == sign_old:
+    raise NothingChangedException()
+
 extra = [
+        sign,
         'Github: https://github.com/PoiCraft/zhMC',
         f'Version: {version}',
         f'BuildAt: {time} UTC'
         ]
-
-source = open('data/zh_CN.lang').read()
-diff = open('data/zh_PC.diff.lang').read()
 
 def loadLang(lang_str):
     lang_map = {}

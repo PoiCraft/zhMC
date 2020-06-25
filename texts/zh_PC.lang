@@ -1,6 +1,7 @@
+#Sign: 0e4e63a1a20f47dce4af04eff98c1876
 #Github: https://github.com/PoiCraft/zhMC
 #Version: 0.0.3
-#BuildAt: 2020-06-25 15:26:02 UTC
+#BuildAt: 2020-06-25 15:36:18 UTC
 accessibility.disableTTS=文本转语音已禁用	#
 accessibility.enableTTS=文本转语音已启用	#
 accessibility.chat.tts.says=%s 说 %s	#
