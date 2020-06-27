@@ -1,6 +1,7 @@
 # zhMC
 Fix some wrong Chinese translation of Minecraft Bedrock Edition.  
-
+![.github/workflows/build.yml](https://github.com/PoiCraft/zhMC/workflows/.github/workflows/build.yml/badge.svg)
+![.github/workflows/release.yml](https://github.com/PoiCraft/zhMC/workflows/.github/workflows/release.yml/badge.svg)  
 *[zh_PC.lang](https://github.com/PoiCraft/zhMC/blob/master/texts/zh_PC.lang)* is besed on *[zh_CN.lang](https://github.com/PoiCraft/zhMC/blob/master/data/zh_CN.lang)* from *[Vanilla_Resource_Pack_1.16.0](https://aka.ms/resourcepacktemplate)*.    
 
 ## 如何使用
