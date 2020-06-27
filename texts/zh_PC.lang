@@ -1,7 +1,7 @@
-#Sign: 0e4e63a1a20f47dce4af04eff98c1876
+#Sign: 1eb89801cf65aa27680530ea83b50c0c
 #Github: https://github.com/PoiCraft/zhMC
 #Version: 0.0.3
-#BuildAt: 2020-06-25 15:36:18 UTC
+#BuildAt: 2020-06-27 07:35:26 UTC
 accessibility.disableTTS=文本转语音已禁用	#
 accessibility.enableTTS=文本转语音已启用	#
 accessibility.chat.tts.says=%s 说 %s	#
@@ -1429,7 +1429,7 @@ createWorldScreen.weathercycle=天气更替	#
 createWorldScreen.daylightcycle=开启昼夜更替	#
 createWorldScreen.mobSpawn=生物生成	#
 createWorldScreen.mobgriefing=生物破坏	#
-createWorldScreen.educationtoggle=教育版
+createWorldScreen.educationtoggle=Education Edition	#
 createWorldScreen.entitiesdroploot=实体掉落战利品	#
 createWorldScreen.commandblocksenabled=命令方块已开启	#
 createWorldScreen.experimentalgameplay=使用实验玩法	#
@@ -2718,7 +2718,7 @@ howtoplay.commands.text.2=有大量命令，使您能够做令人惊奇的事情
 howtoplay.conduits=潮涌核心
 howtoplay.conduits.title=游戏指南：潮涌核心
 howtoplay.conduits.text.1=当您处于水下时，处于激活状态的潮涌核心会给您提供能量。
-howtoplay.conduits.text.2=一根潮涌核心由若干鹦鹉螺壳和一枚海洋之心制成。潮涌核心会从海晶石和海晶灯中吸取能量。
+howtoplay.conduits.text.2=一个潮涌核心由若干鹦鹉螺壳和一枚海洋之心制成。潮涌核心会从海晶石和海晶灯中吸取能量。
 howtoplay.conduits.header.1=建设	#
 howtoplay.conduits.text.3=一旦被激活，潮涌核心会将潮涌能量赋予给附近的任何物体。
 howtoplay.conduits.text.4=其吸取的能量越多，能力的作用范围就越远。	#
