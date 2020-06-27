@@ -22,6 +22,7 @@ sign = f'Sign: {m.hexdigest()}'
 
 sign_old = open('texts/zh_PC.lang').read().splitlines()[0]
 
+print(sign_old,sign)
 if ('#'+sign) == sign_old:
     print('Nothing Changed')
     sys.exit()
