@@ -20,7 +20,7 @@ jobs:
     - name: build zh_PC.lang
       run: python3 build.py
     - name: commit
-      if: ${{ success() }}
+      if: ${{ env.passing == 0 }}
       run: |
         git config --global user.email 2331490629@qq.com
         git config --global user.name gggxbbb
