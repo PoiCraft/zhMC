@@ -7,7 +7,7 @@ on:
     branches: [ master ]
 
 jobs:
-  build:
+  - build:
     runs-on: ubuntu-latest
     continue-on-error: true
     steps:
@@ -19,8 +19,10 @@ jobs:
     - name: install pytz
       run: pip3 install pytz
     - name: build zh_PC.lang
+      id: build
       run: python3 build.py
     - name: commiit
+      if: ${{step.build.outputs.text != 'Nothing Changed'}}
       run: |
         git config --global user.email 2331490629@qq.com
         git config --global user.name gggxbbb
@@ -30,3 +32,31 @@ jobs:
       uses: ad-m/github-push-action@master
       with:
         github_token: ${{ github.token }}
+  - release:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+    - name: pack
+      if: startsWith(github.ref, 'refs/tags/')
+      run: |
+        rm -rf .git
+        rm -rf data
+        rm -rf .github
+        rm *.md
+        rm build.py
+        ls
+        zip -r zhMC-${{ env.GITHUB_TAG_NAME }}.mcpack .
+    - name: release
+      if: startsWith(github.ref, 'refs/tags/')
+      use: softprops/action-gh-release@v1
+      with:
+        name: v${{ env.GITHUB_TAG_NAME }}
+        prerelease: false
+        draft: true
+        files: zhMC-*.mcpack
+        body: (empty)
+      env:
+        GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
+
+   
+    
