@@ -19,12 +19,11 @@ jobs:
         rm *.md
         rm build.py
         ls
-        zip -r zhMC-${{ env.GITHUB_TAG_NAME }}.mcpack .
+        zip -r zhMC-${{ github.GITHUB_REF }}.mcpack .
     - name: release
       if: startsWith(github.ref, 'refs/tags/')
       uses: softprops/action-gh-release@v1
       with:
-        name: v${{ env.GITHUB_TAG_NAME }}
         prerelease: true
         draft: true
         files: zhMC-*.mcpack
