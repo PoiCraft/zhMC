@@ -3,8 +3,16 @@ name: Build zh_PC.lang
 on:
   push:
     branches: [ master ]
-  pull_request:
+    paths:
+      - 'data/zh_PC.diff.lang'
+      - 'data/zh_CN.lang'
+      - '!texts/zh_PC.lang'
+  pull_request
     branches: [ master ]
+    paths:
+      - 'data/'
+      - 'data/zh_CN.lang'
+      - '!texts/zh_PC.lang'
 
 jobs:
   build:
@@ -22,9 +30,7 @@ jobs:
       id: build
       run: python3 build.py
     - name: commiit
-      if: ${{ steps.build.outputs.text != 'Nothing Changed' }}
       run: |
-        echo ${{steps.build.outputs.text}}
         git config --global user.email 2331490629@qq.com
         git config --global user.name gggxbbb
         git add .
