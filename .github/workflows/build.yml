@@ -24,6 +24,7 @@ jobs:
     - name: commiit
       if: ${{ steps.build.outputs.text != 'Nothing Changed' }}
       run: |
+        echo ${{steps.build.outputs.text}}
         git config --global user.email 2331490629@qq.com
         git config --global user.name gggxbbb
         git add .
