@@ -7,7 +7,7 @@ on:
       - 'data/zh_PC.diff.lang'
       - 'data/zh_CN.lang'
       - '!texts/zh_PC.lang'
-  pull_request
+  pull_request:
     branches: [ master ]
     paths:
       - 'data/'
