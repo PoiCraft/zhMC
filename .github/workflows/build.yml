@@ -22,7 +22,7 @@ jobs:
       id: build
       run: python3 build.py
     - name: commiit
-      if: ${{step.build.outputs.text != 'Nothing Changed'}}
+      if: ${{ steps.build.outputs.text != 'Nothing Changed' }}
       run: |
         git config --global user.email 2331490629@qq.com
         git config --global user.name gggxbbb
