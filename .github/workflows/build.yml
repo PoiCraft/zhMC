@@ -9,6 +9,7 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    continue-on-error: true
     steps:
     - uses: actions/checkout@v2
     - name: Set up Python 3.8
@@ -19,8 +20,7 @@ jobs:
       run: pip3 install pytz
     - name: build zh_PC.lang
       run: python3 build.py
-    - name: commit
-      if: ${{ env.passing == 0 }}
+    - name: commiit
       run: |
         git config --global user.email 2331490629@qq.com
         git config --global user.name gggxbbb
