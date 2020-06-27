@@ -14,10 +14,7 @@ item.spawn_egg.entity.drowned.name=溺尸蛋
 howtoplay.conduits=潮涌核心
 howtoplay.conduits.title=游戏指南：潮涌核心
 howtoplay.conduits.text.1=当您处于水下时，处于激活状态的潮涌核心会给您提供能量。
-howtoplay.conduits.text.2=一根潮涌核心由若干鹦鹉螺壳和一枚海洋之心制成。潮涌核心会从海晶石和海晶灯中吸取能量。
+howtoplay.conduits.text.2=一个潮涌核心由若干鹦鹉螺壳和一枚海洋之心制成。潮涌核心会从海晶石和海晶灯中吸取能量。
 howtoplay.conduits.text.3=一旦被激活，潮涌核心会将潮涌能量赋予给附近的任何物体。
 potion.conduitPower=潮涌能量
 tile.conduit.name=潮涌核心
-
-#教育版
-createWorldScreen.educationtoggle=教育版
