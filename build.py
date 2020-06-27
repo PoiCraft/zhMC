@@ -2,6 +2,7 @@ import json
 import datetime
 import pytz
 import hashlib
+import sys
 
 m = hashlib.md5()
 
@@ -23,7 +24,7 @@ sign_old = open('texts/zh_PC.lang').read().splitlines()[0]
 
 if ('#'+sign) == sign_old:
     print('Nothing Changed')
-    return 0
+    sys.exit()
 
 extra = [
         sign,
