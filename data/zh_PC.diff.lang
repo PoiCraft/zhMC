@@ -1,16 +1,16 @@
-#唤醒村民
+##唤醒村民
 action.interact.wakevillager=唤醒村民
 
-#经验修补
+##经验修补
 enchantment.mending=经验修补
 
-#溺尸
+##溺尸
 entity.drowned.name=溺尸
 tips.game.24=三叉戟由溺尸掉落，可以被握住或投掷。
 tips.game.42=僵尸会在沉入水下时变成溺尸。
 item.spawn_egg.entity.drowned.name=溺尸蛋
 
-#潮涌核心
+##潮涌核心
 howtoplay.conduits=潮涌核心
 howtoplay.conduits.title=游戏指南：潮涌核心
 howtoplay.conduits.text.1=当您处于水下时，处于激活状态的潮涌核心会给您提供能量。
@@ -18,3 +18,24 @@ howtoplay.conduits.text.2=一个潮涌核心由若干鹦鹉螺壳和一枚海洋
 howtoplay.conduits.text.3=一旦被激活，潮涌核心会将潮涌能量赋予给附近的任何物体。
 potion.conduitPower=潮涌能量
 tile.conduit.name=潮涌核心
+
+##一些成就
+achievement.alternativeFuel.desc=用一个干海带方块给熔炉供能
+
+##一坨下马
+action.hint.exit.pig=轻按潜行可以离开猪
+action.hint.exit.horse=轻按潜行可以下马
+action.hint.exit.strider=轻触潜行可以脱离炽足兽
+action.hint.exit.donkey=轻按潜行可以离开驴
+action.hint.exit.mule=轻按潜行可以下骡子
+action.hint.exit.llama=轻按潜行可以离开羊驼
+
+##教育版
+authentication.pleaseSignIn=您必须先登录至学校账户，才能玩 Minecraft: 教育版。
+authentication.unauthenticated=该帐户无法使用 Minecraft: 教育版。
+authentication.trialMessageTitle=Minecraft: 教育版 免费试用
+authentication.trialWelcome=欢迎！在您的学校需要购买许可之前，您有 %d 次 Minecraft: 教育版 试用机会。每次打开 Minecraft: 教育版，都会使用一次试用机会。请尽情享用！
+authentication.trialWarning=在此期间过后，您有 %d 次 Minecraft: 教育版 试用机会。用完这些试用后，您的学校需要购买许可。谢谢！
+authentication.trialEnded=您的 Minecraft: 教育版 试用机会已用完。您的学校需要购买许可，您才能继续使用 Minecraft: 教育版。谢谢！
+authentication.store.intro=您的 Minecraft: 教育版 试用机会已用完。您需要购买许可，才能继续使用 Minecraft: 教育版。
+eula.intro=要使用 Minecraft: 教育版，你必须接受最终用户许可协议。
