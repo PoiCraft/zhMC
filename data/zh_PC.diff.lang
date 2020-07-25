@@ -39,3 +39,7 @@ authentication.trialWarning=在此期间过后，您有 %d 次 Minecraft: 教育
 authentication.trialEnded=您的 Minecraft: 教育版 试用机会已用完。您的学校需要购买许可，您才能继续使用 Minecraft: 教育版。谢谢！
 authentication.store.intro=您的 Minecraft: 教育版 试用机会已用完。您需要购买许可，才能继续使用 Minecraft: 教育版。
 eula.intro=要使用 Minecraft: 教育版，你必须接受最终用户许可协议。
+disconnectionScreen.editionMismatch=此等级从 Minecraft: 教育版 保存，无法加载。	#
+disconnectionScreen.editionMismatchEduToVanilla=服务器没有运行 Minecraft: 教育版。连接失败。	#
+disconnectionScreen.editionMismatchVanillaToEdu=服务器正在运行不兼容版本的《我的世界》。连接失败。	#
+disconnectionScreen.editionVersionMismatch.body=您所选择的世界不能在此版本的 Minecraft: 教育版 中打开。
