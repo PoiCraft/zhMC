@@ -1,7 +1,7 @@
-#Sign: 10cf2c9803a5d5f79314d22937b3e399
+#Sign: 793d751d003a8bc2dd3a8222219468fa
 #Github: https://github.com/PoiCraft/zhMC
 #Version: 0.0.3
-#BuildAt: 2020-07-25 08:14:17 UTC
+#BuildAt: 2020-07-25 08:19:15 UTC
 accessibility.disableTTS=文本转语音已禁用	#
 accessibility.enableTTS=文本转语音已启用	#
 accessibility.chat.tts.says=%s 说 %s	#
@@ -2050,10 +2050,10 @@ disconnectionScreen.incompatibleRealm=你的客户端不兼容或已过期。请
 disconnectionScreen.realmsAlphaEndedTitle=测试领域Alpha已结束。感谢你的帮助！	#
 disconnectionScreen.realmsAlphaEndedMessage=领域目前不提供。	#
 disconnectionScreen.disconnected=正在从服务器断开连接	#
-disconnectionScreen.editionMismatch=此等级从 Minecraft: Education Edition 保存，无法加载。	#
-disconnectionScreen.editionMismatchEduToVanilla=服务器没有运行 Minecraft: Education Edition。连接失败。	#
+disconnectionScreen.editionMismatch=此等级从 Minecraft: 教育版 保存，无法加载。	#
+disconnectionScreen.editionMismatchEduToVanilla=服务器没有运行 Minecraft: 教育版。连接失败。	#
 disconnectionScreen.editionMismatchVanillaToEdu=服务器正在运行不兼容版本的《我的世界》。连接失败。	#
-disconnectionScreen.editionVersionMismatch.body=您所选择的世界不能在此版本的 Minecraft: Education Edition 中打开。	#
+disconnectionScreen.editionVersionMismatch.body=您所选择的世界不能在此版本的 Minecraft: 教育版 中打开。
 disconnectionScreen.editionVersionMismatch.title=无法加载世界。	#
 disconnectionScreen.futureVersion=更新版本的该游戏保存了这一等级。因此无法加载。	#
 disconnectionScreen.internalError.cantConnect=我们无法与您连接。	#
