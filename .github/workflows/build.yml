@@ -11,8 +11,7 @@ on:
     branches: [ master ]
     paths:
       - 'data/'
-      - 'data/zh_CN.lang'
-      - '!texts/zh_PC.lang'
+      - 'manifest.json'
 
 jobs:
   build:
