@@ -1,0 +1,2598 @@
+accessibility.popup.message.line1=欢迎来到《Minecraft》！	#
+##欢迎来到《我的世界》！	#|
+accessibility.popup.message.platform=我们发现您的系统启用了一个屏幕阅读器，并且自动启用了《Minecraft》的屏幕阅读器。	#
+##我们发现您的系统启用了一个屏幕阅读器，并且自动启用了《我的世界》的屏幕阅读器。	#|
+accessibility.popup.message.xbl=我们发现您的账户已经启用了“让游戏读给我听”，并且自动启用了《Minecraft》的屏幕阅读器。	#
+##我们发现您的账户已经启用了“让游戏读给我听”，并且自动启用了《我的世界》的屏幕阅读器。	#|
+achievement.alternativeFuel.desc=将一个海带块作为熔炉的燃料	#
+##用一个海带区块给熔炉供能	#|用一个干海带方块给熔炉供能
+achievement.breedCow.desc=喂小麦来繁殖出两头牛	#
+##喂小麦来繁殖出 2 头牛	#|
+achievement.killWither.desc=击败凋灵	#
+##杀死凋灵	#|
+achievement.overkill=全力一击	#
+##赶尽杀绝	#|
+achievement.portal.desc=建造一个通往下界的传送门	#
+##建造一个通往地狱的传送门	#|
+achievement.spawnWither.desc=生成 凋灵	#
+##生成凋灵	#|
+action.interact.read=读	#
+##阅读	#|
+action.interact.wakevillager=唤醒村民	#
+##守夜村民	#|唤醒村民
+apple.iCloudDisabled.message=你的世界没有保存妥当。下次你玩Minecraft时，它们可能不存在了。请前往 Apple TV 设置，开启 iCloud，确保所有世界保存完好。	#
+##你的世界没有保存妥当。下次你玩《我的世界》时，它们可能不存在了。请前往 Apple TV 设置，开启 iCloud，确保所有世界保存完好。	#|
+apple.iCloudNoSpace.message=你的 iCloud 可用空间不足，无法妥当保存世界。下次你玩Minecraft时，它们可能不存在了。请释放 iCloud 账户上的空间，确保所有世界保存完好。	#
+##你的 iCloud 可用空间不足，无法妥当保存世界。下次你玩《我的世界》时，它们可能不存在了。请释放 iCloud 账户上的空间，确保所有世界保存完好。	#|
+apple.iCloudNoInternet.message=你需要互联网连接才能妥当保存世界。下次你玩Minecraft时，它们可能不存在了。请重新连接到互联网，确保所有世界保存完好。	#
+##你需要互联网连接才能妥当保存世界。下次你玩《我的世界》时，它们可能不存在了。请重新连接到互联网，确保所有世界保存完好。	#|
+apple.iCloudSignInRequired.message=您必须登录 iCloud 才能玩Minecraft。请转到 Apple TV 设置并打开 iCloud。	#
+##您必须登录 iCloud 才能玩《我的世界》。请转到 Apple TV 设置并打开 iCloud。	#|
+apple.iCloudUserChanged.message=已经登录新的 iCloud 帐户。您将需要重新启动《Minecraft》才能进入游戏。	#
+##已经登录新的 iCloud 帐户。您将需要重新启动《我的世界》才能进入游戏。	#|
+attribution.viewAttribution=要查看属性，请在任意网络浏览器中访问 https://minecraft.net/attribution。	#
+##要查看署名，请在任意网络浏览器中访问 https://minecraft.net/attribution。	#|
+authentication.pleaseSignIn=您必须先登录至学校账户，才能玩《Minecraft 教育版》。	#
+##您必须先登录至学校账户，才能玩 Minecraft: Education Edition。	#|您必须先登录至学校账户，才能玩 Minecraft: 教育版。
+authentication.unauthenticated=该帐户无法使用Minecraft教育版。	#
+##该帐户无法使用 Minecraft: Education Edition。	#|该帐户无法使用 Minecraft: 教育版。
+authentication.trialMessageTitle=Minecraft 教育版 免费试用	#
+##Minecraft: Education Edition 免费试用	#|Minecraft: 教育版 免费试用
+authentication.trialWelcome=欢迎！在您的学校需要购买许可之前，您有 %d 次Minecraft教育版 试用机会。每次打开Minecraft教育版，都会使用一次试用机会。请尽情享用！	#
+##欢迎！在您的学校需要购买许可之前，您有 %d 次 Minecraft: Education Edition 试用机会。每次打开 Minecraft: Education Edition，都会使用一次试用机会。请尽情享用！	#|欢迎！在您的学校需要购买许可之前，您有 %d 次 Minecraft: 教育版 试用机会。每次打开 Minecraft: 教育版，都会使用一次试用机会。请尽情享用！
+authentication.trialWarning=在此期间过后，您有 %d 次Minecraft教育版 试用机会。用完这些试用后，您的学校需要购买许可。谢谢！	#
+##在此期间过后，您有 %d 次 Minecraft: Education Edition 试用机会。用完这些试用后，您的学校需要购买许可。谢谢！	#|在此期间过后，您有 %d 次 Minecraft: 教育版 试用机会。用完这些试用后，您的学校需要购买许可。谢谢！
+authentication.trialEnded=您的Minecraft教育版 试用机会已用完。您的学校需要购买许可，您才能继续使用Minecraft教育版。谢谢！	#
+##您的 Minecraft: Education Edition 试用机会已用完。您的学校需要购买许可，您才能继续使用 Minecraft: Education Edition。谢谢！	#|您的 Minecraft: 教育版 试用机会已用完。您的学校需要购买许可，您才能继续使用 Minecraft: 教育版。谢谢！
+authentication.adalException=我们无法连接至您现在所需的服务。请检查您的网络连接，或者稍后重试。	#
+##我们无法连接到您当前所需的服务。请检查您的互联网连接，然后再试一次。	#|
+authentication.store.intro=您的《Minecraft 教育版》试用机会已用完。您需要购买许可，才能继续使用《Minecraft 教育版》。	#
+##您的 Minecraft: Education Edition 试用机会已用完。您需要购买许可，才能继续使用 Minecraft: Education Edition。	#|您的 Minecraft: 教育版 试用机会已用完。您需要购买许可，才能继续使用 Minecraft: 教育版。
+authentication.store.purchase.info2=购买之后您可以访问 iTunes 账户，管理您的订阅，关闭自动更新。如果您在订阅激活后取消，订阅剩余有效期间将不予退款。此订阅会让您的 iTunes 账户将与您的 Office 365 教育账户关联，因此您将失去资格，无法使用此 iTunes 账户购买额外的《Minecraft 教育版》许可。	#
+##购买之后您可以访问 iTunes 账户，管理您的订阅，关闭自动更新。如果您在订阅激活后取消，订阅剩余有效期间将不予退款。此订阅会让您的 iTunes 账户将与您的 Office 365 教育版账户关联，因此您将失去资格，无法使用此 iTunes 账户购买额外的 Minecraft: Education Edition 许可。	#|
+eula.intro=要使用Minecraft教育版，你必须接受最终用户许可协议。	#
+##要使用 Minecraft: Education Edition，你必须接受最终用户许可协议。	#|要使用 Minecraft: 教育版，你必须接受最终用户许可协议。
+chat.realmsFilterDisabled=此 Realms 已关闭聊天过滤。	#
+##此领域已关闭聊天过滤。	#|
+chat.type.sleeping=%s正在床上睡觉。若需要跳过夜晚，所有玩家必须同时在床上睡觉。	#
+##%s正在床上睡觉。要快进到黎明，需要所有玩家同时在床上睡觉。	#|
+codeScreen.editor.description.makeCode=MicrosoftMakeCode 借助《Minecraft》将计算机科学带入生活之中。	#
+##Microsoft MakeCode 借助《我的世界》将计算机科学带入生活之中。	#|
+codeScreen.resetWarning=您确定要重置代码生成器吗？所有未保存的工作将会丢失...	#
+##您确定要重置代码编辑器吗？所有未保存的工作将会丢失...	#|
+codeScreen.title=代码生成器	#
+##代码编辑器	#|
+commandBlockScreen.blockType.chain=连锁	#
+##链	#|
+commandBlockScreen.blockType.repeat=循环	#
+##重复	#|
+commandBlockScreen.redstone.needs_redstone=红石控制	#
+##需要红石	#|
+commandBlockScreen.redstone.always_on=保持开启	#
+##始终活动	#|
+commandBlockScreen.hoverNote=悬浮文本	#
+##悬停说明	#|
+commandBlockScreen.title=命令方块	#
+##命令块	#|
+commandBlock.genericName=命令方块	#
+##命令块	#|
+commands.closechat.success=关闭聊天	#
+##聊天已关闭	#|
+commands.code.description=启动代码生成器。	#
+##启动代码编辑器。	#|
+commands.code.success=已启动代码生成器。	#
+##已启动代码编辑器。	#|
+commands.generic.protocol.mismatch=所提供的协议版本与Minecraft协议版本不符	#
+##所提供的协议版本与《我的世界》协议版本不符	#|
+commands.kick.no.permissions=您没有使用此踢人命令的权限。	#
+##|
+commands.kill.description=击败实体（玩家、生物等）。	#
+##击杀实体（玩家、生物等）。	#|
+commands.mixer.error.notoken=您需要用Microsoft账户登录，才能打开 Mixer 交互。	#
+##您需要用 Microsoft 账户登录，才能打开 Mixer 交互。	#|
+commands.reload.success=现有功能文件已重新加载。重启《Minecraft》以重新加载新功能。	#
+##现有功能文件已重新加载。重启《我的世界》以重新加载新功能。	#|
+commands.save-on.alreadyOn=已打开世界保存。	#
+##已打开世界保存、	#|
+commands.scoreboard.description=跟踪并显示各种目标的分数							###
+##跟踪和显示各种目标的得分。							###|
+commands.scoreboard.players.offlinePlayerName=玩家下线	#
+##玩家离线	#|
+commands.scoreboard.players.remove.success=从 %3$s 的 [%2$s] 中移除 %1$d (当前为 %4$d)	#
+##已为 %3$s 从 [%2$s] 中移除 %1$d（现在为 %4$d）						###1: Score Value ##2: Objective Name ##3: Player Name ##4: New Score Value|
+commands.scoreboard.players.remove.multiple.success=从 %3$d 个实体的 [%2$s] 中移除 %1$d	#
+##已为 %3$s 项目从 [%2$s] 中移除 %1$d				###1: Score Value ##2: Objective Name ##3: Player Count|
+commands.scoreboard.players.set.multiple.success=将 %2$d 个实体的 [%1$s] 设为 %3$d	#
+##将 %2$d 的 [%1$s] 设定为 %3$d						###1: Objective Name ##2: Player Count ##3: Score Value|
+commands.setworldspawn.wrongDimension=不能在这个维度设置世界生成 	#
+##不能在这个维度设置世界生成	#|
+commands.spawnpoint.success.single=将 %1$s 的生成点设置为 (%2$d, %3$d, %4$d)	#
+##将 %1$s's 的生成点设置为 (%2$d, %3$d, %4$d)	#|
+commands.spreadplayers.failure.players=无法将 %1$s 个玩家传送至 %2$s,%3$s 周围（玩家数量过多 - 最大玩家数为 %4$s）	#
+##无法将 %1$s 个玩家扩散至 %2$s,%3$s 周围（玩家数量过多 - 最大玩家数为 %4$s）	#|
+commands.spreadplayers.failure.teams=无法将 %1$s 个队伍传送至 %2$s,%3$s 周围（玩家数量过多 - 最大队伍数为 %4$s）	#
+##无法将 %1$s 个队伍扩散至 %2$s,%3$s 周围（玩家数量过多 - 最大队伍数为 %4$s）	#|
+commands.spreadplayers.spreading.players=正在将 %1$s 个玩家传送至距离 %3$s,%4$s 周围 %2$s 个方块（最小距离 %5$s 个方块）	#
+##正在将 %1$s 个玩家扩散至距离 %3$s,%4$s 周围 %2$s 个方块（最小距离 %5$s 个方块）	#|
+commands.spreadplayers.spreading.teams=正在将 %1$s 个队伍传送至距离 %3$s,%4$s 周围 %2$s 个方块（最小距离 %5$s 个方块）	#
+##正在将 %1$s 个队伍扩散至距离 %3$s,%4$s 周围 %2$s 个方块（最小距离 %5$s 个方块）	#|
+commands.spreadplayers.success.players=已将 %1$s 个玩家成功传送至 %2$s,%3$s 周围	#
+##已将 %1$s 个玩家成功扩散至 %2$s,%3$s 周围	#|
+commands.spreadplayers.success.teams=已将 %1$s 个队伍成功传送至 %2$s,%3$s 周围	#
+##已将 %1$s 个队伍成功扩散至 %2$s,%3$s 周围	#|
+commands.tellraw.error.withNotArray=原始文本中的“with”域必须包含一个数组。示例："rawtext":[{"translate": "chat.type.announcement", "with": [ "value1", "value2" ]}]	#
+##|
+commands.tickingarea-list.chunks=区块	### 代表着世界中的一个区块
+##区块	### Meaning a chunk of the world.|
+commands.tickingarea-list.to=到		### 使用的语境是"from position to other position"
+##到		### Used in the context of "from position to other position"|
+commands.trigger.disabled=触发器 %1$s 没有启用	#
+##触发因子 %1$s 没有启用	#|
+commands.trigger.invalidObjective=触发器名称 %1$s 无效	#
+##触发因子名称 %1$s 无效	#|
+commands.trigger.success=触发器 %1$s 已随 %2$s %3$s 改变	#
+##触发因子 %1$s 已随 %2$s %3$s 改变	#|
+commands.videostream.description=尝试连接到 WebSocket 服务器以发送视频流。	#
+##|
+commands.videostreamaction.description=执行与视频流相关的操作。	#
+##|
+commands.worldbuilder.description=切换世界建造者状态。	#
+##切换世界建造者调用方状态。	#|
+container.repair.cost=经验值花费：%1$d	#
+##魔咒花费：%1$s	#|
+controller.buttonTip.select.slot=选择储存槽	#
+##选择转移存档槽	#|
+controller.buttonTip.clearHotbar=清除快捷栏	#
+##清除热键	#|
+controllerLayoutScreen.unassigned=未指定	#
+##未指派	#|
+createWorld.customize.custom.riverSize=河流尺寸	#
+##河的规模	#|
+createWorld.customize.flat.title=超平坦自定义	#
+##平地个性化	#|
+createWorldUpsell.title=创建新世界或 Realms ？	#
+##创建新世界或领域？	#|
+createWorldUpsell.title.realm=创建新 Realms 	#
+##创建新领域	#|
+createWorldUpsell.button.realm=新 Realms 	#
+##新领域	#|
+createWorldUpsell.realm.sellPoint2=已在线保存：在任何带有《Minecraft》市场的设备上玩《Minecraft》	#
+##已在线保存：在任何带有《我的世界》市场的设备上玩《我的世界》	#|
+createWorldUpsell.signIn=用Microsoft账户创建 Realms 	#
+##用 Microsoft 账户创建领域	#|
+createWorldScreen.action.realmsReset=重置 Realms 	#
+##重置领域	#|
+createWorldScreen.pvp=玩家间伤害	#
+##误伤	#|
+createWorldScreen.immediaterespawn=死亡后立即复活	#
+##立即重生	#|
+createWorldScreen.tileDrops=方块掉落	#
+##区块掉落	#|
+createWorldScreen.educationtoggle=教育版	#
+##Education Edition	#|
+createWorldScreen.commandblocksenabled=启用命令方块	#
+##命令方块已开启	#|
+createWorldScreen.defaultName=Minecraft	#
+##我的世界	#|
+createWorldScreen.gameMode.adventure=冒险模式	#
+##冒险	#|
+createWorldScreen.gameMode.creative=创造模式	#
+##创造	#|
+createWorldScreen.gameMode.survival=生存模式	#
+##生存	#|
+createWorldScreen.header.realms=创建一个 Realms 服务器	#
+##创建一个领域服务器	#|
+createWorldScreen.header.realmsReset=重置你的 Realms ？	#
+##重置你的领域？	#|
+createWorldScreen.progress.realms=正在重置 Realms ……	#
+##正在重置领域……	#|
+createWorldScreen.check_internet_connection=您未连接到互联网。您的好友将无法加入您的多人游戏世界。登录至您的Microsoft账户，与您的好友同玩。	#
+##您未连接到互联网。您的好友将无法加入您的多人游戏世界。登录至您的 Microsoft 账户，与您的好友同玩。	#|
+createWorldScreen.disconnectedXboxLive=您未连接到Microsoft服务。您的拥有玩家代号的好友将无法加入您的多人游戏世界。登录至您的Microsoft账户，与您的好友同玩。	#
+##您未连接到 Microsoft 服务。您的拥有玩家代号的好友将无法加入您的多人游戏世界。登录至您的 Microsoft 账户，与您的好友同玩。	#|
+crossPlatformToggle.startMenuScreen.enable.line2=跨平台游戏能够让您连接其他平台上的好友并与他们一起玩！	#
+##跨平台游戏能够让您连接其他平台上的朋友并与他们一起玩！	#|
+crossPlatformToggle.crossPlatformDisabled.friends=在主菜单中启用跨平台游戏，您将能够加入 Realm、局域网游戏，并与您所有的《Minecraft》好友一起玩。	#
+##在主菜单中启用跨平台游戏，您将能够加入 Realm、局域网游戏，并与您所有的《我的世界》好友一起玩。	#|
+realmsPendingInvitationsScreen.pendingInvitations=新 Realms 成员身份	#
+##新领域成员身份	#|
+realmsInvitationScreen.sendingInvitesFailed=出错了。我们无法将你所选的玩家添加到你的 Realms 。请稍后再试。	#
+##出错了。我们无法将你所选的玩家添加到你的领域。请稍后再试。	#|
+realmsInvitationScreen.myRealm=我的 Realms 	#
+##我的领域	#|
+realmsInvitationScreen.shareTitle= Realms 邀请	#
+##领域邀请	#|
+realmsInvitationScreen.shareText=在这个 Realms 中加入我吧！	#
+##在这个领域中加入我吧！	#|
+realmsInvitationScreen.refreshDialogLabel=这将禁用当前链接并生成一个新链接。已成为成员的任何人仍能够加入您的 Realms 。	#
+##这将禁用当前链接并生成一个新链接。已成为成员的任何人仍能够加入您的领域。	#|
+realmsInvitationScreen.createLinkDialogTitle=生成 Realms 链接？	#
+##生成领域链接？	#|
+realmsInvitationScreen.createLinkDialogLabel=打开此链接的任何人都将成为您的 Realms 成员。您可以通过生成一个新链接来停用某个链接。	#
+##打开此链接的任何人都将成为您的领域成员。您可以通过生成一个新链接来停用某个链接。	#|
+realmsInvitationScreen.shareDialogLabel=具有此链接的任何人都可以成为您的 Realms 成员。慎重选择要分享的人员。您可能希望首先下载您的世界的备份。您可以从 Realms 设置中删除成员。	#
+##具有此链接的任何人都可以成为您的领域成员。慎重选择要分享的人员。您可能希望首先下载您的世界的备份。您可以从领域设置中删除成员。	#|
+realmsInvitationScreen.closedRealmWarning=您的 Realms 处于关闭状态。成员无法加入。	#
+##您的领域处于关闭状态。成员无法加入。	#|
+realmsInvitationScreen.shareLinkToRealm=分享指向 Realms 的链接	#
+##分享指向领域的链接	#|
+realmsInvitationScreen.shareInfoMessage=具有该链接的任何人都可以加入您的 Realms 。转到“游戏”>“下载世界”即可下载您的世界的备份。	#
+##具有该链接的任何人都可以加入您的领域。转到“游戏”>“下载世界”即可下载您的世界的备份。	#|
+realmsInvitationScreen.copyToastMessage=您的 Realms 链接已复制到剪贴板！	#
+##您的领域链接已复制到剪贴板！	#|
+realmJoining.progressTitle=正在加入 Realms …	#
+##正在加入领域…	#|
+realmsClearMembers.clearMembersText=您想要清除该 Realms 的成员列表吗？	#
+##您想要清除该领域的成员列表吗？	#|
+realmsSharingScreen.joinTitle=加入 Realms ？	#
+##加入领域？	#|
+realmsSharingScreen.joinMessage=加入 %s  Realms ？	#
+##加入 %s 领域？	#|
+realmsSharingScreen.badInviteTitle=无效的 Realms 链接	#
+##无效的领域链接	#|
+realmsSharingScreen.badInviteMessage=找不到此邀请链接，此 Realms 的所有者可能修改了链接。去要一个更新后的链接吧。	#
+##找不到此邀请链接，此领域的所有者可能修改了链接。去要一个更新后的链接吧。	#|
+realmsSharingScreen.cantJoinExpiredTitle=%s 的 Realms 已过期	#
+##%s 的领域已过期	#|
+realmsSharingScreen.cantJoinClosedTitle=%s 已关闭此 Realms 	#
+##%s 已关闭此领域	#|
+realmsSharingScreen.failedSignInModalTitle=登录以加入此 Realms 	#
+##登录以加入此领域	#|
+realmsSharingScreen.failedSignInModalMessage=您需要用Microsoft账户登录，才能加入 Realm。请登录，然后重试。	#
+##您需要用 Microsoft 账户登录，才能加入 Realm。请登录，然后重试。	#|
+realmsCreateScreen.title.extend=延长你的 Realms 	#
+##延长你的领域	#|
+realmsCreateScreen.title.renew=更新你的 Realms 	#
+##更新你的领域	#|
+realmsCreateScreen.defaultRealm=%s的 Realms 	#
+##%s的领域	#|
+realmsCreateScreen.creatingRealm=正在创建 Realms ……	#
+##正在创建领域……	#|
+realmsCreateScreen.nameHeader.name= Realms 名称	#
+##领域名称	#|
+realmsCreateScreen.nameHeader.rename=重命名 Realms ？	#
+##重命名领域？	#|
+realmsCreateScreen.errorRealmName=你的 Realms 名称不能为空。	#
+##你的领域名称不能为空。	#|
+realmsCreateScreen.errorRealmNameAndTOS=你的 Realms 名称不能为空，而且你必须接受服务条款才能创建 Realms 。	#
+##你的领域名称不能为空，而且你必须接受服务条款才能创建领域。	#|
+realmsCreateScreen.errorTOS=必须接受条款和条件才能创建 Realms 。	#
+##必须接受条款和条件才能创建领域。	#|
+realmsCreateScreen.goBack=回到商店	#
+##返回	#|
+realmsCreateScreen.createFailed.content=购买成功，但现在无法创建您的 Realms 。我们会尽快创建您的 Realms 。请稍后在此设备上查看。	#
+##购买成功，但现在无法创建您的领域。我们会尽快创建您的领域。请稍后在此设备上查看。	#|
+realmsCreateScreen.createFailed.profanity=不允许 Realms 名称 %s。	#
+##不允许领域名称 %s。	#|
+realmsCreateScreen.extendRealms.title= Realms 订阅已满	#
+##领域订阅已满	#|
+realmsCreateScreen.extendRealms.content=你已经尽可能延长你的 Realms 订阅，现在无法增加额外时间。请稍后再试。	#
+##你已经尽可能延长你的领域订阅，现在无法增加额外时间。请稍后再试。	#|
+realmsCreateScreen.viewTOS=要查看MinecraftRealms 的条款和条件，请在任意网络浏览器中访问 https://aka.ms/minecraftrealmsterms。	#
+##要查看 Minecraft Realms 的条款和条件，请在任意网络浏览器中访问 https://aka.ms/minecraftrealmsterms。	#|
+realmsCreateScreen.viewPrivacyPolicyText=要查看MinecraftRealms 的隐私政策，请在任意网络浏览器中访问 https://aka.ms/mcprivacy。	#
+##要查看 Minecraft Realms 的隐私政策，请在任意网络浏览器中访问 https://aka.ms/mcprivacy。	#|
+realmsCreateScreen.paymentFailed.body=目前无法连接 Realms ，不能完成购买。请稍后再试。	#
+##目前无法连接领域，不能完成购买。请稍后再试。	#|
+realmsCreateScreen.incomplete=不完整 Realms 	#
+##不完整领域	#|
+realmsCreateScreen.incomplete.create.a=看来我们上次并没有完成。现在我们来完成创建你的 Realms 吧。	#
+##看来我们上次并没有完成。现在我们来完成创建你的领域吧。	#|
+realmsCreateScreen.incomplete.create.b=看来您用了其他Microsoft账户开始创建 Realm。是否要用这个Microsoft账户作为所有人，完成创建该 Realm？	#
+##看来您用了其他 Microsoft 账户开始创建 Realm。是否要用这个 Microsoft 账户作为所有人，完成创建该 Realm？	#|
+realmsCreateScreen.incomplete.create.c=有人用此设备上的计费账户开始了创建 Realm。您是否要用这个Microsoft账户作为所有人，完成创建该 Realm？	#
+##有人用此设备上的计费账户开始了创建 Realm。您是否要用这个 Microsoft 账户作为所有人，完成创建该 Realm？	#|
+realmsCreateScreen.incomplete.renew.a=看来我们上次并没有完成。现在我们来完成更新你的 Realms 吧。	#
+##看来我们上次并没有完成。现在我们来完成更新你的领域吧。	#|
+realmsCreateScreen.incomplete.renew.b=看来您用了其他Microsoft账户开始更新 Realm。是否要用这个账户作为所有人，完成更新该 Realm？	#
+##看来您用了其他 Microsoft 账户开始更新 Realm。是否要用这个账户作为所有人，完成更新该 Realm？	#|
+realmsCreateScreen.incomplete.renew.c=有人用此设备上的计费账户开始了更新 Realm。您是否要用这个Microsoft账户作为所有人，完成更新该 Realm？	#
+##有人用此设备上的计费账户开始了更新 Realm。您是否要用这个 Microsoft 账户作为所有人，完成更新该 Realm？	#|
+realmsCreateScreen.incomplete.override.renew=你正在尝试创建新 Realms ，但我们发现你此前有更新 Realms 的购买记录。是否要现在应用此购买？	#
+##你正在尝试创建新领域，但我们发现你此前有更新领域的购买记录。是否要现在应用此购买？	#|
+realmsCreateScreen.incomplete.override.create=你正在尝试更新 Realms ，但我们发现你此前有创建 Realms 的购买记录。是否要现在应用此购买？	#
+##你正在尝试更新领域，但我们发现你此前有创建领域的购买记录。是否要现在应用此购买？	#|
+realmsCreateScreen.incomplete.override.realm=你正在尝试更新 Realms ，但我们发现你此前有创建其他 Realms 的购买记录。是否要现在应用此购买？	#
+##你正在尝试更新领域，但我们发现你此前有创建其他领域的购买记录。是否要现在应用此购买？	#|
+realmsCreateScreen.prepare.store.title=商店	#
+##需要购买历史记录	#|
+realmsCreateScreen.title=创建 Realms 	#
+##创建领域	#|
+realmsCreateScreen.nameHeader= Realms 名称	#
+##领域名称	#|
+realmsCreateScreen.chooseWorld=创建 Realms ：选择世界	#
+##创建领域：选择世界	#|
+realmsConfigurationScreen.realmName= Realms 名称	#
+##领域名称	#|
+realmsConfigurationScreen.realmDescription= Realms 描述	#
+##领域描述	#|
+realmsConfigurationScreen.open=打开 Realms 	#
+##打开领域	#|
+realmsConfigurationScreen.close=关闭 Realms 	#
+##关闭领域	#|
+realmsConfigurationScreen.resetRealm=重置 Realms 会永远清除世界并重头开始。你确定要这样做吗？	#
+##重置领域会永远清除世界并重头开始。你确定要这样做吗？	#|
+realmsConfigurationScreen.resetRealmTryAgain=重置 Realms 失败。是否要重试？	#
+##重置领域失败。是否要重试？	#|
+realmsConfigurationScreen.failedOpenClose=打开/关闭 Realms 失败。是否要重试？	#
+##打开/关闭领域失败。是否要重试？	#|
+realmsWorld.notAvailable=你的设备不支持Minecraft Realms 。	#
+##你的设备不支持 Minecraft Realms。	#|
+realmsWorld.realmsDescription= Realms 是Minecraft里的私人世界，可供你和你的好友随时游玩。	#
+##领域是《我的世界》里的私人世界，可供你和你的好友随时游玩。	#|
+realmsWorld.realmsDescription.paragraph2=即使 Realms 的主人离线，您仍然可以进入该 Realms 并使用任何运行Minecraft的设备玩游戏！	#
+##即使领域的主人离线，您仍然可以进入该领域并使用任何运行《我的世界》的设备玩游戏！	#|
+realmsWorld.realmsDescription.paragraph3=今天就开始探索你的 Realms ！	#
+##今天就开始探索你的领域！	#|
+realmsWorld.realmsDescription.Beta.line1= Realms 是种简单安全的方法，能与好友分享Minecraft中的世界，但在使用Minecraft测试版时无法使用。	#
+##领域是种简单安全的方法，能与好友分享《我的世界》 中的世界，但在使用《我的世界》测试版时无法使用。	#|
+realmsWorld.realmsDescription.Beta.line2=如果您想停止使用测试版，并获得进入 Realms 的权限，请点击下方查看说明。	#
+##如果您想停止使用测试版，并获得进入领域的权限，请点击下方查看说明。	#|
+realmsWorld.newRealm=新 Realms 	#
+##新领域	#|
+realmsWorld.newRealmTrial=开始 30 天免费试玩%s（第一月后，每月%s）	#
+##开始 30 天免费试玩儿%s（第一月后，每月%s）	#|
+network.onlinePlay.instruction=通过“游戏”菜单，您可以加入好友的世界，也可以邀请他们加入您的世界和 Realms 。	#
+##通过“游戏”菜单，您可以加入好友的世界，也可以邀请他们加入您的世界和领域。	#|
+network.thirdparty.findfriends.failed=我们无法连接到Microsoft账户服务。也许检查一下您的网络连接？	#
+##我们无法连接到 Microsoft 账户服务。也许检查一下您的网络连接？	#|
+networkWorld.no_joinable_friends_label=你的好友现在没在玩 Minecraft。	#
+##你的好友现在没在玩《我的世界》。	#|
+networkWorld.connect_to_xbl=用Microsoft账户登录，与好友畅玩。	#
+##用 Microsoft 账户登录，与好友畅玩。	#|
+networkWorld.memberOfTooManyRealms=您的 Realms 会员已经到达了上限。	#
+##您的领域会员已经到达了上限。	#|
+networkWorld.multiplayerPrivilegesBlocked=由于您Microsoft账户的设置问题，您无法进行在线多人游戏。在 aka.ms/accountsettings 查看并更改您的隐私设置。	#
+##由于您 Microsoft 账户的设置问题，您无法进行在线多人游戏。请前往 aka.ms/MCMultiplayerHelp 查看如何检查并更改您的隐私设置。	#|
+networkWorld.joinByCode=加入 Realms 	#
+##加入领域	#|
+networkWold.joinByCodeHelpText=如果您已收到 Realms 邀请链接，输入代码即可加入。	#
+##如果您已收到领域邀请链接，输入代码即可加入。	#|
+realmsSettingsScreen.renewRealmButton=更新 Realms 	#
+##更新领域	#|
+realmsSettingsScreen.extendRealmButton=延长 Realms 	#
+##延长领域	#|
+realmsSettingsScreen.deleteRealmButton=删除 Realms 	#
+##删除领域	#|
+realmsSettingsScreen.openRealmButton=打开 Realms 	#
+##打开领域	#|
+realmsSettingsScreen.closeRealmButton=关闭 Realms 	#
+##关闭领域	#|
+realmsSettingsScreen.playDisabledRealmButton= Realms 已关闭	#
+##领域已关闭	#|
+realmsSettingsScreen.playExpiredRealmButton= Realms 已过期	#
+##领域已过期	#|
+realmsSettingsScreen.selectorSectionLabelRealm= Realms 	#
+##领域	#|
+realmsSettingsScreen.backupInfo=你可以用该列表中的一项备份来替换你 Realms 上的世界。	#
+##您可以用该列表中的一项备份来替换您 Realm 上的世界。	#|
+realmsSettingsScreen.deleteRealm=删除 Realms 	#
+##删除领域	#|
+realmsSettingsScreen.deleteRealmToast= Realms  %s 已删除。	#
+##领域 %s 已删除。	#|
+realmsSettingsScreen.deleteRealmFailToast=无法删除 Realms  %s。	#
+##无法删除领域 %s。	#|
+realmsSettingsScreen.deleteRealmModalText=您的 Realms 将被永久性删除。您将无法访问您的世界，您的会员列表或俱乐部。	#
+##您的领域将被永久性删除。您将无法访问您的世界，您的会员列表或俱乐部。	#|
+realmsSettingsScreen.backupModalText=通过用该备份替换你的 Realms ，你会删除你 Realms 的所有最新进展。 Realms 将会重启，并且所有活跃玩家将需要重新连接。	#
+##通过用该备份替换你的领域，你会删除你领域的所有最新进展。领域将会重启，并且所有活跃玩家将需要重新连接。	#|
+realmsSettingsScreen.replaceWithBackup=用备份替换 Realms 	#
+##用备份替换领域	#|
+realmsSettingsScreen.backupInProgress=正在用备份替换 Realms 世界	#
+##正在用备份替换领域世界	#|
+realmsSettingsScreen.realmNameLabel= Realms 名称	#
+##领域名称	#|
+realmsSettingsScreen.realmNameEditPlaceholder=输入 Realms 名称	#
+##输入领域名称	#|
+realmsSettingsScreen.realmDescriptionEditPlaceholder=输入 Realms 描述	#
+##输入领域描述	#|
+realmsSettingsScreen.replaceLoadingText=我们正在用一份备份替换你的 Realms 。	#
+##我们正在用一份备份替换你的领域。	#|
+realmsSettingsScreen.maxPlayersLabelFormat=%d 名成员	#
+##%d 位好友	#|
+realmsSettingsScreen.subscriptionLabelFormat=每隔 %d 天更新	#
+##每 %d 天更新一次	#|
+realmsSettingsScreen.fetchingWorldInfo=正在提取 Realms 信息……	#
+##正在提取领域信息……	#|
+realmsSettingsScreen.updatingWorldInfo=正在更新 Realms 信息……	#
+##正在更新领域信息……	#|
+realmsSettingsScreen.resettingRealm=正在重置 Realms ……	#
+##正在重置领域……	#|
+realmsSettingsScreen.openingRealm=正在打开 Realms ……	#
+##正在打开领域……	#|
+realmsSettingsScreen.closingRealm=正在关闭 Realms ……	#
+##正在关闭领域……	#|
+realmsSettingsScreen.realmInfoError=撷取 Realms 信息失败。请稍后重试。	#
+##撷取领域信息失败。请稍后重试。	#|
+realmsSettingsScreen.realmJoinError=尝试加入 Realms 失败。请稍后重试。	#
+##尝试加入领域失败。请稍后重试。	#|
+realmsSettingsScreen.realmResetError=重置 Realms 失败。请稍后重试。	#
+##重置领域失败。请稍后重试。	#|
+realmsSettingsScreen.realmOpenError=打开 Realms 失败。	#
+##打开领域失败。	#|
+realmsSettingsScreen.realmCloseError=关闭 Realms 失败。	#
+##关闭领域失败。	#|
+realmsSettingsScreen.closeRealmTitle=关闭 Realms ？	#
+##关闭领域？	#|
+realmsSettingsScreen.closeRealmMessage=关闭 Realms 会将其关闭。目前在此 Realms 上游戏的任何人都会断开连接。你确定要这样做吗？	#
+##关闭领域会将其关闭。目前在此领域上游戏的任何人都会断开连接。你确定要这样做吗？	#|
+realmsSettingsScreen.nonMatchingPurchasePlatformGeneric=您可以在您最初购买 Realms 订阅的平台商店中对其进行管理。	#
+##您可以在您最初购买领域订阅的平台商店中对其进行管理。	#|
+realmsSettingsScreen.extendingRealm=正在延长 Realms ……	#
+##正在延长领域……	#|
+realmsSettingsScreen.dev_branch_label= Realms 应当运行在哪一种提交上？	#
+##领域应当运行在哪一种提交上？	#|
+realmsSettingsScreen.uploadConfirmationMessage=本操作将从你的 Realms 中移除当前的世界，并允许你替换上一个新的世界。你 Realms 的成员将无法再进入当前的世界。想要继续吗？	#
+##本操作将从你的领域中移除当前的世界，并允许你替换上一个新的世界。你领域的成员将无法再进入当前的世界。想要继续吗？	#|
+xblLogin.LoginMessageTitle=Microsoft账户	#
+##Microsoft 账户	#|
+xbl.savePurchase.description.line1=想要从任何设备玩购买的游戏？用Microsoft账号登录，即可通过玩《Minecraft》的任何设备，访问您的 Minecoin、皮肤、材质包、地图和混搭包。	#
+##想要从任何启用了《我的世界》商店的系统玩购买的任何内容？用免费的 Microsoft 账号登录，并同步您已购买的皮肤、材质、地图和混搭包，即可使用它们并在《我的世界》中畅玩。	#|
+xbl.savePurchase.description.line2=如果设备丢失或卸载《Minecraft》，该设备上保留的购买项可能会丢失。	#
+##如果您丢失了您的系统或卸载了《我的世界》，当您使用 Microsoft 账户时，您的购买仍然会被同步并可在任何系统上访问。	#|
+xbl.savePurchase.title=保存购买至Microsoft账户？	#
+##保存购买至 Microsoft 账户？	#|
+xbl.savePurchase.saveButton=保存至Microsoft账户	#
+##保存至 Microsoft 账户	#|
+xbl.savePurchase.toast.message=购买已同步至Microsoft帐户！	#
+##购买已同步至 Microsoft 帐户！	#|
+xbl.savePurchase.inProgress.message=正在传输购买至Microsoft账户...	#
+##正在传输购买至 Microsoft 账户...	#|
+xbl.syncIAP.title=将购买同步至您的Microsoft帐户？	#
+##将购买同步至您的 Microsoft 帐户？	#|
+xbl.syncIAP.description=登录Microsoft账户，即可同步您的皮肤、材质包、世界和混搭包。在您畅玩《Minecraft》的任何设备上都可获得它们。	#
+##登录 Microsoft 账户，即可同步您的皮肤、材质包、世界和混搭包。在您畅玩《我的世界》的任何设备上都可获得它们。	#|
+xbl.syncIAP.toast.message=购买已同步至您的Microsoft帐户！	#
+##购买已同步至您的 Microsoft 帐户！	#|
+xbl.syncIAP.inProgress.message=正在同步购买至您的Microsoft账户...	#
+##正在同步购买至您的 Microsoft 账户...	#|
+xbl.syncIAP.skipSignIn.prompt.description=如果您未将此设备的购买同步到此Microsoft账户，该账户将不是这台设备的主帐户。当您启动《Minecraft》时，将不会自动登录。	#
+##如果您未将此设备的购买同步到此 Microsoft 账户，该账户将不是这台设备的主帐户。当您启动《我的世界》时，将不会自动登录。	#|
+xbl.syncIAP.confirmSync.prompt.description.line2=您只能对《Minecraft》市场之外购买的包进行一次同步。任何在这台设备上进行游戏的玩家可以继续使用它们。	#
+##您只能对《我的世界》市场之外购买的包进行一次同步。任何在这台设备上进行游戏的玩家可以继续使用它们。	#|
+store.sign_in_warning.no_xbl_and_local_content=重要提示！您所购买的包和/或 Minecoin 只能在此设备上使用，并且可能会由于设备故障、丢失或卸载《Minecraft》而丢失！使用Microsoft帐户（免费）登录并将您的包权利和 Minecoin 转移到该帐户，以便在您登录的任何设备上保护和使用它们。	#
+##重要提示！您所购买的包和/或 Minecoin 只能在此设备上使用，并且可能会由于设备故障、丢失或卸载《我的世界》而丢失！使用 Microsoft 帐户（免费）登录并将您的包权利和 Minecoin 转移到该帐户，以便在您登录的任何设备上保护和使用它们。	#|
+store.sign_in_warning.no_xbl_and_no_local_content.line1=重要提示！购买的包只能在此设备上使用，并且可能会由于设备故障、丢失或卸载《Minecraft》而丢失！	#
+##重要提示！购买的包只能在此设备上使用，并且可能会由于设备故障、丢失或卸载《我的世界》而丢失！	#|
+store.sign_in_warning.no_xbl_and_no_local_content.line2=使用Microsoft帐户（免费）登录并将您的包权利转移到该帐户，以保护您所购买的包和 Minecoin。	#
+##使用 Microsoft 帐户（免费）登录并将您的包权利转移到该帐户，以保护您所购买的包和 Minecoin。	#|
+store.sign_in_warning.no_xbl_and_no_local_content.line3=另外，您可以在任何用于玩《Minecraft》的设备上使用它们!	#
+##另外，您可以在任何用于玩《我的世界》的设备上使用它们!	#|
+xbl.skipSignIn.prompt.description=如果您未将此设备的购买传输到此Microsoft帐户，该帐户将不是这台设备的主帐户。当您启动《Minecraft》时，将不会自动登录。	#
+##如果您未将此设备的购买传输到此 Microsoft 帐户，该帐户将不是这台设备的主帐户。当您启动《我的世界》时，将不会自动登录。	#|
+xbl.signOut.title=Microsoft账户购买！	#
+##Microsoft 账户购买！	#|
+xbl.signOut.message1=从您的Microsoft账户注销后，您将无法访问已在商店中购买的 Minecoin 和物品。	#
+##从您的 Microsoft 账户注销后，您将无法访问已在商店中购买的 Minecoin 和物品。	#|
+dayOneExperience.carousel.title=欢迎来到全新的《Minecraft》！	#
+##欢迎来到全新的《我的世界》！	#|
+dayOneExperience.carousel.welcome_text=新版本的《Minecraft》中有很多令人兴奋的新内容！查看市场，创建一个 Realm，并与跨平台好友一起在线玩！	#
+##新版本的《我的世界》中有很多令人兴奋的新内容！查看市场，创建一个 Realm，并与跨平台好友一起在线玩！	#|
+dayOneExperience.carousel.marketplace=在《Minecraft》市场中可以找到由各位才华横溢的创作者创作的新皮肤、世界、材质和混搭包。	#
+##在《我的世界》市场中可以找到由各位才华横溢的创作者创作的新皮肤、世界、材质和混搭包。	#|
+dayOneExperience.carousel.cross_platform=跨平台玩法将您与不同平台上的玩家连系在一起。登录您的Microsoft账户，与您所有的《Minecraft》好友一起玩！	#
+##跨平台玩法能够让您与不同平台上的玩家连系在一起。登录您的 Microsoft 账户，与您所有的《我的世界》好友一起玩！	#|
+dayOneExperience.carousel.realms=Realm 即由我们专为您和您的好友运行的服务器。它能够在您本人已经下线的情况下，保持您的《Minecraft》的世界始终在线并且始终能够进入。	#
+##Realm 即由我们专为您和您的好友运行的服务器。它能够在您本人已经下线的情况下，保持您的《我的世界》的世界始终在线并且始终能够进入。	#|
+dayOneExperience.carousel.villager=只有在新的《Minecraft》中，您才能够接收未来包含了新的功能、生物、物品、方块等内容的更新！	#
+##只有在新的《我的世界》中，您才能够接收未来包含了新的功能、生物、物品、方块等内容的更新！	#|
+dayOneExperience.intro_title=《Minecraft》已更新！	#
+##《我的世界》已更新！	#|
+dayOneExperience.intro_body_2=是否要导入您之前版本的《Minecraft》存档、设置和内容？	#
+##是否要导入您之前版本的《我的世界》存档、设置和内容？	#|
+dayOneExperience.intro_welcome_1=您已更新至最新版本的《Minecraft》！	#
+##您已更新至最新版本的《我的世界》！	#|
+dayOneExperience.intro_welcome_2=如果您想回到之前版本的《Minecraft》，您可以在主菜单中找到它	#
+##如果您想回到之前版本的《我的世界》，您可以在主菜单中找到它	#|
+dayOneExperience.editions_launch_warning=这不是最新版本的《Minecraft》，确定要启动以前版本的《Minecraft》？	#
+##这不是最新版本的《我的世界》，确定要启动以前版本的《我的世界》？	#|
+dayOneExperience.skin_tip=您可以通过选择主菜单上的衣架图标来更改您的皮肤:	#
+##您可以通过选择主菜单上的个人资料按钮来更改您的皮肤。	#|
+death.attack.arrow=%1$s 被 %2$s 击败	#
+##%1$s 被 %2$s 射杀	#|
+death.attack.arrow.item=%1$s 被 %2$s 用 %3$s 击败	#
+##%1$s 被 %2$s 用 %3$s 射杀	#|
+death.attack.cactus=%1$s 被击败了	#
+##%1$s 被戳死了	#|
+death.attack.drown=%1$s 溺水了	#
+##%1$s 淹死了	#|
+death.attack.drown.player=%1$s 在试图逃离 %2$s 时溺水了	#
+##%1$s 在试图逃离 %2$s 时淹死了	#|
+death.attack.explosion.player=%1$s 被 %2$s 击败了	#
+##%1$s 被 %2$s 炸死了	#|
+death.attack.fireball=%1$s 被 %2$s 用火球烤熟了	#
+##%1$s 被 %2$s 用火球烤死了	#|
+death.attack.fireball.item=%1$s 被 %2$s 用 %3$s 发射的火球烤熟了	#
+##%1$s 被 %2$s 用 %3$s 发射的火球烤死了	#|
+death.attack.generic=%1$s 失败了	#
+##%1$s 死了	#|
+death.attack.indirectMagic=%1$s 被 %2$s 使用的魔法击败了	#
+##%1$s 被 %2$s 使用的魔法杀死了	#|
+death.attack.indirectMagic.item=%1$s 被 %2$s 用 %3$s 击败了	#
+##%1$s 被 %2$s 用 %3$s 杀死了	#|
+death.attack.magic=%1$s 被魔法击败了	#
+##%1$s 被魔法杀死了	#|
+death.attack.mob=%1$s 被 %2$s 击败了	#
+##%1$s 被 %2$s 杀死了	#|
+death.attack.onFire=%1$s 被烤熟了	#
+##%1$s 被烧死了	#|
+death.attack.player=%1$s 被 %2$s 击败了	#
+##%1$s 被 %2$s 杀死了	#|
+death.attack.player.item=%1$s 被 %2$s 用 %3$s 击败了	#
+##%1$s 被 %2$s 用 %3$s 杀死了	#|
+death.attack.starve=%1$s 饿得眼前一黑	#
+##%1$s 饿死了	#|
+death.attack.thorns=%1$s 在试图伤害 %2$s 时被击败	#
+##%1$s 在试图伤害 %2$s 时被杀	#|
+death.attack.thrown=%1$s 被 %2$s 给砸扁了	#
+##%1$s 被 %2$s 给砸死了	#|
+death.attack.thrown.item=%1$s 被 %2$s 用 %3$s 给砸扁了	#
+##%1$s 被 %2$s 用 %3$s 给砸死了	#|
+death.fell.assist=%1$s 因为 %2$s 注定要摔落	#
+##%1$s 因为 %2$s 注定要摔死	#|
+death.fell.assist.item=%1$s 因为 %2$s 使用了 %3$s 注定要摔落	#
+##%1$s 因为 %2$s 使用了 %3$s 注定要摔死	#|
+death.fell.killer=%1$s 注定要摔落	#
+##%1$s 注定要摔死	#|
+deathScreen.respawn=再次挑战	#
+##重生	#|
+demo.help.title=Minecraft试玩模式	#
+##《我的世界》试玩模式	#|
+dimension.dimensionName1=下界	#
+##地狱	#|
+disconnect.downloadPack=从服务器下载安装包并应用时出错	#
+##从服务器下载安装包并应用时出错。请重试。	#|
+disconnectionScreen.cantConnectToRealm=无法连接至 Realms 。	#
+##无法连接至领域。	#|
+disconnectionScreen.cantConnectToRealms=无法连接至 Realms 。	#
+##无法连接至领域。	#|
+disconnectionScreen.crossPlatformDisabled=在主菜单中启用跨平台游戏功能，以便与其他平台上的好友连接。若要与其他好友在线玩而不进行跨平台游戏，游戏主机还必须通过主菜单禁用跨平台游戏。	#
+##在主菜单中启用跨平台游戏以与其他平台上的好友连接。若要与其他好友在线玩而不进行跨平台游戏，游戏主机还必须通过主菜单禁用跨平台游戏。	#|
+disconnectionScreen.incompatibleRealm=你的客户端不兼容或已过期。请更新客户端，连接至 Realms 。	#
+##你的客户端不兼容或已过期。请更新客户端，连接至领域。	#|
+disconnectionScreen.realmsAlphaEndedTitle=测试 Realms Alpha已结束。感谢你的帮助！	#
+##测试领域Alpha已结束。感谢你的帮助！	#|
+disconnectionScreen.realmsAlphaEndedMessage= Realms 目前不提供。	#
+##领域目前不提供。	#|
+disconnectionScreen.disconnected=服务器断开连接	#
+##正在从服务器断开连接	#|
+disconnectionScreen.editionMismatch=此等级从Minecraft教育版 保存，无法加载。	#
+##此等级从 Minecraft: Education Edition 保存，无法加载。	#|此等级从 Minecraft: 教育版 保存，无法加载。	#
+disconnectionScreen.editionMismatchEduToVanilla=服务器没有运行Minecraft 教育版。连接失败。	#
+##服务器没有运行 Minecraft: Education Edition。连接失败。	#|服务器没有运行 Minecraft: 教育版。连接失败。	#
+disconnectionScreen.editionMismatchVanillaToEdu=服务器正在运行不兼容版本的《Minecraft》。连接失败。	#
+##服务器正在运行不兼容版本的《我的世界》。连接失败。	#|服务器正在运行不兼容版本的《我的世界》。连接失败。	#
+disconnectionScreen.editionVersionMismatch.body=您所选择的世界不能在此版本的《Minecraft 教育版》中打开。	#
+##您所选择的世界不能在此版本的 Minecraft: Education Edition 中打开。	#|您所选择的世界不能在此版本的 Minecraft: 教育版 中打开。
+disconnectionScreen.internalError.cantFindRealm=查找此 Realms 时出错。	#
+##查找此领域时出错。	#|
+disconnectionScreen.lockedSkin.title=皮肤无效！	#
+##受平台限制的皮肤！	#|
+disconnectionScreen.notAuthenticated=您必须通过Microsoft服务身份验证。	#
+##您必须通过 Microsoft 服务身份验证。	#|
+disconnectionScreen.outdatedClientRealms=您必须更新游戏才能继续在此 Realms 进行游戏。	#
+##您必须更新游戏才能继续在此领域进行游戏。	#|
+disconnectionScreen.outdatedClientRealms.title= Realms 已更新	#
+##领域已更新	#|
+disconnectionScreen.outdatedServerRealms=您的游戏是最新版本，但此 Realms 不是。	#
+##您的游戏是最新版本，但此领域不是。	#|
+disconnectionScreen.outdatedServerRealms.title= Realms 更新在 48 小时内待处理	#
+##领域更新在 48 小时内待处理	#|
+disconnectionScreen.realmsServerUpdateIncoming=您的 Realms 即将更新。您也需要进行更新。	#
+##您的领域即将更新。您也需要进行更新。	#|
+disconnectionScreen.realmsWorldUnassigned.title= Realms 已取消指派！	#
+##领域已取消指派！	#|
+disconnectionScreen.realmsDisabled= Realms 已禁用。	#
+##领域已禁用。	#|
+disconnectionScreen.realmsDisabledBeta=测试版禁用 Realms 。	#
+##测试版禁用领域。	#|
+disconnectionScreen.unknownPacket=服务器异常，未知的网络包	#
+##|
+disconnectionScreen.unexpectedPacket=服务器异常，网络包无法解析	#
+##|
+storageSpaceWarningScreen.frontend=您的存储空间即将不足！《Minecraft》限制了访问该功能，直至您清理出额外的存储空间为止。	#
+##您的存储空间即将不足！《我的世界》已限制您访问该功能，直至您清理出额外的存储空间为止。	#|
+storageSpaceWarningScreen.lowduringgameplay=您的设备空间不足，《Minecraft》无法在此设备上存储世界和设置。为什么不删除一些您不需要的旧东西，便于您保存新内容？	#
+##您的设备空间不足，《我的世界》无法在此设备上存储世界和设置。为什么不删除一些您不需要的旧东西，便于您保存新内容？	#|
+storageSpaceWarningScreen.fullduringgameplay=您的存储空间不足，《Minecraft》无法保存您的进度！ 《Minecraft》 将帮助您回到主菜单，以清理出额外的存储空间。	#
+##您的存储空间不足，《我的世界》无法保存您的进度！ 《我的世界》 将帮助您回到主菜单，以清理出额外的存储空间。	#|
+edu.play_screen.view_worlds=查看Minecraft	#
+##查看我的世界	#|
+edu.worlds_screen.title=Minecraft	#
+##我的世界	#|
+enchantment.crossbowQuickCharge=快速装填	#
+##快速冲锋	#|
+enchantment.curse.binding=绑定诅咒	#
+##绑定的诅咒	#|
+enchantment.curse.vanishing=消失诅咒	#
+##消失的诅咒	#|
+enchantment.damage.arthropods=节肢克星	#
+##节肢杀手	#|
+enchantment.damage.undead=亡灵克星	#
+##亡灵杀手	#|
+enchantment.frostwalker=冰霜行者	#
+##寒冰行者	#|
+enchantment.mending=经验修补	#
+##正在治愈	#|经验修补
+entity.area_effect_cloud.name=药水云	#
+##区域效果云雾	#|
+entity.dragon_fireball.name=末影龙火球	#
+##巨龙火球	#|
+entity.drowned.name=溺尸	#
+##水鬼	#|溺尸
+entity.elder_guardian.name=远古守卫者	#
+##老守卫者	#|
+entity.falling_block.name=下落的方块	#
+##掉落的方块	#|
+entity.fireworks_rocket.name=烟花火箭	#
+##焰火火箭	#|
+entity.fish.clownfish.name=小丑鱼	#
+##海葵鱼	#|
+entity.husk.name=尸壳	#
+##尸傀	#|
+entity.ravager.name=劫掠兽	#
+##掠夺兽	#|
+entity.command_block_minecart.name=命令方块矿车	#
+##带命令块的矿车	#|
+entity.furnace_minecart.name=动力矿车	#
+##带熔炉的矿车	#|
+entity.tnt_minecart.name=TNT矿车	#
+##TNT 矿车	#|
+entity.moving_block.name=移动的方块	#
+##移动中的方块	#|
+entity.phantom.name=幻翼		#
+##幻影	#|
+entity.pillager.name=掠夺者	#
+##劫掠者	#|
+entity.shulker.name=潜影贝	#
+##潜匿之贝	#|
+entity.shulker_bullet.name=潜影贝导弹	#
+##潜匿之贝子弹	#|
+entity.tnt.name=TNT方块	#
+##TNT 方块	#|
+entity.vex.name=恼鬼	#
+##威克斯	#|
+entity.villager.cartographer=制图师	#
+##制图者	#|
+entity.wandering_trader.name=奸商	#
+##流浪商人	#|
+entity.zombie_pigman.name=僵尸猪人	#
+##僵尸猪灵	#|
+entity.zombie_villager_v2.name=僵尸村民	#
+##怪人村民	#|
+feature.endcity=末地城	#
+##末地之城	#|
+feature.fortress=下界堡垒	#
+##地狱堡垒	#|
+feature.mansion=林地府邸	#
+##林地宅邸	#|
+feature.missingno=未知特性	#
+##未知功能	#|
+feature.ruins=水下遗迹	#
+##海洋废墟	#|
+feature.pillageroutpost=掠夺者前哨	#
+##劫掠者前哨	#|
+feed.goToFeed=喂养	#
+##动态信息	#|
+feed.clubdescription= Realms 描述	#
+##领域描述	#|
+feed.no_feed_item_content=将在此处显示 Realms 中的屏幕截图和讨论。按“新建帖子”开始操作	#
+##将在此处显示领域中的屏幕截图和讨论。按“新建帖子”开始操作	#|
+feed.connected=每一个 Realm 都使用了您的Microsoft账户与俱乐部连接。	#
+##每一个 Realm 都使用了您的 Microsoft 账户与俱乐部连接。	#|
+gameArgument.featureUnsupported=该版本的《Minecraft》不支持此功能	#
+##该版本的《我的世界》不支持此功能	#|
+gameTip.closeInventory.controller=按 :_input_key.use: 来关闭物品栏。	#
+##按 :_gamepad_face_button_right: 来关闭物品栏。	#|
+generator.flat=超平坦	#
+##平淡的	#|
+generator.nether=下界	#
+##地狱	#|
+generator.old=旧世界	#
+##旧的	#|
+gui.templateIconPickerDesc=《Minecraft》图标	#
+##《我的世界》图标	#|
+gui.minecraftWorld=Minecraft 的世界	#
+##《我的世界》的世界	#|
+gui.minecraftBundle=Minecraft捆绑包	#
+##《我的世界》捆绑包	#|
+gui.pickWorld=浏览Minecraft中的世界	#
+##浏览《我的世界》中的世界	#|
+gui.warning.exitGameWarning=是否要退出 Minecraft？	#
+##是否要退出《我的世界》？	#|
+gui.worldTemplate=《Minecraft》世界模板	#
+##《我的世界》世界模板	#|
+gui.edu.exitGameWarningCaption=Minecraft 教育版		### UseMinecraft教育版 in zh_CN translation
+##Minecraft: Education Edition		### Use Minecraft 教育版 in zh_CN translation|
+gui.edu.exitGameWarningMessage=离开Minecraft教育版?		### Use 离开Minecraft教育版? in zh_CN translation
+##离开 Minecraft: Education Edition?		### Use 离开 Minecraft 教育版? in zh_CN translation|
+updateScreen.commerceNotSupported.body=该版本的《Minecraft》无法再访问《Minecraft》市场。更新至最新版本以恢复市场访问。	#
+##该版本的《我的世界》无法再访问《我的世界》市场。更新至最新版本以恢复市场访问。	#|
+howtoplay.armor.text.2=盔甲可以由皮革、铁、黄金或钻石制成。锁链可以通过村民交易获得，也可以从僵尸和骷髅处掠夺。	#
+##盔甲可以由皮革、铁、黄金或钻石制成。链甲可以通过村民交易获得，也可以从僵尸和骷髅处掠夺。	#|
+howtoplay.armor.text.4=铁质盔甲、锁链和黄金盔甲可以在熔炉中熔化成铁粒或金粒。	#
+##铁质盔甲、链甲和黄金盔甲可以在熔炉中熔化成铁粒或金粒。	#|
+howtoplay.banners.text.6=  - 添加一朵牛眼菊将给予您一个花朵图案。	#
+##  - 添加一朵滨菊将给予您一个花朵图案。	#|
+howtoplay.beds.text.5=在下界中使用床时请小心，通常会因太热而无法入睡。	#
+##在地狱中使用床时请小心，通常会因太热而无法入睡。	#|
+howtoplay.blocks.text.1=《Minecraft》的世界由数以百万计的方块构成。每一个方块都可破坏、可收集和可放置。您几乎可以不受限制的创造一切事物！	#
+##《我的世界》的世界由数以百万计的方块构成。每一个方块都可破坏、可收集和可放置。您几乎可以不受限制的创造一切事物！	#|
+howtoplay.blocks.header.1=下落的方块	#
+##掉落的方块	#|
+howtoplay.blocks.text.4=以下是一些Minecraft中更多有趣方块的示例：	#
+##以下是一些《我的世界》中更多有趣方块的示例：	#|
+howtoplay.blocks.text.8=岩浆 - 该方块自然存在于下界中，它发出一点光，并且会烧毁踩到它的任何生物。	#
+##岩浆 - 该方块自然存在于地狱中，它发出一点光，并且会烧毁踩到它的任何生物。	#|
+howtoplay.blocks.text.9=砂土 - 该方块与普通泥土方块极为相似，但其上无法长出草。可在热带草原和大型针叶林生物群系中找到它。	#
+##粗粒土 - 该方块与普通泥土方块极为相似，但其上无法长出草。可在热带草原和大型针叶林生物群系中找到它。	#|
+howtoplay.brewingStand.text.3=将下界疣放入酿造台的顶部位置会为您制成一份粗制的药水。该药水本身没有任何效果，但可制作用于制作更高级药水的基础药水。	#
+##将地狱疣放入酿造台的顶部位置会为您制成一份粗制的药水。该药水本身没有任何效果，但可制作用于制作更高级药水的基础药水。	#|
+howtoplay.cauldron.header.2=药箭	#
+##浸泡箭	#|
+howtoplay.commandBlocks.text.4=您可以在“悬浮文本”字段中设置命令方块的名称。	#
+##您可以在“悬停注释”字段中设置命令方块的名称。	#|
+howtoplay.commandBlocks.text.5.2=  - 连锁 - 无论其前面的命令方块是否已执行其命令，都会执行存储的命令。 	#
+##  - 链 - 无论其前面的命令方块是否已执行其命令，都会执行存储的命令。 	#|
+howtoplay.commandBlocks.text.5.3=  - 循环 - 激活后，只要此命令方块存在，它就会继续执行其存储的命令。	#
+##  - 重复 - 激活后，只要此命令方块存在，它就会继续执行其存储的命令。	#|
+howtoplay.commandBlocks.text.7.1=  - 红石控制 - 需要红石信号才能激活。	#
+##  - 需要红石 - 需要红石信号才能激活。	#|
+howtoplay.commandBlocks.text.7.2=  - 保持开启 - 不需要红石信号也能激活。	#
+##  - 始终活动 - 不需要红石信号也能激活。	#|
+howtoplay.conduits=潮涌核心	#
+##导管	#|潮涌核心
+howtoplay.conduits.title=游戏指南：潮涌核心	#
+##游戏指南：导管	#|游戏指南：潮涌核心
+howtoplay.conduits.text.1=当你处于水下时，处于激活状态的潮涌核心会为你提供能量。	#
+##当您处于水下时，处于激活状态的导管会给您提供能量。	#|当您处于水下时，处于激活状态的潮涌核心会给您提供能量。
+howtoplay.conduits.text.2=一个潮涌核心由若干鹦鹉螺壳和一枚海洋之心制成。潮涌核心会从海晶石和海晶灯中汲取能量。	#
+##一根导管由若干鹦鹉螺壳和一枚海洋之心制成。导管会从海晶石和海晶灯中吸取能量。	#|一个潮涌核心由若干鹦鹉螺壳和一枚海洋之心制成。潮涌核心会从海晶石和海晶灯中吸取能量。
+howtoplay.conduits.header.1=搭建	#
+##建设	#|
+howtoplay.conduits.text.3=一旦被激活，潮涌核心会将潮涌能量赋予附近的任何物体。	#
+##一旦被激活，导管会将导管能量赋予给附近的任何物体。	#|一旦被激活，潮涌核心会将潮涌能量赋予给附近的任何物体。
+howtoplay.conduits.text.4=它汲取的能量越多，能力的作用范围就越远。	#
+##其吸取的能量越多，能力的作用范围就越远。	#|
+howtoplay.controls.text.1=Minecraft是一款通过堆方块创造出一切您所想事物的游戏。怪物会在夜晚出没，所以要提前建造一个避难所。	#
+##《我的世界》是一款通过堆方块创造出一切您所想事物的游戏。怪物会在夜晚出没，所以要提前建造一个避难所。	#|
+howtoplay.controls.text.8.keyboard=潜行在《Minecraft》中极为有用，可防止您从方块上跌落下来并隐藏您的姓名标签。若要潜行，请按住 :_input_key.sneak:。	#
+##潜行在《我的世界》中极为有用，可防止您从方块上跌落下来并隐藏您的姓名标签。若要潜行，请按住 :_input_key.sneak:。	#|
+howtoplay.controls.text.8.gamepad=潜行在《Minecraft》中极为有用，可防止您从方块上跌落下来并隐藏您的姓名标签。若要切换潜行，请按 :_gamepad_face_button_right: 或单击 :_gamepad_stick_right:。	#
+##潜行在《我的世界》中极为有用，可防止您从方块上跌落下来并隐藏您的姓名标签。要切换潜行，请按 :_input_key.sneak: 或者点击 :_gamepad_stick_right:。	#|
+howtoplay.controls.text.8.touch=潜行在《Minecraft》中极为有用，可防止您从方块上跌落下来并隐藏您的姓名标签。若要切换潜行，请点击 :touch_sneak:。	#
+##潜行在《我的世界》中极为有用，可防止您从方块上跌落下来并隐藏您的姓名标签。若要切换潜行，请点击 :touch_sneak:。	#|
+howtoplay.controls.text.8.rift_controller=潜行在《Minecraft》中极为有用，可防止您从方块上跌落下来并隐藏您的姓名标签。若要切换潜行，请按 :rift_X:。	#
+##潜行在《我的世界》中极为有用，可防止您从方块上跌落下来并隐藏您的姓名标签。若要切换潜行，请按 :rift_X:。	#|
+howtoplay.controls.text.8.windowsmr_controller=潜行在《Minecraft》中极为有用，可防止您从方块上跌落下来并隐藏您的姓名标签。若要切换潜行，请按 :windowsmr_right_stick:。	#
+##潜行在《我的世界》中极为有用，可防止您从方块上跌落下来并隐藏您的姓名标签。若要切换潜行，请按 :windowsmr_right_stick:。	#|
+howtoplay.controls.text.swim.keyboard=在水中疾跑会使你进入游泳状态。使用鼠标来控制你游泳的方向。	#
+##在水中奔跑会使您游泳。使用鼠标来控制您游泳的方向。	#|
+howtoplay.controls.text.swim.gamepad=在水中疾跑会使你进入游泳状态。使用 :_gamepad_stick_right: 可控制你游泳的方向。	#
+##在水中奔跑会使您游泳。使用 :_gamepad_stick_right: 来控制您游泳的方向。	#|
+howtoplay.controls.text.swim.touch=在水中疾跑会使你进入游泳状态。触摸屏幕并沿着屏幕拖动来控制你游泳的方向。	#
+##在水中奔跑会使您游泳。触摸屏幕并沿着屏幕拖动来控制您游泳的方向。	#|
+howtoplay.controls.text.swim.rift_controller=在水中疾跑会使你进入游泳状态。使用 :rift_right_stick: 来控制你游泳的方向。	#
+##在水中奔跑会使您游泳。使用 :rift_right_stick: 来控制您游泳的方向。	#|
+howtoplay.controls.text.swim.windowsmr_controller=在水中疾跑会使你进入游泳状态。使用 :windowsmr_right_stick: 来控制你游泳的方向。	#
+##在水中奔跑会使您游泳。使用 :windowsmr_right_stick: 来控制您游泳的方向。	#|
+howtoplay.worldBuilder.text.1=若要放置或使用特定的《Minecraft 教育版 免费试用》方块或物品，玩家必须拥有一种名为“World Builder”的特殊能力。	#
+##若要放置或使用特定的 Minecraft: Education Edition 方块或物品，玩家必须拥有一种名为“World Builder”的特殊能力。	#|
+howtoplay.permissionBlocks.text.1=《Minecraft 教育版》包含数个特殊的块，这些块可让教师更便捷地创建和使用课程。只有拥有世界建造者能力的玩家才能放置和摧毁这些块。没有世界建造者能力的玩家会受到这些块施加的限制约束。	#
+##Minecraft: Education Edition 包含数个特殊的块，这些块可让教师更便捷地创建和使用课程。只有拥有世界建造者能力的玩家才能放置和摧毁这些块。没有世界建造者能力的玩家会受到这些块施加的限制约束。	#|
+howtoplay.chemistry.text.1=学生可使用化学设备块模拟真实世界的化学反应。通过调整元素构造器的滑动条可制作118种不同元素中的一种，或者将元素放元素构造器中可查看元素的成分。在化合物创建器中合成元素，以制造化合物。将元素和化合物放到实验台上可创建《Minecraft》物品。使用材料分解器可将方块分解为其组成元素。	#
+##学生可使用化学设备块模拟真实世界的化学反应。通过调整元素构造器的滑动条可制作118种不同元素中的一种，或者将元素放元素构造器中可查看元素的成分。在化合物创建器中合成元素，以制造化合物。将元素和化合物放到实验台上可创建《我的世界》物品。使用材料分解器可将方块分解为其组成元素。	#|
+howtoplay.chemistry.text.2=从《Minecraft 教育版》网站下载化学日记，获得完整的《Minecraft》化学指南。	#
+##从 Minecraft: Education Edition 网站下载化学日记，获得完整的 Minecraft 化学指南。	#|
+howtoplay.classroomMode.text.1=教室模式是外置应用，可为教育工作者提供与学生互动的功能。您可以从《Minecraft 教育版》网站下载教室模式。	#
+##教室模式是外置应用，可为教育工作者提供与学生互动的功能。您可以从 Minecraft: Education Edition 网站下载教室模式。	#|
+howtoplay.classroomMode.text.2=作为一个世界的主人，您可以使用命令 /classroommode，启动教室模式应用，将其连接到《Minecraft 教育版》上。	#
+##作为一个世界的主人，您可以使用命令 /classroommode，启动教室模式应用，将其连接到 Minecraft: Education Edition 上。	#|
+howtoplay.codeBuilder=Code Builder	#
+##代码编辑器	#|
+howtoplay.codeBuilder.title=游戏指南：Code Builder	#
+##游戏指南：代码编辑器	#|
+howtoplay.codeBuilder.text.1=Code Builder 可让玩家使用自己熟悉的编程学习平台，写代码，探索、创建和玩《Minecraft》。	#
+##代码编辑器可让玩家使用自己熟悉的编程学习平台，写代码，探索、创建和玩《我的世界》。	#|
+howtoplay.codeBuilder.text.2=通过按 :_input_key.codeBuilder: 或使用命令 /code 启动 Code Builder。	#
+##通过按 :_input_key.codeBuilder: 或使用命令 /code 启动代码编辑器。	#|
+howtoplay.codeBuilder.text.2.touch=通过轻按 :code_builder_button: 或使用命令 /code 启动 Code Builder。	#
+##通过轻按 :code_builder_button: 或使用命令 /code 启动代码编辑器。	#|
+howtoplay.difficulty.text.1=Minecraft有不同的难度级别，因此您可以根据您的水平定制游戏。	#
+##《我的世界》有不同的难度级别，因此您可以根据您的水平定制游戏。	#|
+howtoplay.difficulty.text.2=和平 - 在“和平”难度下，除了潜影贝和末影龙之外，不存在任何敌对生物，但潜影贝和末影龙也不会伤害您。	#
+##和平 - 在“和平”难度下，除了潜匿之贝和末影龙之外，不存在任何敌对生物，但潜匿之贝和末影龙也不会伤害您。	#|
+howtoplay.difficulty.text.4=一般 - 在“一般”难度下，敌对生物会造成一般伤害，如果您的饥饿程度降为零，您的生命值也会开始下降，但不会失败。	#
+##一般 - 在“一般”难度下，敌对生物会造成一般伤害，如果您的饥饿程度降为零，您的生命值也会开始下降，但不会死亡。	#|
+howtoplay.difficulty.text.5=困难 - 在“困难”难度下，敌对生物会造成更大的伤害，僵尸会破门而入，如果您的饥饿程度降为零，您的生命值也会下降并且可能会失败。	#
+##困难 - 在“困难”难度下，敌对生物会造成更大的伤害，僵尸会破门而入，如果您的饥饿程度降为零，您的生命值也会下降并且可能会死亡。	#|
+howtoplay.dyes.text.1=染料可用于改变Minecraft中许多事物的颜色。	#
+##染料可用于改变《我的世界》中许多事物的颜色。	#|
+howtoplay.elytra=鞘翅	#
+##翅鞘	#|
+howtoplay.elytra.title=游戏指南：鞘翅	#
+##游戏指南：翅鞘	#|
+howtoplay.elytra.text.1=鞘翅是一种用于允许滑翔的可装备物品。鞘翅装备在胸部盔甲槽中。	#
+##翅鞘是一种用于允许滑翔的可装备物品。翅鞘装备在胸部盔甲槽中。	#|
+howtoplay.elytra.text.2=鞘翅无法制作，但可在稀少的末地船（由可怕的潜影贝把守）中的物品展示框中找到。	#
+##翅鞘无法制作，但可在稀少的末地船（由可怕的潜匿之贝把守）中的物品展示框中找到。	#|
+howtoplay.elytra.text.3.notTouch=装备鞘翅时，玩家可以在坠落时按 :_input_key.jump: 来开始滑翔。请注意，需要足够高度才能真正获得全部效果！	#
+##装备翅鞘时，玩家可以在坠落时按 :_input_key.jump: 来开始滑翔。请注意，需要足够高度才能真正获得全部效果！	#|
+howtoplay.elytra.text.3.touch=装备鞘翅时，玩家可以在坠落时点击 :_input_key.jump: 来开始滑翔。请注意，需要足够高度才能真正获得全部效果！	#
+##装备翅鞘时，玩家可以在坠落时点击 :_input_key.jump: 来开始滑翔。请注意，需要足够高度才能真正获得全部效果！	#|
+howtoplay.elytra.text.5=飞行时您的鞘翅的耐性用会降低。 您可以在铁砧上使用幻影薄膜将鞘翅合并起来，修复他们。 如果在飞行过程中断裂，那么您将会掉到地上，小心点！	#
+##飞行时您的翅鞘的耐性用会降低。 您可以在铁砧上使用幻影薄膜将翅鞘合并起来，修复他们。 如果在飞行过程中断裂，那么您将会掉到地上，小心点！	#|
+howtoplay.elytra.text.6=无效的烟花火箭可用于延长鞘翅飞行。如果您使用有效的烟花火箭来延长飞行，则您会受伤。	#
+##无效的焰火火箭可用于延长翅鞘飞行。如果您使用有效的焰火火箭来延长飞行，则您会受伤。	#|
+howtoplay.endCities.text.1=在击败末影龙后，会显示末地折跃门。将末影珍珠投入该传送门会将您瞬移到外岛。	#
+##在杀死末影龙后，会显示末地折跃门。将末影珍珠投入该传送门会将您瞬移到外岛。	#|
+howtoplay.farming.text.1=您可以在Minecraft中种植各种不同的农作物。种植虽然具有挑战性，但能够无限量地提供食物来源。	#
+##您可以在《我的世界》中种植各种不同的农作物。种植虽然具有挑战性，但能够无限量地提供食物来源。	#|
+howtoplay.farming.text.4=现在，您可以种下您的种子。请确保您的农作物受到保护，因为遭踩踏或者缺少水或光很容易导致它们消失。	#
+##现在，您可以种下您的种子。请确保您的农作物受到保护，因为遭踩踏或者缺少水或光很容易导致它们死亡。	#|
+howtoplay.fireworks=烟花	#
+##焰火	#|
+howtoplay.fireworks.title=游戏指南：烟花	#
+##游戏指南：焰火	#|
+howtoplay.fireworks.text.1=烟花是一种在Minecraft中创建自己独特庆祝的有趣方式！	#
+##焰火是一种在《我的世界》中创建自己独特庆祝的有趣方式！	#|
+howtoplay.fireworks.text.2=烟花有两个部分，即烟花火箭和烟火之星。	#
+##焰火有两个部分，即焰火火箭和焰火之星。	#|
+howtoplay.fireworks.header.1=烟花火箭	#
+##焰火火箭	#|
+howtoplay.fireworks.text.3.notTouch=若要使用烟花，只需按方块上的 :_input_key.use: 即可将其发射到空中。	#
+##若要使用焰火，只需按方块上的 :_input_key.use: 即可将焰火发射到空中。	#|
+howtoplay.fireworks.text.3.touch=若要使用烟花，只需点击方块即可将其发射到空中。	#
+##若要使用焰火，只需点击方块即可将焰火发射到空中。	#|
+howtoplay.fireworks.text.4=烟花除了向上射入空中之外没有其他作用。	#
+##焰火除了向上射入空中之外没有其他作用。	#|
+howtoplay.fireworks.header.2=烟火之星	#
+##焰火之星	#|
+howtoplay.fireworks.text.5=在制作烟花火箭的过程中，可以添加烟火之星，以赋予它许多不同的颜色和效果。	#
+##在制作焰火火箭的过程中，可以添加焰火之星，以赋予它许多不同的颜色和效果。	#|
+howtoplay.fireworks.text.6=烟火之星由火药和其他各种物品制成。	#
+##焰火之星由火药和其他各种物品制成。	#|
+howtoplay.fireworks.text.6.1=  - 颜色 - 添加任何颜色的染料可产生该颜色的爆炸。	#
+##  - 颜色 - 添加任何颜色的染料可实现以该颜色爆炸。	#|
+howtoplay.fireworks.text.6.4=  - 爆裂 - 添加羽毛可给予爆炸一个爆裂效果。	#
+##  - 爆发 - 添加羽毛可给予爆炸一个爆发效果。	#|
+howtoplay.fireworks.text.6.5=  - 尾迹 - 添加钻石可给予爆炸拖尾效果。	#
+##  - 拖尾 - 添加钻石可给予爆炸拖尾效果。	#|
+howtoplay.fireworks.text.7=烟花可由发射器发射。将以发射器的朝向方向发射烟花。	#
+##焰火可由发射器发射。将以发射器的朝向方向发射焰火。	#|
+howtoplay.fishing.text.2.notTouch=瞄准水中的一个方块，在持有钓鱼竿的同时按下 :_input_key.use 即可将饵钩抛进水里。	#
+##瞄准水中的一个方块，在持有钓鱼竿的同时按下 :_input_key.use: 即可将饵钩抛进水里。	#|
+howtoplay.gameSettings.text.14=-TNT爆炸：该设置阻止 TNT 被点燃。	#
+##-TNT 爆炸：该设置阻止 TNT 被点燃。	#|
+howtoplay.gameSettings.text.15=-保留物品栏：该设置允许玩家在失败时保留其物品栏。	#
+##-保留物品栏：该设置允许玩家在死亡时保留其物品栏。	#|
+howtoplay.gameSettings.text.18=-生物战利品：控制生物在被击败时是否掉落战利品。	#
+##-生物战利品：控制生物在死亡时是否掉落战利品。	#|
+howtoplay.gameSettings.text.20=-方块掉落：当该设置处于启用状态时，方块被破坏时会产生掉落。	#
+##-区块掉落：当该设置处于启用状态时，损坏的方块会掉落方块。	#|
+howtoplay.hostAndPlayerOptions=主机和玩家选项	#
+##主控者和玩家选项	#|
+howtoplay.hostAndPlayerOptions.text.1.notTouch=当在启用作弊的情况下玩游戏时，您可以通过主机选项传送您自己或好友、更改天气、设置当日时间、更改游戏的入口点或世界生成。启用作弊后，您可以通过点击聊天栏旁边的 [/] 按钮在聊天窗口中找到这些选项。	#
+##当在启用作弊的情况下玩游戏时，您可以通过主控者选项传送您自己或好友、更改天气、设置当日时间、更改游戏的入口点或世界生成。启用作弊后，您可以通过点击聊天栏旁边的 [/] 按钮在聊天窗口中找到这些选项。	#|
+howtoplay.hostAndPlayerOptions.text.1.touch=当在启用作弊的情况下玩游戏时，您可以通过主机选项传送您自己或好友、更改天气、设置当日时间、更改游戏的入口点或世界生成。启用作弊后，您可以通过点击“聊天”按钮在聊天窗口中找到这些选项。	#
+##当在启用作弊的情况下玩游戏时，您可以通过主控者选项传送您自己或好友、更改天气、设置当日时间、更改游戏的入口点或世界生成。启用作弊后，您可以通过点击“聊天”按钮在聊天窗口中找到这些选项。	#|
+howtoplay.HUD.text.6=通过收集经验球可获得经验点。您可从击败生物、挖掘特定方块等活动中获得经验球！请勿错过任何经验球，您将需要它们。靠近经验球即可进行收集。	#
+##通过收集经验球可获得经验点。您可从杀死生物、挖掘特定方块等活动中获得经验球！请勿错过任何经验球，您将需要它们。靠近经验球即可进行收集。	#|
+howtoplay.multiplayer.title=多人游戏	#
+##游戏指南：多人游戏	#|
+howtoplay.multiplayer.text.1=Minecraft默认为多人游戏。	#
+##《我的世界》默认为多人游戏。	#|
+howtoplay.multiplayer.header.2=在线/局域网游戏	#
+##在线多人游戏	#|
+howtoplay.multiplayer.text.4=要加入多人游戏，请转到“好友”选项卡。所有可加入的 Realms 、好友和局域网游戏都将在此处显示。选择某个游戏并选中它来加入。	#
+##要加入多人游戏，请转到“好友”选项卡。所有可加入的领域、好友和局域网游戏都将在此处显示。选择某个游戏并选中它来加入。	#|
+howtoplay.multiplayer.text.4.norealms=要加入多人游戏，请转到“好友”选项卡。所有可加入的 Realms 、好友和局域网游戏都将在此处显示。选择某个游戏并选中它来加入。	#
+##要加入多人游戏，请转到“好友”选项卡。所有可加入的领域、好友和局域网游戏都将在此处显示。选择某个游戏并选中它来加入。	#|
+howtoplay.multiplayer.text.6=注意：您必须具有互联网连接并且必须登录至Microsoft账户才能玩多人游戏。	#
+##注意：您必须具有互联网连接并且必须登录至 Microsoft 账户才能玩多人游戏。	#|
+howtoplay.navigation.text.1=导航是您在《Minecraft》中将要学习的一项重要技能，因为有时找到回家之路并非易事。	#
+##导航是您在《我的世界》中将要学习的一项重要技能，因为有时找到回家之路并非易事。	#|
+howtoplay.nightfall.text.1=在Minecraft中，当您在世界中冒险时太阳会升起和落下。当太阳落下时，必须要采取预防措施，因为夜间危机四伏！	#
+##在《我的世界》中，当您在世界中冒险时太阳会升起和落下。当太阳落下时，必须要采取预防措施，因为夜间危机四伏！	#|
+howtoplay.pets.text.1.notTouch=在《Minecraft》中，有多种可以驯服的生物，而且可以让它们成为您的宠物。可以通过给予各生物喜爱的物品来驯服它们。驯服后，您可以在看到它们时按 :_input_key.use: 来让它们留下。	#
+##在《我的世界》中，有多种可以驯服的生物，而且可以让它们成为您的宠物。可以通过给予各生物喜爱的物品来驯服它们。驯服后，您可以在看到它们时按 :_input_key.use: 来让它们留下。	#|
+howtoplay.pets.text.1.touch=在《Minecraft》中，有多种可以驯服的生物，而且可以让它们成为您的宠物。可以通过给予各生物喜爱的物品来驯服它们。驯服后，您可以点击“坐”按钮来让它们留下。	#
+##在《我的世界》中，有多种可以驯服的生物，而且可以让它们成为您的宠物。可以通过给予各生物喜爱的物品来驯服它们。驯服后，您可以点击“坐”按钮来让它们留下。	#|
+howtoplay.pets.text.3=猫是出没于村庄中的中立型生物。它们会攻击兔子和海龟宝宝。它们还会赶走幻影和爬行者。它们会试着躲着您，因此驯服它们可能并非易事。它们喜欢吃鱼，所以给它们喂生鱼或鲑鱼来驯服它们。	#
+##猫是出没于村庄中的中立型生物。它们会攻击兔子和海龟宝宝。它们还会赶走幻影和爬行者。它们会试着躲着您，因此驯服它们可能并非易事。它们喜欢吃鱼，所以给它们喂生鳕鱼或鲑鱼来驯服它们。	#|
+howtoplay.raids.text.1=在探索世界的过程中，您可能会遇到掠夺者的营地或巡逻队。掠夺者总是在寻找村庄进行袭击，携带他们的旗帜会引起他们的注意，他们还可能会选择袭击附近的村庄。	#
+##在探索世界的过程中，您可能会遇到劫掠者的营地或巡逻队。劫掠者总是在寻找村庄进行袭击，携带他们的旗帜会引起他们的注意，他们还可能会选择袭击附近的村庄。	#|
+howtoplay.raids.text.2=一定要保卫您的村庄，如果您击败了所有的掠夺者，攻击就会停止。	#
+##一定要保卫您的村庄，如果您击败了所有的劫掠者，攻击就会停止。	#|
+howtoplay.raids.text.3=村民们很可能会非常感激您把他们从掠夺者手中救了出来。一定要和他们确认一下，您可能会做成一笔好交易。	#
+##村民们很可能会非常感激您把他们从劫掠者手中救了出来。一定要和他们确认一下，您可能会做成一笔好交易。	#|
+howtoplay.ranching.text.1=在Minecraft中，您可以拥有自己的牧场，养满牲畜！牧场经营可获得许多资源，如羊毛、鸡蛋和生肉。	#
+##在《我的世界》中，您可以拥有自己的牧场，养满牲畜！牧场经营可获得许多资源，如羊毛、鸡蛋和生肉。	#|
+howtoplay.ranching.text.4=牛、哞菇和羊都吃小麦。猪可以吃胡萝卜或甜菜根。鸡喜欢吃各种种子。兔子吃胡萝卜、金萝卜或蒲公英。豹猫喜欢吃生鱼或鲑鱼。狼喜欢吃各种肉类。	#
+##牛、哞菇和羊都吃小麦。猪可以吃胡萝卜或甜菜根。鸡喜欢吃各种种子。兔子吃胡萝卜、金萝卜或蒲公英。豹猫喜欢吃生鳕鱼或鲑鱼。狼喜欢吃各种肉类。	#|
+howtoplay.realms= Realms 	#
+##领域	#|
+howtoplay.realms.title=游戏指南： Realms 	#
+##游戏指南：领域	#|
+howtoplay.realms.text.1= Realms 是开展持续运行的多人游戏的绝佳场所。即使您没有在玩，您的 Realms 也会正常运行，以供您的好友探索！	#
+##领域是开展持续运行的多人游戏的绝佳场所。即使您没有在玩，您的领域也会正常运行，以供您的好友探索！	#|
+howtoplay.realms.text.2=要设置 Realms ，请在“世界”选项卡中选择“新建”。然后依次选择“新建 Realms ”按钮和“新建世界”按钮。可在此处对您的 Realms 命名，并设置玩家数量。随后即可向 Realms 中添加好友。	#
+##要设置领域，请在“世界”选项卡中选择“新建”。然后依次选择“新建领域”按钮和“新建世界”按钮。可在此处对您的领域命名，并设置玩家数量。随后即可向领域中添加好友。	#|
+howtoplay.realms.header.2= Realms 设置	#
+##领域设置	#|
+howtoplay.realms.text.3=创建好 Realms 后，选择“铅笔”按钮来更改 Realms 设置。	#
+##创建好领域后，选择“铅笔”按钮来更改领域设置。	#|
+howtoplay.realms.text.4=在“游戏”按钮下，您可以对 Realms 重命名、设置难度和游戏模式、启用作弊以及下载/上传世界。	#
+##在“游戏”按钮下，您可以对领域重命名、设置难度和游戏模式、启用作弊以及下载/上传世界。	#|
+howtoplay.realms.text.5=在“成员”按钮下，您可以管理已经邀请加入 Realms 的所有好友、添加/移除成员以及设置他们的权限。	#
+##在“成员”按钮下，您可以管理已经邀请加入领域的所有好友、添加/移除成员以及设置他们的权限。	#|
+howtoplay.realms.text.6=在“订阅”按钮下，您可以看到 Realms 的到期时间、延长到期日以及打开/关闭 Realms 。	#
+##在“订阅”按钮下，您可以看到领域的到期时间、延长到期日以及打开/关闭领域。	#|
+howtoplay.resourceAndBehaviorPacks.text.1=您可以使用资源和行为包更改Minecraft的外观和行为方式。	#
+##您可以使用资源和行为包更改《我的世界》的外观和行为方式。	#|
+howtoplay.resourceAndBehaviorPacks.text.2=在“设置”菜单中，从可用包列表中选择一个包并选中其旁边的加号。现在您的包就可以应用对默认Minecraft包的更改了。	#
+##在“设置”菜单中，从可用包列表中选择一个包并选中其旁边的加号。现在您的包就可以应用对默认《我的世界》包的更改了。	#|
+howtoplay.servers.text=服务器选项卡将显示热门《Minecraft》服务器。	#
+##服务器选项卡将显示热门《我的世界》服务器。	#|
+howtoplay.shulkerBoxes=潜影盒	#
+##潜匿之贝箱子	#|
+howtoplay.shulkerBoxes.title=游戏指南：潜影盒	#
+##游戏指南：潜匿之贝箱子	#|
+howtoplay.shulkerBoxes.text.1=将两个潜影壳与箱子结合来制作潜影盒。潜影壳是末地城中的潜影贝掉落之物。与其他容器不同，潜影盒被损坏后会保留它们的物品。被活塞推动的潜影盒会损坏并且会作为物品掉落，可以使用发射器来放置潜影盒。	#
+##将两个潜匿之贝壳与箱子结合来制作潜匿之贝箱子。潜匿之贝壳是末地城中的潜匿之贝掉落之物。与其他容器不同，潜匿之贝箱子被损坏后会保留它们的物品。被活塞推动的潜匿之贝箱子会损坏并且会作为物品掉落，可以使用发射器来放置潜匿之贝箱子。	#|
+howtoplay.theStore.text.1=在《Minecraft》市场中可以找到由各位才华横溢的创作者创作的新皮肤、世界、材质和混搭包。	#
+##在《我的世界》市场中可以找到由各位才华横溢的创作者创作的新皮肤、世界、材质和混搭包。	#|
+howtoplay.theStore.text.4=在您当前的世界和 Realms 上叠加材质包，从而赋予旧游戏新外观！	#
+##在您当前的世界和领域上叠加材质包，从而赋予旧游戏新外观！	#|
+howtoplay.theStore.text.4.norealms=在您当前的世界和 Realms 上叠加材质包，从而赋予旧游戏新外观！	#
+##使用可以被覆盖在您的当前世界上的材质包，让您的旧游戏焕然一新！	#|
+howtoplay.theStore.text.5=或者尝试使用包含精选的皮肤、世界和材质集合的所有混搭包，结合使用这些皮肤、世界和材质，会改变您的世界和 Realms 的外观！	#
+##或者尝试使用包含精选的皮肤、世界和材质集合的所有混搭包，结合使用这些皮肤、世界和材质，会改变您的世界和领域的外观！	#|
+howtoplay.theStore.text.5.norealms=或者尝试使用包含精选的皮肤、世界和材质集合的所有混搭包，结合使用这些皮肤、世界和材质，会改变您的世界和 Realms 的外观！	#
+##或者对您的世界尝试使用混搭包，后者是由皮肤、世界和材质组成的精选集合，在它们的共同作用下，您的世界将截然不同！	#|
+howtoplay.tools.text.1=在《Minecraft》中有许多工具，使用这些工具开采方块比徒手开采要快得多。这些工具可使用木头、石头、铁、金子或钻石制成。	#
+##在《我的世界》中有许多工具，使用这些工具开采方块比徒手开采要快得多。这些工具可使用木头、石头、铁、金子或钻石制成。	#|
+howtoplay.tools.text.9=使用桶可以收集水、牛奶和岩浆等液体。	#
+##使用桶可以收集水、牛奶、岩浆，甚至鱼等物体。	#|
+howtoplay.transportation.text.5.keyboard=在看到船时按 :_input_key.use: 可上船。按 :_input_key.left: 或 :_input_key.right: 可向左或向右转。同时按住这两个键可向前移动。按 :_input_key.jump: 或 :_input_key.sneak: 可下船。	#
+##在看到船时按 :_input_key.use: 可上船。按 :_input_key.left: 或 :_input_key.right: 可向左或向右转。按 :_input_key.forward: 可向前移动。按 :_input_key.jump: 或 :_input_key.sneak: 可下船。	#|
+howtoplay.weapons.text.1=剑是Minecraft中的主要近战武器。可以使用木头、石头、铁、金子或钻石制成。跳劈会造成暴击伤害！	#
+##剑是《我的世界》中的主要近战武器。可以使用木头、石头、铁、金子或钻石制成。跳劈会造成暴击伤害！	#|
+howtoplay.weapons.text.3.notTouch=弓是Minecraft中的主要远程武器。按住 :_input_key.use: 可拉弓。释放 :_input_key.use: 可射箭。弓在有箭的情况下才能射出。	#
+##弓是《我的世界》中的主要远程武器。按住 :_input_key.use: 可拉弓。释放 :_input_key.use: 可射箭。弓在有箭的情况下才能射出。 	#|
+howtoplay.weapons.text.3.touch=弓是Minecraft中的主要远程武器。按住屏幕可拉弓。释放所按屏幕可射箭。弓在有箭的情况下才能射出。	#
+##弓是《我的世界》中的主要远程武器。按住屏幕可拉弓。释放所按屏幕可射箭。弓在有箭的情况下才能射出。	#|
+immersive_reader.error.identity_failure=连接到沉浸式阅读器时出现了问题。请重启《Minecraft 教育版》并重试。	#
+##连接到沉浸式阅读器时出现了问题。请重启 Minecraft: Education Edition 并重试。	#|
+level.export.started=存档导出已开始...	#
+##等级导出已开始...	#|
+level.import.started=存档导入已开始...	#
+##等级导入已开始...	#|
+level.export.success=存档导出成功完成	#
+##等级导出成功完成	#|
+level.import.success=存档导入成功完成	#
+##等级导入成功完成	#|
+level.export.failed=存档导出失败	#
+##等级导出失败	#|
+level.import.failed=存档导入失败	#
+##等级导入失败	#|
+level.import.failed.incompatibleEdition=存档导入失败：出现了不支持的格式。	#
+##等级导入失败：出现了不支持的格式。	#|
+invite.realm.add_member=添加 Realms 成员	#
+##添加领域成员	#|
+invite.notification.description=%s 邀请您玩《Minecraft》	#
+##%s 邀请您玩《我的世界》	#|
+invite.confirmation.description=%s 邀请您玩《Minecraft》	#
+##%s 邀请您玩《我的世界》	#|
+item.tipped_arrow.name=药箭	#
+##锐箭	#|
+item.banner.illager_captain.name=灾厄旗帜	#
+##刌民旗帜	#|
+item.banner.skull.black=黑色模型头像	#
+##黑色头颅头像	#|
+item.banner.skull.blue=蓝色模型头像	#
+##蓝色头颅头像	#|
+item.banner.skull.brown=棕色模型头像	#
+##棕色头颅头像	#|
+item.banner.skull.cyan=青色模型头像	#
+##青色头颅头像	#|
+item.banner.skull.gray=灰色模型头像	#
+##灰色头颅头像	#|
+item.banner.skull.green=绿色模型头像	#
+##绿色头颅头像	#|
+item.banner.skull.lightBlue=淡蓝色模型头像	#
+##淡蓝色头颅头像	#|
+item.banner.skull.lime=黄绿色模型头像	#
+##黄绿色头颅头像	#|
+item.banner.skull.magenta=品红色模型头像	#
+##品红色头颅头像	#|
+item.banner.skull.orange=橙色模型头像	#
+##橙色头颅头像	#|
+item.banner.skull.pink=粉红色模型头像	#
+##粉红色头颅头像	#|
+item.banner.skull.purple=紫色模型头像	#
+##紫色头颅头像	#|
+item.banner.skull.red=红色模型头像	#
+##红色头颅头像	#|
+item.banner.skull.silver=淡灰色模型头像	#
+##淡灰色头颅头像	#|
+item.banner.skull.white=白色模型头像	#
+##白色头颅头像	#|
+item.banner.skull.yellow=黄色模型头像	#
+##黄色头颅头像	#|
+item.boat.big_oak.name=深色橡木船	#
+##黑橡木船	#|
+item.chainmail_boots.name=锁链靴子	#
+##链甲靴子	#|
+item.tropicalSchoolClownfish.name=小丑鱼	#
+##海葵鱼	#|
+item.chainmail_chestplate.name=锁链胸甲	#
+##链甲胸甲	#|
+item.leather_chestplate.name=皮革上衣	#
+##皮革胸甲	#|
+item.chorus_fruit.name=紫颂果	#
+##共鸣果	#|
+item.chorus_fruit_popped.name=爆裂紫颂果	#
+##爆裂共鸣果	#|
+item.dye.green.name=仙人掌绿	#
+##绿色染料	#|
+item.dye.red.name=玫瑰红	#
+##红色染料	#|
+item.dye.yellow.name=蒲公英黄	#
+##黄色染料	#|
+item.elytra.name=鞘翅	#
+##翅鞘	#|
+tile.end_rod.name=末地烛	#
+##末地棒	#|
+item.fireworks.name=烟花火箭	#
+##焰火火箭	#|
+item.fireworksCharge.trail=尾迹	#
+##踪迹	#|
+item.cooked_fish.name=熟鱼	#
+##熟鳕鱼	#|
+item.fish.name=生鱼	#
+##生鳕鱼	#|
+item.chainmail_helmet.name=锁链头盔	#
+##链甲头盔	#|
+item.horsearmordiamond.name=钻石马铠	#
+##钻石马甲	#|
+item.horsearmorgold.name=黄金马铠	#
+##金马甲	#|
+item.horsearmoriron.name=铁马铠	#
+##铁马甲	#|
+item.horsearmorleather.name=皮马铠	#
+##皮马甲	#|
+item.chainmail_leggings.name=锁链护腿	#
+##链甲护腿	#|
+item.map.exploration.mansion.name=林地探险家地图	#
+##森林探险者地图	#|
+item.map.exploration.monument.name=海洋探险家地图	#
+##海洋探险者地图	#|
+item.command_block_minecart.name=命令方块矿车	#
+##带有命令块的《我的世界》	#|
+item.spawn_egg.entity.agent.name=生成吉祥物	#
+##生成 Agent	#|
+item.spawn_egg.entity.cat.name=生成 猫	#
+##生成猫	#|
+item.spawn_egg.entity.chicken.name=生成 鸡	#
+##生成鸡	#|
+item.spawn_egg.entity.cow.name=生成 牛	#
+##生成牛	#|
+item.spawn_egg.entity.cod.name=生成 鳕鱼	#
+##生成鳕鱼	#|
+item.spawn_egg.entity.pufferfish.name=生成 河豚	#
+##生成河豚	#|
+item.spawn_egg.entity.salmon.name=生成 鲑鱼	#
+##生成鲑鱼	#|
+item.spawn_egg.entity.tropicalfish.name=生成 热带鱼	#
+##生成热带鱼	#|
+item.spawn_egg.entity.pig.name=生成 猪	#
+##生成猪	#|
+item.spawn_egg.entity.sheep.name=生成 羊	#
+##生成羊	#|
+item.spawn_egg.entity.npc.name=生成  NPC	#
+##生成 NPC	#|
+item.spawn_egg.entity.wolf.name=生成 狼	#
+##生成狼	#|
+item.spawn_egg.entity.villager.name=生成 村民	#
+##生成村民	#|
+item.spawn_egg.entity.villager_v2.name=生成 村民	#
+##生成村民	#|
+item.spawn_egg.entity.vindicator.name=生成 卫道士	#
+##生成卫道士	#|
+item.spawn_egg.entity.mooshroom.name=生成 哞菇	#
+##生成哞菇	#|
+item.spawn_egg.entity.squid.name=生成 鱿鱼	#
+##生成鱿鱼	#|
+item.spawn_egg.entity.rabbit.name=生成 兔子	#
+##生成兔子	#|
+item.spawn_egg.entity.bat.name=生成 蝙蝠	#
+##生成蝙蝠	#|
+item.spawn_egg.entity.ravager.name=生成 劫掠兽	#
+##生成掠夺兽	#|
+item.spawn_egg.entity.iron_golem.name=生成 铁傀儡	#
+##生成铁傀儡	#|
+item.spawn_egg.entity.snow_golem.name=生成 雪傀儡	#
+##生成雪傀儡	#|
+item.spawn_egg.entity.ocelot.name=生成 豹猫	#
+##生成豹猫	#|
+item.spawn_egg.entity.parrot.name=生成 鹦鹉	#
+##生成鹦鹉	#|
+item.spawn_egg.entity.horse.name=生成 马	#
+##生成马	#|
+item.spawn_egg.entity.llama.name=生成 羊驼	#
+##生成羊驼	#|
+item.spawn_egg.entity.polar_bear.name=生成 北极熊	#
+##生成北极熊	#|
+item.spawn_egg.entity.donkey.name=生成 驴	#
+##生成驴	#|
+item.spawn_egg.entity.mule.name=生成 骡子	#
+##生成骡子	#|
+item.spawn_egg.entity.skeleton_horse.name=生成 骷髅马	#
+##生成骷髅马	#|
+item.spawn_egg.entity.zombie_horse.name=生成 僵尸马	#
+##生成僵尸马	#|
+item.spawn_egg.entity.zombie.name=生成 僵尸	#
+##生成僵尸	#|
+item.spawn_egg.entity.drowned.name=生成 溺尸	#
+##水鬼蛋	#|溺尸蛋
+item.spawn_egg.entity.creeper.name=生成 爬行者	#
+##生成爬行者	#|
+item.spawn_egg.entity.skeleton.name=生成 骷髅	#
+##生成骷髅	#|
+item.spawn_egg.entity.spider.name=生成 蜘蛛	#
+##生成蜘蛛	#|
+item.spawn_egg.entity.zombie_pigman.name=生成 僵尸猪人	#
+##生成僵尸猪灵	#|
+item.spawn_egg.entity.slime.name=生成 史莱姆	#
+##生成史莱姆	#|
+item.spawn_egg.entity.enderman.name=生成 末影人	#
+##生成末影人	#|
+item.spawn_egg.entity.silverfish.name=生成 蠹虫	#
+##生成蠹虫	#|
+item.spawn_egg.entity.cave_spider.name=生成 洞穴蜘蛛	#
+##生成洞穴蜘蛛	#|
+item.spawn_egg.entity.ghast.name=生成 恶魂	#
+##生成恶魂	#|
+item.spawn_egg.entity.magma_cube.name=生成 岩浆怪	#
+##生成岩浆怪	#|
+item.spawn_egg.entity.blaze.name=生成 烈焰人	#
+##生成烈焰人	#|
+item.spawn_egg.entity.zombie_villager.name=生成 僵尸村民	#
+##生成僵尸村民	#|
+item.spawn_egg.entity.zombie_villager_v2.name=生成 僵尸村民	#
+##生成僵尸村民	#|
+item.spawn_egg.entity.witch.name=生成 女巫	#
+##生成女巫	#|
+item.spawn_egg.entity.stray.name=生成 流浪者	#
+##生成流浪者	#|
+item.spawn_egg.entity.husk.name=生成 尸壳	#
+##生成剥皮者	#|
+item.spawn_egg.entity.wither_skeleton.name=生成 凋灵骷髅	#
+##生成凋灵骷髅	#|
+item.spawn_egg.entity.guardian.name=生成 守卫者	#
+##生成守卫者	#|
+item.spawn_egg.entity.elder_guardian.name=生成 远古守卫者	#
+##生成老守卫者	#|
+item.spawn_egg.entity.shulker.name=生成 潜影贝	#
+##生成潜匿之贝	#|
+item.spawn_egg.entity.endermite.name=生成 末影螨	#
+##生成末影螨	#|
+item.spawn_egg.entity.evocation_illager.name=生成 唤魔者	#
+##生成唤魔者	#|
+item.spawn_egg.entity.vex.name=生成 恼鬼	#
+##生成威克斯	#|
+item.spawn_egg.entity.turtle.name=生成 海龟	#
+##生成海龟	#|
+item.spawn_egg.entity.dolphin.name=生成 海豚	#
+##生成海豚	#|
+item.spawn_egg.entity.phantom.name=生成幻翼	#
+##生成幻影	#|
+item.spawn_egg.entity.panda.name=生成 熊猫	#
+##生成熊猫	#|
+item.spawn_egg.entity.pillager.name=生成 掠夺者	#
+##生成劫掠者	#|
+item.spawn_egg.entity.fox.name=生成 狐狸	#
+##生成狐狸	#|
+item.spawn_egg.entity.unknown.name=生成 	#
+##生成	#|
+item.spawn_egg.entity.wandering_trader.name=生成 奸商	#
+##生成流浪商人	#|
+item.netherbrick.name=下界砖	#
+##地狱砖	#|
+item.quartz.name=下界石英	#
+##地狱石英	#|
+item.nether_wart.name=下界疣	#
+##地狱疣	#|
+item.netherStar.name=下界之星	#
+##地狱之星	#|
+item.portfolio.name=相册	#
+##个人资料	#|
+item.beetroot_seeds.name=甜菜种子	#
+##甜菜根种子	#|
+item.skull.char.name=模型	#
+##头颅	#|
+item.skull.creeper.name=爬行者的模型	#
+##爬行者的头	#|
+item.skull.dragon.name=龙的模型	#
+##龙首	#|
+item.skull.player.name=%s的模型	#
+##%s的头	#|
+item.skull.skeleton.name=骷髅模型	#
+##骷髅头颅	#|
+item.skull.wither.name=凋灵骷髅模型	#
+##凋灵骷髅头颅	#|
+item.skull.zombie.name=僵尸模型	#
+##僵尸的头	#|
+item.string.name=线	#
+##蛛丝	#|
+item.writable_book.name=书与笔	#
+##书和羽毛	#|
+item.phantom_membrane.name=幻翼膜	#
+##幻影薄膜	#|
+item.sweet_berries.name=甜浆果	#
+##甜莓	#|
+item.suspicious_stew.name=迷之炖菜	#
+##可疑的炖肉	#|
+itemGroup.name.stairs=楼梯	#
+##阶梯	#|
+itemGroup.name.grass=地表植物	#
+##地被植物	#|
+itemGroup.name.shulkerBox=潜影盒	#
+##潜匿之贝箱子	#|
+itemGroup.name.record=唱片	#
+##记录	#|
+itemGroup.name.skull=生物模型	#
+##生物颅骨	#|
+itemGroup.name.firework=烟花火箭	#
+##焰火	#|
+itemGroup.name.fireworkStars=烟火之星	#
+##焰火炸药	#|
+itemGroup.name.coral=珊瑚块	#
+##珊瑚区块	#|
+joincode.entry_popup.icon_button=加入代码按钮	#
+##%1 加入代码按钮		# Example: Apple join code button	#|
+joincode.entry_popup.icon_entry=加入代码输入 %1	#
+##%3 加入代码记录，第 %1 条，共 %2 条	# Example: Apple join code entry 2 of 5	#|
+joincode.tooltip.account.error=验证您的账户时出现了问题。请重启《Minecraft 教育版》并重试。	#
+##验证您的账户时出现了问题。请重启 Minecraft: Education Edition 并重试。	#|
+key.menuTabLeft=向左切换选项卡	#
+##菜单左选项卡	#|
+key.menuTabRight=向右切换选项卡		#
+##菜单右选项卡	#|
+keyboard.keyName.pgDown=下一个	#
+##PAGE DOWN 键	#|
+keyboard.keyName.pgUp=上一个	#
+##PAGE UP 键	#|
+library.connection.failed.body=我们无法连接至库。可能需要检查您的网络连接？	#
+##|
+library.findMoreWorlds=发现更多的世界	#
+##|
+library.leaveFeedback=留下反馈	#
+##|
+library.title=库	#
+##|
+library.welcome.1=欢迎来到《Minecraft 教育版 免费试用》库！	#
+##欢迎来到 Minecraft: Education Edition Library！	#|
+library.item.createdBy=作者：%s	#
+##|
+library.item.launch=创建世界	#
+##|
+library.item.button.share=分享	#
+##|
+library.item.progress.body=准备进入新世界，这可能需要几分钟时间。	#
+##|
+library.item.description=说明:	#
+##|
+mcoServer.title=MinecraftOnline世界	#
+##《我的世界》Online世界	#|
+menu.howToPlay.generalMessage=面向新老玩家的Minecraft百科全书。	#
+##面向新老玩家的《我的世界》百科全书。	#|
+menu.online=Minecraft Realms 	#
+##Minecraft Realms	#|
+multiplayer.info1=Minecraft 多人模式还未完成，但我们	#
+##《我的世界》多人模式还未完成，但我们	#|
+multiplayer.packErrors.realms=至少一个资源或行为包加载失败。可以尝试从您的 Realms 设置中下载这个世界和查看错误的详细信息。	#
+##至少一个资源或行为包加载失败。可以尝试从您的领域设置中下载这个世界和查看错误的详细信息。	#|
+multiplayer.player.joined.realms=%s 加入了 Realms 	#
+##%s 加入了领域	#|
+multiplayer.player.joined.realms.renamed=%s (之前被称为 %s) 加入了 Realms 	#
+##%s (之前被称为 %s) 加入了领域	#|
+multiplayer.player.left.realms=%s 退出了 Realms 	#
+##%s 退出了领域	#|
+options.attribution=属性	#
+##署名	#|
+options.broadcast.permissionError=您无权使用此功能。在 aka.ms/accountsettings 查看并更改您的隐私设置。	#
+##您无权使用此功能。请前往 aka.ms/MCMultiplayerHelp 查看如何检查并更改您的隐私设置。	#|
+options.dev_createRealmWithoutPurchase=无购买创建 Realms 	#
+##无购买创建领域	#|
+options.dev_flushOrphanedRealmsPurchases=清理被遗弃的 Realms 购买	#
+##清理被遗弃的领域购买	#|
+options.dev_enableDebugHudOverlay.renderchunks=渲染区块	#
+##能见度区块	#|
+options.dev_render_attach_pos.head_pos=模型位置	#
+##头颅位置	#|
+options.dev_use_fast_chunk_culling=使用快速区块挑选	#
+##使用快速区块精选	#|
+options.dev_useRetailXboxSandbox=使用少量 MSA 沙盒	#
+##|
+options.dev_realmsEnvironment= Realms 环境	#
+##领域环境	#|
+options.dev_realmsEndpoint= Realms 端点	#
+##领域端点	#|
+options.dev_realmsEndpointPayment= Realms 端点支付	#
+##领域端点支付	#|
+options.dev_realmsRelyingParty= Realms 信任方	#
+##领域信任方	#|
+options.dev_realmsRelyingPartyPayment= Realms 信任方支付	#
+##领域信任方支付	#|
+options.dev_resetTreatmentsToDefault=重置为默认值	#
+##|
+options.dev_clearTreatments=清除处理	#
+##|
+options.enableUITextToSpeech=启用 UI 屏幕阅读器（会导致部分设备游戏卡顿，请谨慎开启）	#
+##启用 UI 屏幕阅读器	#|
+options.group.realms=邀请至 Realms  Alpha？	#
+##邀请至领域 Alpha？	#|
+options.xboxliveBroadcastSettings=Microsoft账户设置	#
+##Microsoft 账户设置	#|
+options.xboxLiveAccountSettings=Microsoft账户设置	#
+##Microsoft 账户设置	#|
+options.xboxLiveSignedIn=已用Microsoft账户登录	#
+##已用 Microsoft 账户登录	#|
+options.xboxLiveSignedOut=已从Microsoft账户注销	#
+##已从 Microsoft 账户注销	#|
+options.snooper.desc=我们意在通过收集你的设备的相关信息，以帮助我们改进Minecraft。所有的数据都是匿名的，并已经全部列在下方。我们承诺不会用这些数据进行非法行为。但如果你想要取消匿名信息反馈，您随时都可以将其关闭！	#
+##我们意在通过收集你的设备的相关信息，以帮助我们改进《我的世界》。所有的数据都是匿名的，并已经全部列在下方。我们承诺不会用这些数据进行非法行为。但如果你想要取消匿名信息反馈，您随时都可以将其关闭！	#|
+options.touch=触摸屏	#
+##轻触	#|
+options.usetouchpad=准星瞄准	#
+##分离控制	#|
+options.achievementsDisabled.notSignedIn=本世界中可以获得成就，但您必须先登录至Microsoft账户。	#
+##本世界中可以获得成就，但您必须先登录至 Microsoft 账户。	#|
+options.multiplayerDisabled=无法在多人游戏中使用这个世界中启用的内容。	#
+##无法在多人游戏中使用这个世界中活跃的内容。	#|
+options.enableEducation=启用教育版？	#
+##启用 Education Edition？	#|
+options.enableEducation.message=会启用教育版化学功能。教育玩法可能会破坏你的世界。如果您选择继续，我们将以 [EDU] 为开头复制你的世界。	#
+##会启用 Education Edition 化学功能。教育玩法可能会破坏你的世界。如果您选择继续，我们将以 [EDU] 为开头复制你的世界。	#|
+options.enableEducationCreate.message=会启用教育版化学功能。其在您创建了世界之后将无法关闭。请注意，这些功能在具有中高内存的桌面设备上表现最好。	#
+##会启用 Education Edition 化学功能。其在您创建了世界之后将无法关闭。请注意，这些功能在具有中高内存的桌面设备上表现最好。	#|
+pauseScreen.feed=信息提要	#
+##动态信息	#|
+pauseScreen.xboxLiveDisconnect=糟糕！您的Microsoft账户断开了连接。您需要在主菜单中登录，重新打开您的世界，才能邀请更多的玩家。	#
+##糟糕！您的 Microsoft 账户断开了连接。您需要在主菜单中登录，重新打开您的世界，才能邀请更多的玩家。	#|
+feedbackScreen.body=有可以帮助《Minecraft》改进的点子？发现了一个你认为应该修复的漏洞？还是遇到了一个你需要帮助的问题？告诉我们！	#
+##有可以帮助《我的世界》改进的点子？发现了一个你认为应该修复的漏洞？还是遇到了一个你需要帮助的问题？告诉我们！	#|
+playscreen.joinableRealms=可加入的 Realms 	#
+##可加入的领域	#|
+playscreen.noFriendsRealms=你尚未成为任何 Realms 的成员。	#
+##你尚未成为任何领域的成员。	#|
+playscreen.header.realms= Realms 	#
+##领域	#|
+playscreen.realmsTrialWorld=30 天免费试玩	#
+##免费试用 Realms Plus 30 天	#|
+playscreen.realmsCreateFirstWorld=创建您的第一个 Realms 	#
+##创建您的第一个领域	#|
+playscreen.checkingRealmsCompatibility=正在检查 Realms 兼容性……	#
+##正在检查领域兼容性……	#|
+playscreen.fetchingRealms=正在提取 Realms ……	#
+##正在提取领域……	#|
+playscreen.confirmLeaveMessage=你确定要退出 Realms %1$s吗？	#
+##你确定要退出领域%1$s吗？	#|
+playscreen.realmClientOutdated=所有 Realms 已更新。您必须更新游戏才能继续在 Realms 中游戏。	#
+##所有领域已更新。您必须更新游戏才能继续在领域中游戏。	#|
+playscreen.realms= Realms 	#
+##领域	#|
+playscreen.realmsCompatibilityFailure=目前无法连接至 Realms 。我们会稍后再试。	#
+##目前无法连接至领域。我们会稍后再试。	#|
+playscreen.noLegacyWorldsFound.body=未发现来自其他版本的Minecraft的世界。	#
+##未发现来自其他版本的《我的世界》的世界。	#|
+playscreen.worldsStorage=世界存储空间：%s/%s	#
+##存储	#|
+permissions.ability.build=放置方块	#
+##建造	#|
+permissions.ability.mine=采集方块	#
+##挖掘	#|
+permissions.AddFriends=由于您Microsoft账户的设置问题，您无法添加好友。 您可以在 aka.ms/accountsettings 上的“隐私和在线安全”设置中进行更改。	#
+##由于您 Microsoft 账户的设置问题，您无法添加好友。请前往 aka.ms/MCMultiplayerHelp 查看如何检查并更改您的隐私设置。	#|
+permissions.MultiplayerSessions=由于您Microsoft账户的设置问题，您无法在 Realms 上玩。 您可以在 aka.ms/accountsettings 上的“隐私和在线安全”设置中进行更改。	#
+##由于您 Microsoft 账户的设置问题，您无法在 Realms 中进行游戏。请前往 aka.ms/MCMultiplayerHelp 查看如何检查并更改您的隐私设置。	#|
+permissions.Communications=由于您Microsoft账户的设置问题，您无法与其他玩家聊天。 您可以在 aka.ms/accountsettings 上的“隐私和在线安全”设置中进行更改。	#
+##由于您 Microsoft 账户的设置问题，您无法与其他玩家聊天。请前往 aka.ms/MCMultiplayerHelp 查看如何检查并更改您的隐私设置。	#|
+permissions.RealmsAddFriends=由于 Xbox Live 帐户设置问题，你将无法在你的 Realms 中添加新好友与你同玩。这可以在 Xbox.com 上的隐私与在线安全设置中进行更改。请问是否要继续？	#
+##由于 Xbox Live 帐户设置问题，你将无法在你的领域中添加新好友与你同玩。这可以在 Xbox.com 上的隐私与在线安全设置中进行更改。请问是否要继续？	#|
+permissions.MultiplayerSessionsOnConsole=您的Microsoft账户上的 Xbox 设置不允许进行多人游戏。在 aka.ms/accountsettings 上查看您的“隐私和在线安全”设置，确保您拥有 Xbox Live Gold 并且您的设置允许进行多人游戏。	#
+##由于您 Microsoft 账户上 Xbox 设置的问题，您无法进行多人游戏。请前往 aka.ms/MCMultiplayerHelp 查看如何检查并更改您的隐私设置。	#|
+permissions.nocheats.turnon=开启作弊	#
+##在作弊打开时设置操作	#|
+permissions.nocheats.turnoff=关闭作弊	#
+##在作弊关闭时设置操作	#|
+portfolioScreen.export=导出相册#
+##导出个人资料	#|
+potion.conduitPower=潮涌能量	#
+##导管能量	#|潮涌能量
+potion.slowFalling=缓降	#
+##缓慢下降	#|
+potion.slowFalling.postfix=缓降药水	#
+##缓慢下降药水	#|
+potion.turtleMaster.postfix=神龟药水	#
+##海龟大师药水	#|
+progressScreen.title.connectingRealms=正在连接 Realms 	#
+##正在连接领域	#|
+progressScreen.title.skin_loading=正在加载皮肤……	#
+##|
+progressScreen.message.skin_loading=您所选择的皮肤仍在加载。	#
+##|
+quiz.popup.text=测验将在新窗口中打开。 完成测验后您就可以返回《Minecraft》了。	#
+##测验将在新窗口中打开。 完成测验后您就可以返回《我的世界》了。	#|
+resourcePack.description.default.behaviorPacks=默认的Minecraft游戏玩法。	#
+##默认的《我的世界》游戏玩法。	#|
+resourcePack.crashRecovery.message=检测到游戏出现崩溃。	#
+##上一次资源加载失败。	#|
+storageManager.mcpack=Minecraft资源包	#
+##《我的世界》包	#|
+storageManager.mcaddon=MinecraftAddon#
+##《我的世界》插件	#|
+storageManager.mcworld=Minecraft存档	#
+##《我的世界》的世界	#|
+resourcepack.City=城市纹理包	#
+##城市材质包	#|
+resourcePack.vanilla.name=《Minecraft》材质包	#
+##《我的世界》材质包	#|
+resourcePack.vanilla.description=默认的《Minecraft》图形，现已新增了时尚的新材质！	#
+##默认的《我的世界》图形，现已新增了时尚的新材质！	#|
+selectServer.defaultName=Minecraft 服务器	#
+##《我的世界》服务器	#|
+selectWorld.uploadInProgress.msg=正在将旧世界发送到《Minecraft》... %d%%	#
+##正在将旧世界发送到《我的世界》... %d%%	#|
+selectWorld.hardcoreMode.info=失败后世界将会删除	#
+##死亡后世界将会删除	#|
+selectWorld.realmsComingSoon= Realms 即将推出！	#
+##领域即将推出！	#|
+selectWorld.realmsBeta= Realms 测试版	#
+##领域测试版	#|
+selectWorld.tab.realms= Realms 	#
+##领域	#|
+selectTemplate.createRealm=新建 Realms 	#
+##新建领域	#|
+selectTemplate.realm=新 Realms 	#
+##新领域	#|
+selectTemplate.realmInfo=你可以在创建 Realms 后将世界上传！	#
+##你可以在创建领域后将世界上传！	#|
+selectTemplate.signIn=用Microsoft账户创建 Realms 	#
+##用 Microsoft 账户创建领域	#|
+selectTemplate.unableToSignIn=Microsoft服务在此设备上不可用	#
+##Microsoft 服务在此设备上不可用	#|
+selectTemplate.myTemplates=Minecraft模板	#
+##我的世界模板	#|
+skinpack.Education=教育版皮肤	#
+##Education Edition 皮肤	#|
+skins.information.invalidCustomSkin=选择的图像不能作为Minecraft皮肤	#
+##选择的图像不能作为《我的世界》皮肤	#|
+stat.armorCleaned=清洗过的护甲	#
+##清洗过的护甲片	#|
+stat.beaconInteraction=与信标交互	#
+##与信标互动	#|
+stat.brewingstandInteraction=与酿造台交互	#
+##与酿造台互动	#|
+stat.deaths=失败次数	#
+##死亡次数	#|
+stat.entityKilledBy=%s 击败了你 %d 次	#
+##%s 杀死了你 %d 次	#|
+stat.entityKilledBy.none=您从未被 %s 击败	#
+##您从未被 %s 杀死	#|
+stat.entityKills=你击败了 %d只 %s	#
+##你杀死了 %d只 %s	#|
+stat.entityKills.none=你从来没有击败过 %s	#
+##你从来没有杀死过 %s	#|
+stat.furnaceInteraction=与熔炉交互	#
+##与熔炉互动	#|
+stat.mobKills=生物击败数	#
+##生物击杀数	#|
+stat.playerKills=玩家击败数	#
+##玩家击杀数	#|
+stat.recordPlayed=播放的唱片	#
+##演奏的记录	#|
+stat.timeSinceDeath=自上次失败	#
+##自上次死亡	#|
+store.realmsPlus.manageSubscrpition=管理订阅	#
+##|
+store.realmsPlus.startTrial.description=您的 Realm 和 50 多个市场包将立即可用。至多 10 名玩家可以同时玩，并且他们可以访问您的 Realm 内的所有订阅内容——免费地！首月是免费的，之后您将被收取 %s/月的费用，并且您可以随时取消。	#
+##您的 Realm 和 50 多个市场包将立即可用。至多 10 名玩家可以同时玩，并且他们可以免费访问您的 Realm 内的世界！首月是免费的，之后您将被收取 %s/月的费用，并且您可以随时取消。	#|
+store.realmsPlus.landing.info2.line2=- 在任何带有《Minecraft》市场的设备上玩	#
+##- 在任何带有 Realms 和《我的世界》市场的设备上玩	#|
+store.realmsPlus.landing.info2.line3=- 支持《Minecraft》社区	#
+##- 支持《我的世界》社区	#|
+store.realmsPlus.faq.question1=Realms Plus 是什么？	#
+##什么是 Realms Plus？	#|
+store.realmsPlus.faq.answer1=每月只需支付较低的价格，即可无限访问 50 多个超棒的《Minecraft》的世界、材质包、皮肤包、混搭包，一个可同时容纳至多 10 名玩家的个人 Realms 服务器，以及用于存储您的世界的专属云存储空间。	#
+##每月只需支付较低的价格，即可无限访问 50 多个超棒的《我的世界》的世界、材质包、皮肤包、混搭包，一个可同时容纳至多 10 名玩家的个人 Realms 服务器，以及用于存储您的世界的专属云存储空间。	#|
+store.realmsPlus.faq.answer3=您的好友无需 Realms Plus 订阅即可加入一个 Realm。您可以邀请任何好友免费加入您的 Realm。	#
+##您的好友无需 Realms Plus 订阅即可加入一个 Realm。您可以邀请任何能够访问 Realms 的好友免费加入您的 Realm。	#|
+store.realmsPlus.faq.question4=我可以在我自己的 Realm 上托管我的 Realms Plus 世界、材质包、皮肤和混搭包吗？	#
+##我可以在我自己的 Realm 上托管我的 Realms Plus 世界、材质包和混搭包吗？	#|
+store.realmsPlus.faq.answer4=可以！您可以将来自 Realms Plus 目录的任何世界、材质包、皮肤和混搭包，或者您在《Minecraft》市场的购买上传到您的 Realm，并邀请您的好友免费加入。	#
+##可以！您可以将来自 Realms Plus 目录的任何世界、材质包和混搭包，或者您在《我的世界》市场的购买上传到您的 Realm，并邀请您的朋友免费加入。	#|
+store.realmsPlus.faq.answer7=Realms Plus 成员可以无限制访问 50 多个超棒的《Minecraft》的世界、材质包、皮肤包和混搭包，直到订阅被取消/过期，或者包不再在目录中。	#
+##Realms Plus 成员可以无限制访问 50 多个超棒的《我的世界》的世界、材质包、皮肤包和混搭包，直到订阅被取消/过期，或者包不再在目录中。	#|
+store.realmsPlus.faq.question9=哪些版本的《Minecraft》支持 Realms Plus？	#
+##哪些版本的《我的世界》支持 Realms Plus？	#|
+store.realmsPlus.faq.answer9=目前，手机版、Windows 10 版、Xbox One S 版、Xbox One X 版以及任天堂 Switch 版的《Minecraft》上都可以使用 Realms Plus。	#
+##目前，手机版、Windows 10 版、Xbox One S 版、Xbox One X 版以及任天堂 Switch 版的《我的世界》上都可以使用 Realms Plus。	#|
+store.realmsPlus.faq.answer10=可以！如果您在一台设备上购买了 Realms Plus，您只需登录至您的《Minecraft》账号，就可以在任何《Minecraft》Bedrock 版本中使用所有的包、Realm 服务器和云存储功能。	#
+##可以！如果您在任何一台启用了 Realms 的 Bedrock 设备上购买了 Realms Plus，您只需登录至您的《我的世界》账号，就可以在任何可使用 Realms 的《我的世界》Bedrock 版本中使用所有的包、个人服务器和存储功能。	#|
+store.realmsPlus.faq.answer12=如果您的订阅结束，您和您的好友将不再能够在 Realms 上一起在线玩，并且您将不再能够访问包或云存储。在订阅结束后的 18 个月内，您将能够购买和下载保存到您的 Realm 和云存储中的任何世界模板，《Minecraft》不再提供这些世界模板的情况除外。如果您此前使用的是 Realms Plus 世界、材质包或混搭包，您需要在商店中购买这些包，或者如果这些包仍在 Realm Plus 中的话，您需要重新订阅，才能玩这些世界模板。	#
+##如果您的订阅结束，您和您的好友将不再能够在 Realms 上一起在线玩，并且您将不再能够访问包或云存储。在订阅结束后的 18 个月内，您将能够购买和下载保存到您的 Realm 和云存储中的任何世界模板，《我的世界》不再提供这些世界模板的情况除外。如果您此前使用的是 Realms Plus 世界、材质包或混搭包，您需要在商店中购买这些包，或者如果这些包仍在 Realms Plus 中的话，您需要重新订阅，才能玩这些世界模板。	#|
+store.realmsPlus.content.contentDescription=畅享精彩的《Minecraft》内容！有了 Realms Plus，您可以立即访问 50 多个市场物品，例如混搭包、世界、皮肤包和史诗级冒险——而且每个月都会添加新的内容。您的内容将存储在您专属的个人服务器上，并且可以从任何您能够访问《Minecraft》市场的平台上进行使用。至多 10 名玩家可以同时玩，并且他们可以访问您的 Realm 内的所有订阅内容——免费地！	#
+##畅享精彩的《我的世界》内容！有了 Realms Plus，您可以立即访问 50 多个市场物品，例如混搭包、世界、皮肤包和史诗级冒险——而且每个月都会添加新的内容。您的内容将存储在您专属的个人服务器上，并且可以在任何您享有 Realms 和《我的世界》市场的平台上进行使用。至多 10 名玩家可以同时玩，并且他们可以免费访问您的 Realm 内的世界！	#|
+store.popup.trialUpgradeFail.msg=您似乎登录了一个与您最初下载《Minecraft》试用版的账户不同的Microsoft账户。在登录那个账户后再试一次。	#
+##您似乎登录了一个与您最初下载《我的世界》试用版的账户不同的 Microsoft 账户。在登录那个账户后再试一次。	#|
+store.content.requireXbl.signedIn=用Microsoft账户可免费下载。	#
+##用 Microsoft 账户可免费下载。	#|
+store.content.requireXbl.notSignedIn=登录至Microsoft账户以解锁。	#
+##登录至 Microsoft 账户以解锁。	#|
+store.ratings.signIn.description2=您需要先使用Microsoft账户登录，然后才能为某个物品评级。	#
+##您需要先使用 Microsoft 账户登录，然后才能为某个物品评级。	#|
+store.purchase.signInPart2=用Microsoft账户登录，开始使用市场！	#
+##用 Microsoft 账户登录，开始使用市场！	#|
+store.coins.incomplete.fulfill.b=看来您用了其他Microsoft账户开始购买。是否要用这个账户完成购买？	#
+##看来您用了其他 Microsoft 账户开始购买。是否要用这个账户完成购买？	#|
+store.featured.realms.title=免费试玩 Realms 	#
+##免费试玩领域	#|
+store.featured.realms.desc=和您的好友一起体验游玩儿Minecraft的最佳方式。	#
+##和您的好友一起体验游玩儿《我的世界》的最佳方式。	#|
+store.promo.comingSoon=为期 12 天的《Minecraft》将于明天开始！	#
+##为期 12 天的《我的世界》将于明天开始！	#|
+store.promo.holiday.first=在《Minecraft》的第一天，	#
+##在《我的世界》的第一天，	#|
+store.promo.holiday.second=在《Minecraft》的第二天，	#
+##在《我的世界》的第二天，	#|
+store.promo.holiday.third=在《Minecraft》的第三天，	#
+##在《我的世界》的第三天，	#|
+store.promo.holiday.fourth=在《Minecraft》的第四天，	#
+##在《我的世界》的第四天，	#|
+store.promo.holiday.fifth=在《Minecraft》的第五天，	#
+##在《我的世界》的第五天，	#|
+store.promo.holiday.sixth=在《Minecraft》的第六天，	#
+##在《我的世界》的第六天，	#|
+store.promo.holiday.seventh=在《Minecraft》的第七天，	#
+##在《我的世界》的第七天，	#|
+store.promo.holiday.eighth=在《Minecraft》的第八天，	#
+##在《我的世界》的第八天，	#|
+store.promo.holiday.ninth=在《Minecraft》的第九天，	#
+##在《我的世界》的第九天，	#|
+store.promo.holiday.tenth=在《Minecraft》的第十天，	#
+##在《我的世界》的第十天，	#|
+store.promo.holiday.eleventh=在《Minecraft》的第十一天，	#
+##在《我的世界》的第十一天，	#|
+store.promo.holiday.twelfth=在《Minecraft》的第十二天，	#
+##在《我的世界》的第十二天，	#|
+store.minecoin.notavailable=此版本的《Minecraft》尚未推出硬币购买。	#
+##此版本的《我的世界》尚未推出硬币购买。	#|
+stream.unavailable.account_not_bound=在通过Twitch直播Minecraft之前，你需要在mojang.com上绑定你的Twitch账户。是否马上开启？	#
+##在通过Twitch直播《我的世界》之前，你需要在mojang.com上绑定你的Twitch账户。是否马上开启？	#|
+stream.unavailable.account_not_migrated=在您通过Twitch直播Minecraft之前，您需要将您的Minecraft账号转移至一个Mojang账号。是否马上开始？	#
+##在您通过Twitch直播《我的世界》之前，您需要将您的《我的世界》账号转移至一个Mojang账号。是否马上开始？	#|
+stream.unavailable.library_arch_mismatch=您用于启动Minecraft的自定义Java版本与运行启动器的Java版本结构不同。请确保两者相同，即都是32位或都是64位。	#
+##您用于启动《我的世界》的自定义Java版本与运行启动器的Java版本结构不同。请确保两者相同，即都是32位或都是64位。	#|
+tile.acacia_fence_gate.name=金合欢木围墙大门	#
+##金合欢木围墙门	#|
+tile.conduit.name=潮涌核心	#
+##导管	#|潮涌核心
+tile.birch_fence_gate.name=桦木围墙大门	#
+##桦木围墙门	#|
+tile.brown_mushroom.name=蘑菇	#
+##棕色蘑菇	#|
+tile.brown_mushroom_block.name=蘑菇	#
+##|
+tile.dried_kelp_block.name=干海带块	#
+##干海带区块	#|
+tile.chalkboard.oneByOne.name=小黑板	#
+##石板	#|
+tile.chalkboard.twoByOne.name=大黑板	#
+##海报	#|
+tile.shulkerBoxWhite.name=白色潜影盒	#
+##白色潜匿之贝箱子	#|
+tile.shulkerBoxOrange.name=橙色潜影盒	#
+##橙色潜匿之贝箱子	#|
+tile.shulkerBoxMagenta.name=品红色潜影盒	#
+##品红色潜匿之贝箱子	#|
+tile.shulkerBoxLightBlue.name=淡蓝色潜影盒	#
+##淡蓝色潜匿之贝箱子	#|
+tile.shulkerBoxYellow.name=黄色潜影盒	#
+##黄色潜匿之贝箱子	#|
+tile.shulkerBoxLime.name=黄绿色潜影盒	#
+##黄绿色潜匿之贝箱子	#|
+tile.shulkerBoxPink.name=粉红色潜影盒	#
+##粉红色潜匿之贝箱子	#|
+tile.shulkerBoxGray.name=灰色潜影盒	#
+##灰色潜匿之贝箱子	#|
+tile.shulkerBoxSilver.name=淡灰色潜影盒	#
+##淡灰色潜匿之贝箱子	#|
+tile.shulkerBoxCyan.name=青色潜影盒	#
+##青色潜匿之贝箱子	#|
+tile.shulkerBoxPurple.name=紫色潜影盒	#
+##紫色潜匿之贝箱子	#|
+tile.shulkerBoxBlue.name=蓝色潜影盒	#
+##蓝色潜匿之贝箱子	#|
+tile.shulkerBoxBrown.name=棕色潜影盒	#
+##棕色潜匿之贝箱子	#|
+tile.shulkerBoxGreen.name=绿色潜影盒	#
+##绿色潜匿之贝箱子	#|
+tile.shulkerBoxRed.name=红色潜影盒	#
+##红色潜匿之贝箱子	#|
+tile.shulkerBoxBlack.name=黑色潜影盒	#
+##黑色潜匿之贝箱子	#|
+tile.shulkerBox.name=潜影盒	#
+##潜匿之贝箱子	#|
+tile.chorus_flower.name=紫颂花	#
+##共鸣花	#|
+tile.chorus_plant.name=紫颂植物	#
+##共鸣植物	#|
+tile.structure_block.name=结构方块	#
+##建筑方块	#|
+tile.structure_void.name=结构空位	#
+##建筑空隙	#|
+tile.cobblestone_wall.nether_brick.name=下界砖墙	#
+##地狱砖墙	#|
+tile.cobblestone_wall.red_nether_brick.name=红色下界砖墙	#
+##红色地狱砖墙	#|
+tile.dark_oak_fence_gate.name=深色橡木围墙大门	#
+##深色橡木围墙门	#|
+tile.deadbush.name=枯萎的灌木	#
+##枯死的灌木	#|
+tile.purpur_block.default.name=紫珀块	#
+##紫珀方块	#|
+tile.purpur_block.lines.name=竖纹紫珀块	#
+##紫珀柱子	#|
+tile.fence_gate.name=橡木围墙大门	#
+##橡木围墙门	#|
+tile.red_flower.lilyOfTheValley.name=铃兰	#
+##幽谷百合	#|
+tile.wither_rose.name=凋零玫瑰	#
+##枯萎的玫瑰	#|
+tile.grass_path.name=草径	#
+##绿茵小道	#|
+tile.hay_block.name=干草块	#
+##干草捆	#|
+tile.netherrack.name=下界岩	#
+##地狱岩	#|
+tile.blue_ice.name=蓝冰	#
+##蓝色冰	#|
+tile.jungle_fence_gate.name=丛林木围墙大门	#
+##丛林木围墙门	#|
+tile.leaves.big_oak.name=深色橡树叶	#
+##深色像树叶	#|
+tile.leaves2.big_oak.name=深色橡树叶	#
+##深色像树叶	#|
+tile.nether_brick.name=下界砖块	#
+##地狱砖块	#|
+tile.red_nether_brick.name=红色下界砖	#
+##红色地狱砖	#|
+tile.nether_brick_fence.name=下界砖围墙	#
+##地狱砖围墙	#|
+tile.quartz_ore.name=下界石英矿石	#
+##地狱石英矿石	#|
+tile.netherreactor.builtTooHigh=需要将下界反应器构建得更低一些。	#
+##需要将地狱反应器构建得更低一些。	#|
+tile.netherreactor.builtTooLow=需要将下界反应器构建得更高一些。	#
+##需要将地狱反应器构建得更高一些。	#|
+tile.netherreactor.name=下界反应核	#
+##地狱反应核	#|
+tile.nether_wart.name=下界疣	#
+##地狱疣	#|
+tile.nether_wart_block.name=下界疣方块	#
+##地狱疣方块	#|
+tile.observer.name=侦测器	#
+##观察者	#|
+tile.red_mushroom.name=蘑菇	#
+##红蘑菇	#|
+tile.red_mushroom_block.name=蘑菇	#
+##红蘑菇方块	#|
+tile.red_sandstone.cut.name=切制红沙石	#
+##切割红沙石	#|
+tile.sandstone.cut.name=切制沙石	#
+##切割沙石	#|
+tile.spruce_fence_gate.name=云杉围墙大门	#
+##云杉围墙门	#|
+tile.brick_stairs.name=砖块楼梯	#
+##砖块阶梯	#|
+tile.nether_brick_stairs.name=下界砖楼梯	#
+##地狱砖阶梯	#|
+tile.quartz_stairs.name=石英楼梯	#
+##石英阶梯	#|
+tile.red_sandstone_stairs.name=红沙石楼梯	#
+##红沙石阶梯	#|
+tile.sandstone_stairs.name=沙石楼梯	#
+##沙石阶梯	#|
+tile.stone_stairs.name=圆石楼梯	#
+##石阶梯	#|
+tile.normal_stone_stairs.name=石楼梯	#
+##石质阶梯	#|
+tile.stone_brick_stairs.name=石砖楼梯	#
+##石砖阶梯	#|
+tile.oak_stairs.name=橡木楼梯	#
+##橡木阶梯	#|
+tile.acacia_stairs.name=金合欢木楼梯	#
+##金合欢木阶梯	#|
+tile.birch_stairs.name=桦木楼梯	#
+##桦木阶梯	#|
+tile.dark_oak_stairs.name=深色橡木楼梯	#
+##深色橡木阶梯	#|
+tile.jungle_stairs.name=丛林木楼梯	#
+##丛林木阶梯	#|
+tile.spruce_stairs.name=云杉木楼梯	#
+##云杉木阶梯	#|
+tile.purpur_stairs.name=紫珀楼梯	#
+##紫珀阶梯	#|
+tile.prismarine_stairs.name=海晶石楼梯	#
+##海晶石阶梯	#|
+tile.dark_prismarine_stairs.name=暗海晶石楼梯	#
+##暗海晶石阶梯	#|
+tile.prismarine_bricks_stairs.name=海晶石砖楼梯	#
+##海晶石砖阶梯	#|
+tile.granite_stairs.name=花岗岩楼梯	#
+##花岗岩阶梯	#|
+tile.diorite_stairs.name=闪长岩楼梯	#
+##闪长岩阶梯	#|
+tile.andesite_stairs.name=安山岩楼梯	#
+##安山岩阶梯	#|
+tile.polished_granite_stairs.name=磨制花岗岩楼梯	#
+##磨制花岗岩阶梯	#|
+tile.polished_diorite_stairs.name=磨制闪长岩楼梯	#
+##磨制闪长岩阶梯	#|
+tile.polished_andesite_stairs.name=磨制安山岩楼梯	#
+##磨制安山岩阶梯	#|
+tile.mossy_stone_brick_stairs.name=苔石砖楼梯	#
+##苔石砖阶梯	#|
+tile.smooth_red_sandstone_stairs.name=平滑红沙石楼梯	#
+##平滑红沙石阶梯	#|
+tile.smooth_sandstone_stairs.name=平滑沙石楼梯	#
+##平滑沙石阶梯	#|
+tile.end_brick_stairs.name=末地石砖楼梯	#
+##末地石砖阶梯	#|
+tile.mossy_cobblestone_stairs.name=苔圆石楼梯	#
+##苔圆石阶梯	#|
+tile.red_nether_brick_stairs.name=红色下界砖楼梯	#
+##红色地狱砖阶梯	#|
+tile.double_stone_slab.nether_brick.name=下界砖台阶	#
+##地狱砖台阶	#|
+tile.double_stone_slab.quartz.name=双石英台阶	#
+##石英台阶	#|
+tile.stone_slab.nether_brick.name=下界砖台阶	#
+##地狱砖台阶	#|
+tile.stone_slab2.red_nether_brick.name=红色下界砖台阶	#
+##红色地狱砖台阶	#|
+tile.stone_slab4.cut_sandstone.name=切制沙石台阶	#
+##切割沙石台阶	#|
+tile.stone_slab4.cut_red_sandstone.name=切制红沙石台阶	#
+##切割红沙石台阶	#|
+tile.coral_block.blue.name=管珊瑚块	#
+##管珊瑚区块	#|
+tile.coral_block.pink.name=脑纹珊瑚块	#
+##脑珊瑚区块	#|
+tile.coral_block.purple.name=气泡珊瑚块	#
+##泡珊瑚区块	#|
+tile.coral_block.red.name=火珊瑚块	#
+##火珊瑚区块	#|
+tile.coral_block.yellow.name=鹿角珊瑚块	#
+##角珊瑚区块	#|
+tile.coral_block.blue_dead.name=死亡管珊瑚块	#
+##死亡管珊瑚区块	#|
+tile.coral_block.pink_dead.name=死亡脑纹珊瑚块	#
+##死亡脑珊瑚区块	#|
+tile.coral_block.purple_dead.name=死亡气泡珊瑚块	#
+##死亡泡珊瑚区块	#|
+tile.coral_block.red_dead.name=死亡火珊瑚块	#
+##死亡火珊瑚区块	#|
+tile.coral_block.yellow_dead.name=死亡鹿角珊瑚块	#
+##死亡角珊瑚区块	#|
+tile.coral.pink.name=脑纹珊瑚	#
+##脑珊瑚	#|
+tile.coral.purple.name=气泡珊瑚	#
+##泡珊瑚	#|
+tile.coral.yellow.name=鹿角珊瑚	#
+##角珊瑚	#|
+tile.coral_fan.pink_fan.name=脑纹珊瑚扇	#
+##脑珊瑚扇	#|
+tile.coral_fan.purple_fan.name=气泡珊瑚扇	#
+##泡珊瑚扇	#|
+tile.coral_fan.yellow_fan.name=鹿角珊瑚扇	#
+##角珊瑚扇	#|
+tile.coral_fan_dead.pink_fan.name=死亡脑纹珊瑚扇	#
+##死亡脑珊瑚扇	#|
+tile.coral_fan_dead.purple_fan.name=死亡气泡珊瑚扇	#
+##死亡泡珊瑚扇	#|
+tile.coral_fan_dead.yellow_fan.name=死亡鹿角珊瑚扇	#
+##死亡角珊瑚扇	#|
+tile.tnt.name=炸药	#
+##TNT	#|
+tile.trapdoor.name=橡木活板门	#
+##橡树活板门	#|
+tile.heavy_weighted_pressure_plate.name=测重压力板（重型）	#
+##重力压力板（重型）	#|
+tile.light_weighted_pressure_plate.name=测重压力板（轻型）	#
+##重力压力板（轻型）	#|
+tile.grindstone.name=砂轮	#
+##磨石	#|
+tile.smoker.name=烟熏炉	#
+##火炉	#|
+tile.sweet_berry_bush.name=甜浆果灌木丛	#
+##甜莓灌木丛	#|
+tipped_arrow.effect.turtleMaster=神龟之箭	#
+##海龟大师之箭	#|
+tipped_arrow.effect.slowFalling=缓降之箭	#
+##缓慢下降之箭	#|
+structure_block.title=结构方块	#
+##建筑方块	#|
+structure_block.structure_name=结构名称	#
+##建筑名称	#|
+structure_block.mode.save.experimental=保存（实验性）	#
+##|
+structure_block.mode.load.experimental=加载（实验性）	#
+##|
+structure_block.export.disabled_message=导出在来自《Minecraft》市场的世界模板上是禁用的。	#
+##导出在来自《我的世界》市场的世界模板上是禁用的。	#|
+structure_block.experimental=“世界选项” 中的 “使用实验玩法”设置必须打开才能使用 “建筑方块”。	#
+##|
+worldConversionErrorReport.terms.agreement=按下“同意”，即表示您同意将您的世界上载到《Minecraft》团队。Microsoft服务协议和隐私声明将适用于此处。	#
+##按下“同意”，即表示您同意将您的世界上载到《我的世界》团队。Microsoft 服务协议和隐私声明将适用于此处。	#|
+worldConversionErrorReport.terms.agreementForBeta=上载您的世界，即表示您授权Microsoft测试、复制、修改、分发和公开显示您的世界以便支持将您的世界传输到《Minecraft》。	#
+##上载您的世界，即表示您授权 Microsoft 测试、复制、修改、分发和公开显示您的世界以便支持将您的世界传输到《我的世界》。	#|
+worldConversionErrorReport.sending.description=正在将旧世界发送到《Minecraft》...	#
+##正在将旧世界发送到《我的世界》...	#|
+trial.survival.welcome=欢迎使用Minecraft试用！	#
+##欢迎使用《我的世界》试用！	#|
+trial.upsell.trialLabel=《Minecraft》试用版	#
+##《我的世界》试用版	#|
+ratingPopUp.title=喜欢《Minecraft》吗？	#
+##喜欢《我的世界》吗？	#|
+trial.upsell.expiredDescription.line5=-发现神秘建筑和 Realms 	#
+##-发现神秘建筑和领域	#|
+trial.tabbed_upsell.button=购买《Minecraft》！	#
+##购买《我的世界》！	#|
+trial.tabbed_upsell.buttonAlternate=解锁《Minecraft》完整游戏	#
+##解锁《我的世界》完整游戏	#|
+trial.tabbed_upsell.minecraft.title=Minecraft 	#
+##《我的世界》	#|
+trial.tabbed_upsell.xbl.title=Microsoft账户	#
+##Microsoft 账户	#|
+trial.tabbed_upsell.xbl.description=您可以借助完整的《Minecraft》体验获得创造模式、成就等等，另外您还可以借助Microsoft账户在《Minecraft》社区中结识其他玩家！您可以加入您好友的世界，在服务器上结识新的好友，并将您的市场购买同步到您玩《Minecraft》的任何地方。	#
+##您可以借助完整的《我的世界》体验获得创造模式、成就等等，另外您还可以借助 Microsoft 账户在《我的世界》社区中结识其他玩家！您可以加入您好友的世界，在服务器上结识新的好友，并将您的市场购买同步到您玩《我的世界》的任何地方。	#|
+trial.tabbed_upsell.achievements.description=除了获得带有创造模式、多人游戏等等的完整《Minecraft》游戏体验，您还将获得成就和玩家分数。它们将记录您的《Minecraft》进度，并向您的Microsoft账户好友展示您的成就。立即获得完整游戏来开始获得它们！	#
+##除了获得带有创造模式、多人游戏等等的完整《我的世界》游戏体验，您还将获得成就和玩家分数。它们将记录您的《我的世界》进度，并向您的 Microsoft 账户好友展示您的成就。立即获得完整游戏来开始获得它们！	#|
+trial.tabbed_upsell.multiplayer.description=完整的《Minecraft》游戏体验能够让您享受创造模式、成就以及与您的好友在多种《Minecraft》设备上进行多人游戏！和控制台、电脑和移动端上的好友一起玩，一起创造、探索和生存。立即解锁完整的《Minecraft》游戏体验！	#
+##完整的《我的世界》游戏体验能够让您享受创造模式、成就以及与您的好友在多种《我的世界》设备上进行多人游戏！和控制台、电脑和移动端上的好友一起玩，一起创造、探索和生存。立即解锁完整的《我的世界》游戏体验！	#|
+trial.tabbed_upsell.server.description=服务器提供了一些享受《Minecraft》的最有创意的方式！玩精彩的小游戏，邂逅《Minecraft》社区并结识新的好友。立即解锁完整的《Minecraft》游戏体验以尝试服务器！	#
+##服务器提供了一些享受《我的世界》的最有创意的方式！玩精彩的小游戏，邂逅《我的世界》社区并结识新的好友。立即解锁完整的《我的世界》游戏体验以尝试服务器！	#|
+trial.tabbed_upsell.store.description=访问我们的游戏内商店——《Minecraft》市场。用新的皮肤让自己焕然一新，更改您的世界，或者探索来自最佳的社区创建者的神奇新地图！立即获得完整游戏！	#
+##访问我们的游戏内商店——《我的世界》市场。用新的皮肤让自己焕然一新，更改您的世界，或者探索来自最佳的社区创建者的神奇新地图！立即获得完整游戏！	#|
+trial.tabbed_upsell.creative.description=购买《Minecraft》并获得创造模式！访问整个物品栏——唯一能限制您建造的东西的只有您的想象力！飞遍您的世界，用任何东西、一切东西建造您的梦想之家，或者干脆用无限量的 TNT 炸掉一座山！ 	#
+##购买《我的世界》并获得创造模式！访问整个物品栏——唯一能限制您建造的东西的只有您的想象力！飞遍您的世界，用任何东西、一切东西建造您的梦想之家，或者干脆用无限量的 TNT 炸掉一座山！ 	#|
+trial.tabbed_upsell.addon.description=想让狼表现得像兔子一样吗？把所有的树都变成棉花糖？您可以在完整的《Minecraft》游戏体验中使用附加件改变一切！此外，您还可以访问多人游戏、创造模式、成就等等！立即购买《Minecraft》获得完整访问权限！	#
+##想让狼表现得像兔子一样吗？把所有的树都变成棉花糖？您可以在完整的《我的世界》游戏体验中使用附加件改变一切！此外，您还可以访问多人游戏、创造模式、成就等等！立即购买《我的世界》获得完整访问权限！	#|
+trial.tabbed_upsell.seeds.description=解锁完整的《Minecraft》游戏体验，获得访问种子的权限！种子会帮助您发现新的生物群系——在冰原上生存，攀登险峻的山峰，或者徒步穿越沙漠。立即以独特的模板开始游戏或探索随机的新世界！立即购买《Minecraft》，获得访问种子、创造模式、多人游戏以及更多内容的权限！	#
+##解锁完整的《我的世界》游戏体验，获得访问种子的权限！种子会帮助您发现新的生物群系——在冰原上生存，攀登险峻的山峰，或者徒步穿越沙漠。立即以独特的模板开始游戏或探索随机的新世界！立即购买《我的世界》，获得访问种子、创造模式、多人游戏以及更多内容的权限！	#|
+trial.starter.collection.title=《Minecraft》新手系列	#
+##《我的世界》新手系列	#|
+trial.master.collection.title=《Minecraft》大师系列	#
+##《我的世界》大师系列	#|
+trial.starter.offer=获得《Minecraft》、700 个 Minecoin、2 个皮肤包、1 个材质包和 1 个混搭包。	#
+##获得《我的世界》、700 个 Minecoin、2 个皮肤包、1 个材质包和 1 个混搭包。	#|
+trial.master.offer=获得《Minecraft》、1000 个 Minecoin、4 个皮肤包、2 个材质包、3 张地图和 1 个混搭包。	#
+##获得《我的世界》、1000 个 Minecoin、4 个皮肤包、2 个材质包、3 张地图和 1 个混搭包。	#|
+trial.collection.5.description=将您的《Minecraft》的世界转变成一部漫画！	#
+##将您的《我的世界》的世界转变成一部漫画！	#|
+verification.nolicense.description=我们在确认您在这个设备上拥有《Minecraft》时遇到了困难。请确保您已经从商店下载并安装了《Minecraft》。或者直接重新连接到互联网并再试一次。	#
+##我们在确认您在这个设备上拥有《我的世界》时遇到了困难。请确保您已经从商店下载并安装了《我的世界》。或者直接重新连接到互联网并再试一次。	#|
+xbox.signin.error=请登录至Microsoft账户，与好友畅玩，获取玩家分数和成就。	#
+##请登录至 Microsoft 账户，与好友畅玩，获取玩家分数和成就。	#|
+xbox.signin.error.pocket.line1=感谢测试 Realms ！这些功能不是最终版，你可能遇到漏洞。请向我们发送反馈！我们乐于倾听。	#
+##感谢测试领域！这些功能不是最终版，你可能遇到漏洞。请向我们发送反馈！我们乐于倾听。	#|
+xbox.signin.error.pocket.line3=在此测试中，每个人都必须登录到Microsoft账户，以便将邀请发送给您并添加到 Realm 中。	#
+##在此测试中，每个人都必须登录到 Microsoft 账户，以便将邀请发送给您并添加到 Realm 中。	#|
+xbox.connection.error=已从Microsoft账户断开连接	#
+##已从 Microsoft 账户断开连接	#|
+xbox.signin.message=使用您的免费Microsoft帐户登录，体验《Minecraft》的完整世界。	#
+##使用您的免费 Microsoft 帐户登录，体验《我的世界》的完整世界。	#|
+xbox.signin.useDifferentAccount=使用不同的Microsoft帐户登录	#
+##使用不同的 Microsoft 帐户登录	#|
+xbox.signingin=正在用Microsoft账户登录…	#
+##正在用 Microsoft 账户登录…	#|
+xbox.firstsignin.line1=欢迎来到《Minecraft》！使用Microsoft账户开始连接《Minecraft》社区，在那里，PC、控制台、手机和平板玩家可以一起畅玩。至于最棒的部分？	#
+##欢迎来到《我的世界》！使用 Microsoft 账户开始连接《我的世界》社区，在那里，PC、控制台、手机和平板玩家可以一起畅玩。至于最棒的部分？	#|
+xbox.firstsignin.line3=还没有账户？马上创建一个以获得成就，并加入 Realms 和服务器吧！	#
+##还没有账户？马上创建一个以获得成就，并加入领域和服务器吧！	#|
+xbox.failedsignin.line1=我们尝试过登录您的Microsoft帐户，但出现了错误。	#
+##我们尝试过登录您的 Microsoft 帐户，但出现了错误。	#|
+xbox.failedsignin.line2=如果你没有登录便开始游戏，将无法看到好友列表，获得成就，加入 Realms ，或在 Xbox Live 上进行在线游戏。	#
+##如果你没有登录便开始游戏，将无法看到好友列表，获得成就，加入领域，或在 Xbox Live 上进行在线游戏。	#|
+xbox.dev_wrongSandboxSigninFailed.line1=无法登录至%s沙盒。请更改沙盒并重新启动 Minecraft，或者使用另一个账号登录。重新启动时沙盒将为%s。 	#
+##无法登录至%s沙盒。请更改沙盒并重新启动《我的世界》，或者使用另一个账号登录。重新启动时沙盒将为%s。 	#|
+xbox.achievementssignin.line1=成就和玩家分数表示您在Minecraft中的进度。	#
+##成就和玩家分数表示您在《我的世界》中的进度。	#|
+xbox.achievementssignin.line2=用Microsoft账户登录，开始获得它们！	#
+##用 Microsoft 账户登录，开始获得它们！	#|
+xbox.addfriendsignin.line2=用Microsoft账户登录，开始添加好友！	#
+##用 Microsoft 账户登录，开始添加好友！	#|
+xbox.invitesignin.line2=用Microsoft账户登录，开始邀请好友！	#
+##用 Microsoft 账户登录，开始邀请好友！	#|
+xbox.thirdpartysignin.line2=你需要登录 Xbox Live 后连接！	#
+##您需要用 Microsoft 账户登录才能进行连接！	#|
+xbox.signOutLong=从您的Microsoft账户注销	#
+##从您的 Microsoft 账户注销	#|
+xbox.externalServer.line1=服务器提供了一些最有创意的方式供您玩Minecraft！您只需要登入，我们就可确保您有权限与不认识的人在线玩游戏。	#
+##服务器提供了一些最有创意的方式供您玩《我的世界》！您只需要登入，我们就可确保您有权限与不认识的人在线玩游戏。	#|
+xbox.genericsignin.line1=您的《Minecraft》帐户允许您在 PC 和移动设备上与好友一同玩在线多人游戏。至于最棒的部分？ 	#
+##您的《我的世界》帐户允许您在 PC 和移动设备上与好友一同玩在线多人游戏。至于最棒的部分？ 	#|
+xbox.genericsignin.line3=您可以随时随地使用它来玩《Minecraft》。	#
+##您可以随时随地使用它来玩《我的世界》。	#|
+xbox.disconectionscreen.notSignedIn=用Microsoft账户登录，与好友畅玩。	#
+##用 Microsoft 账户登录，与好友畅玩。	#|
+xbox.disconectionscreen.multiplayerNotAllowed=此Microsoft帐户没有权限加入多人游戏。	#
+##此 Microsoft 帐户没有权限加入多人游戏。	#|
+manifestvalidation.errorlist=错误列表：	#
+##错误列表	#|
+content.import.failed.subtitle_premiumcontent=这个世界中的内容不受《Minecraft 教育版》支持。	#
+##这个世界中的内容不受 Minecraft: Education Edition 支持。	#|
+worldConversion.feedback.failed.msg=糟糕！我们未能收到您的世界。请尝试检查您的网络连接，或者稍后重新发送它。	#
+##糟糕！我们未能收到您的世界。请尝试检查您的 Internet 连接，或者稍后重新发送它。	#|
+tips.edu.4=您可以导出《Minecraft》的世界与他人共享。	#
+##您可以导出《我的世界》的世界与他人共享。	#|
+tips.edu.8=要使用 Code Builder，请按下键盘上的 C 键或触摸屏幕顶部的 Agent 图标！	#
+##要使用代码编辑器，请按下键盘上的 C 键或触摸屏幕顶部的代理机器人图标！	#|
+tips.edu.13=在创造模式中，玩家可以自由选择《Minecraft》中的任何方块来进行建造。	#
+##在创造模式中，玩家可以自由选择《我的世界》中的任何方块来进行建造。	#|
+tips.edu.15=在《Minecraft》中，红石可以用来创建电路和简单的机器。	#
+##在《我的世界》中，红石可以用来创建电路和简单的机器。	#|
+tips.game.8=使用幻翼膜来修理您的翅鞘。	#
+##使用幻影薄膜来修理您的翅鞘。	#|
+tips.game.25=被骷髅箭杀死的怪物有机会掉落音乐唱片。	#
+##访问 mixer.com/minecraft，观看最新的《我的世界》直播。	#|
+tips.game.28=正是像您这样的人创造了资源中心中的内容！	#
+##正是像您这样的人创造了市场中的内容！	#|
+tips.game.29=您知道吗？有几个社区创建者靠创造资源中心的内容为生。	#
+##您知道吗？有几个社区创建者靠市场上的内容为生。	#|
+tips.game.32=访问资源中心，发现新的世界和冒险。	#
+##访问市场，发现新的世界和冒险。	#|
+tips.game.33=您可以申请成为一名开发者！	#
+##申请成为一名市场创建者！	#|
+tips.game.34=您可以申请成为一名开发者！	#
+##混搭包各包含了一个可供探索的世界，多种皮肤以及材质，乃至新的音乐。	#|
+tips.game.35=绿宝石矿石是《Minecraft》中最稀有的矿石！它们只出现在峭壁生物群系中！。	#
+##您知道吗？市场内由社区创建的包有 500 多种，并且每周都有新的加入其中。	#|
+tips.game.36=驯服骷髅马时无需马鞍。	#
+##加入 discord.gg/Minecraft 上的讨论	#|
+tips.game.37=绿宝石矿石是《Minecraft》中最稀有的矿石！它们只出现在峭壁生物群系中！	#
+##绿宝石矿石是《我的世界》中最稀有的矿石！它们只出现在峭壁生物群系中！	#|
+tips.game.41=幻翼是会在夜间出现的危险生物。您得确保自己有规律的睡眠！	#
+##幻影是会在夜间出现的危险生物。您得确保自己有规律的睡眠！	#|
+tips.game.51=MINECON 全球大会是一项全球性的互动直播活动。带上您的物品，加入我们的派对吧！	#
+##MINECON Earth 是一项全球性的互动直播活动。带上您的物品，加入我们的派对吧！	#|
+tips.game.53=信标是一种强大的物品，只能用一颗来自凋灵的下界之星来合成！	#
+##信标是一种强大的物品，只能用一颗来自凋灵的地狱之星来合成！	#|
+tips.game.55=您知道吗？下界之星是不会被爆炸摧毁的。	#
+##您知道吗？地狱之星是不会被爆炸摧毁的。	#|
+hbui.Account.switchAccountButton=切换账户	#
+##|
+hbui.Account.signOutButton=注销	#
+##|
+hbui.Account.readPatchNotesButton=阅读补丁说明	#
+##|
+hbui.Account.leaveFeedbackButton=留下反馈	#
+##|
+hbui.Achievements.header=成就	#
+##|
+hbui.Achievements.labelHoursPlayed=已游戏时长	#
+##|
+hbui.Achievements.labelAchievements=成就	#
+##|
+hbui.Achievements.labelGamerScore=玩家得分	#
+##|
+hbui.Achievements.labelWorldsPlayed=玩过的世界数	#
+##|
+hbui.Help.title=帮助	#
+##|
+hbui.Help.howToPlayButton=游戏指南	#
+##|
+hbui.Help.faqButton=常见问题解答	#
+##|
+hbui.Help.patchNotesButton=补丁说明	#
+##|
+hbui.Help.closeButton=关闭	#
+##|
+hbui.MainMenu.signInLabel=登录	#
+##|
+hbui.MainMenu.helpLabel=帮助	#
+##|
+hbui.MainMenu.invitesLabel=新的邀请	#
+##|
+hbui.MainMenu.friendsLabel=在线	#
+##|
+hbui.MainMenu.newWorld=游戏	#
+##|
+hbui.MainMenu.store=市场	#
+##|
+hbui.MainMenu.profile=皮肤	#
+##|
+hbui.MainMenu.achievements=成就	#
+##|
+hbui.MainMenu.settings=设置	#
+##|
+hbui.MainMenu.recentWorldHeader=最近玩的	#
+##|
+hbui.MainMenu.marketPlaceHeader=市场精选	#
+##|
+hbui.MainMenu.realmsHeader= Realms 	#
+##|
+hbui.MainMenu.viewAllHeader=查看全部	#
+##|
+hbui.MainMenu.heroVignette=上次玩的	#
+##|
+hbui.MainMenu.heroResumeButton=继续	#
+##|
+hbui.MainMenu.heroPlayButton=继续世界	#
+##|
+hbui.MainMenu.survival=生存	#
+##|
+hbui.MainMenu.creative=创造	#
+##|
+hbui.MainMenu.miniGame=迷你小游戏	#
+##|
+hbui.Settings.trueLabel=打开	#
+##|
+hbui.Settings.falseLabel=关闭	#
+##|
+hbui.Settings.sensitivity=灵敏度	#
+##|
+hbui.Settings.invertYAxis=反转 Y 轴	#
+##|
+hbui.Settings.autojump=自动跳跃	#
+##|
+hbui.Settings.fullKeyboardGameplay=全键盘访问	#
+##|
+hbui.Settings.customKeyboardLayout=自定义键盘布局	#
+##|
+trade.mysteriousText=呐呐呐	#
+##轻拍	#|
+trade.notEnough=物品不足 %s	#
+##不够 %s	#|
+dr.rarity.optional=稀有度	#
+##|
+dr.rarity.optional.common=普通	#
+##|
+dr.rarity.optional.epic=史诗	#
+##|
+dr.rarity.optional.legendary=传说	#
+##|
+dr.rarity.optional.rare=稀有	#
+##|
+dr.rarity.optional.uncommon=非凡	#
+##|
+dr.classic_skins.invalidCustomSkin=选择的图像不能作为《Minecraft》皮肤。	#
+##选择的图像不能作为《我的世界》皮肤。	#|
+dr.classic_skins.purchasable=可购买	#
+##获取更多	#|
+common.back=返回
+##|
+common.confirm=确认
+##|
+common.the=的
+##|
+login.enterWorld=进入Minecraft
+##|
+login.userCenter=用户中心
+##|
+login.notice=公告
+##|
+login.failure=登录失败
+##|
+login.userAgreement=用户协议
+##|
+login.waiting=更新包下载中..
+##|
+login.updatefinish=更新完毕
+##|
+login.offlinetext=无法连接至服务器，检测到已经作为“%s”登录，是否以离线模式启动？
+##|
+firstRenameWindow.renamePrompt=您已经成功登陆，设置一个昵称吧
+##|
+start01.emptyWorldHint1=还没有进行过单人游戏
+##|
+start01.emptyWorldHint2=快去新建世界吧！
+##|
+start01.createWorld=创建世界
+##|
+start01.worldName=世界名称
+##|
+start01.gameMode=游戏模式
+##|
+start01.worldType=世界类型
+##|
+start01.alwaysDaytime=一直白天
+##|
+start01.alwaysDaytimeHint=请先勾选开启作弊选项
+##|
+start01.cheatMode=作弊模式
+##|
+start01.worldSeed=世界种子
+##|
+start01.more=更多
+##|
+start01.superFlat=超平坦
+##|
+start01.traditional=传统
+##|
+start01.worldSetting=世界设置
+##|
+start01.enterWorld=进入世界
+##|
+start01.worldNameEmpty=世界名称不能为空
+##|
+start01.worldNameSensitive=世界名称包含敏感词
+##|
+start01.worldNameExceedLength=世界名称已达到字数限制
+##|
+start01.deleteWorld=是否确认删除本世界？
+##|
+start01.moreSeed=更多种子
+##|
+start01.skin=皮肤
+##|
+start01.invalidGameVersion=当前游戏版本过低，无法进入游戏。请下载最新版本
+##|
+start01.account=账号：
+##|
+start01.password=密码：
+##|
+start01.mod=功能玩法
+##|
+start01.material=材质光影
+##|
+start01.detail=详细信息
+##|
+start01.backup=备份
+##|
+start01.backupTitle=请输入游戏备份的名称
+##|
+start01.confirmDelete=确定删除
+##|
+start01.deleteHint=吗？
+##|
+start01.localCreate=#本地新建
+##|
+start01.loadHint1=将
+##|
+start01.loadHint2=装载到
+##|
+start01.loadMaterial=装载
+##|
+start01.unloadMaterial=卸下
+##|
+start01.selectedMaterial=使用中：
+##|
+start01.secondTypeTag1=#假数据，游戏地图子类
+##|
+local_skin.name=本地皮肤
+##|
+skin_select.skin_type=皮肤类别
+##|
+skin_select.use_skin=使用
+##|
+skin_select.Standard=标准包
+##|
+skin_select.Premium=付费包
+##|
+skin_select.skinmgr=皮肤管理
+##|
+skin_select.canuse=可用的皮肤
+##|
+skin_select.perview=预览
+##|
+skin_select.using=使用中
+##|
+skin_select.use=启用
+##|
+skin_select.nv1=女性01
+##|
+skin_select.nv2=女性02
+##|
+skin_select.nv3=女性03
+##|
+skin_select.nv4=女性04
+##|
+skin_select.nv5=女性05
+##|
+chat.targetOffline=好友不在线，发送失败
+##|
+chat.policyForbidden=有违政策
+##|
+chat.sensativeWords=含有敏感词，发送失败
+##|
+chat.selfOffline=你已经与服务器断开连接，请稍后重新发送
+##|
+chat.selfOnline=已重新连接上网络
+##|
+start00.serverRoom=租赁服大厅
+##|
+start00.localRoom=局域网游戏
+##|
+start00.singleGame=单人游戏
+##|
+start00.resourceCenter=资源中心
+##|
+start00.lastPlayed=最近游戏
+##|
+start00.gameName=游戏名称
+##|
+start00.quickLaunch=快速启动
+##|
+start00.start=启动
+##|
+start00.new=新鲜事
+##|
+start00.chat=好友
+##|
+start00.media=社区
+##|
+start00.game=游戏
+##|
+start00.player=我
+##|
+lanGame.onlineHall=联机大厅
+##|
+lanGame.lan=局域网
+##|
+lanGame.createLanRoom=创建局域网房间
+##|
+lanGame.createOnlineRoom=创建联机房间
+##|
+lanGame.lanRoom=局域网房间
+##|
+lanGame.emptyRoomHint=当前局域网没有房间哟可以去创建
+##|
+lanGame.emptyRoomHint1=当前联机大厅没有房间哟可以去创建
+##|
+lanGame.createRoom=创建房间
+##|
+lanGame.Wait=请等待
+##|
+lanGame.connectStyle=联机模式
+##|
+lanGame.createRoomHint0=联机大厅可以与各地朋友一起玩游戏
+##|
+lanGame.createRoomHint1=局域网房间可以与局域网下的朋友一起玩游戏
+##|
+lanGame.roomName=房间名称
+##|
+lanGame.inputRoomHint=点击输入名称
+##|
+lanGame.gameMap=游戏地图
+##|
+lanGame.createWorld=新建世界
+##|
+lanGame.createRoomHint2=当前没有世界，请先去新建世界吧
+##|
+lanGame.connectStyle1=连接模式
+##|
+lanGame.maxNumber=最大人数
+##|
+lanGame.maxPlayerNumber=最大玩家数：
+##|
+lanGame.curPlayers=当前玩家：
+##|
+lanGame.enterGame=进入游戏
+##|
+lanGame.curRoomInfoHint=让好友扫描加入房间
+##|
+lanGame.waitForHostToEnter=等待房主进入游戏
+##|
+lanGame.wifiConnect=Wifi连接
+##|
+lanGame.hotSpotConnect=热点连接
+##|
+lanGame.blueToothConnect=蓝牙连接
+##|
+lanGame.visibility=房间公开性
+##|
+lanGame.everyoneCanSee=所有人可见
+##|
+lanGame.friendsCanSee=好友可见
+##|
+lanGame.lan1=局域网——
+##|
+lanGame.wan1=联机大厅——
+##|
+lanGame.lanRoomInfoHint=退出房间会关闭当前房间
+##|
+lanGame.fullRoom=当前房间已满
+##|
+lanGame.roomNameEmpty=房间名称不可为空
+##|
+lanGame.roomNameExceedLength=房间名称达到最大长度
+##|
+lanGame.roomNameSensitive=房间名称包含敏感词
+##|
+lanGame.scan=扫一扫
+##|
+lanGame.recentRoom=最近加入的房间
+##|
+lanGame.refreshList=刷新房间
+##|
+lanGame.roomDoesNotExisted=房间不存在
+##|
+lanGame.networkUnavailable=网络连接错误，请检查网络设置
+##|
+lanGame.noRecentRoomHint1=最近无加入
+##|
+lanGame.noRecentRoomHint2=逛逛大厅或创建房间吧
+##|
+lanGame.pullUpToNextPage=上拉进入下一页
+##|
+lanGame.pullUpToRefresh=继续上拉刷新列表
+##|
+lanGame.pullDownToPrePage=下拉进入上一页
+##|
+lanGame.pullDownToRefresh=下拉刷新
+##|
+lamGame.canLeftGo=可以放开啦
+##|
+lanGame.alreadyInRoom=已经加入房间
+##|
+lanGame.joinRoomFail=加入失败
+##|
+lanGame.networkDisconnect=网络异常，与游戏连接断开，即将返回主界面
+##|
+lanGame.searchCancel=取消
+##|
+playerWindow.rename=重命名
+##|
+playerWindow.logout=退出登录
+##|
+playerWindow.me=我
+##|
+renameWindow.rename=昵称修改
+##|
+renameWindow.nickname=我的昵称
+##|
+renameWindow.confirm=确认修改
+##|
+renameWindow.nicknameTooShort=昵称太短
+##|
+renameWindow.nicknameTooLong=昵称太长
+##|
+renameWindow.nicknameUnchanged=新昵称和原昵称不能相同
+##|
+renameWindow.nicknameExists=昵称已被占用
+##|
+renameWindow.nicknameRenameCountLeft=本周次数剩余%d次
+##|
+renameWindow.nicknameCanNotRenameDueToNoCount=本周没有可修改昵称的次数
+##|
+renameWindow.nicknameTimeout=连接服务器超时
+##|
+renameWindow.nicknameEmpty=昵称不能为空
+##|
+renameWindow.nicknameBusy=服务器繁忙
+##|
+renameWindow.nicknamePushFailed=昵称传输失败
+##|
+renameWindow.nicknameTransfering=数据传输中
+##|
+renameWindow.nicknameInternalError=内部错误
+##|
+renameWindow.nicknameInvalid=用户名不合法
+##|
+renameWindow.sensitiveWord=昵称含敏感词
+##|
+disconnect.networkUnavailable=网络不可用
+##|
+item.tropicalSchoolAnenome.name=海葵	#
+##|
+item.tropicalSchoolRedLippedBenny.name=红唇鳚鱼	#
+##|
+itemGroup.name.seaplants=珊瑚装饰	#
+##|
+menu.voice_setting=语音管理	#
+##|
+menu.playerlist=玩家列表	#
+##|
+options.receiveVoice=收听其他玩家（所有游戏）	#
+##|
+options.receiveVoice2=收听其他玩家（当前游戏）	#
+##|
+options.openMicrophone=开启麦克风（所有游戏）	#
+##|
+options.openMicrophone2=开启麦克风（当前游戏）	#
+##|
+options.traditioncontrols=十字键操作	#
+##|
+options.oldctrl=十字键操作	#
+##|
+options.openFoldMenu=开启综合按键	#
+##|
+options.openVoice=启用聊天语音转文本	#
+##|
+neteaseoptions.auxiliary=辅助功能
+##|
+neteaseoptions.auxiliary.title=辅助功能
+##|
+playScreen.realmsTrialWorld=30 天免费试玩	#
+##|
+progressScreen.waitinghoststart=等待房主开启游戏......	#
+##|
+progressScreen.hostnostartgame=房主尚未开启游戏，请耐心等待。	#
+##|
+progressScreen.title.rtc_reconnecting=正在尝试语音重连，请耐心等待......	#
+##|
+store.search.filter.uninstalled=未安装	#
+##|
+store.search.sort_menu.Uninstalled=未安装	#
+##|
+tile.nautilus.name=鹦鹉螺块	#
+##|
+content.import.started.resource_pack=已开始导入资源包 '%s'	#
+##|
+content.import.started.behavior_pack=已开始导入行为包 '%s'	#
+##|
+content.import.started.world_template=已开始导入世界模板 '%s'	#
+##|
+neteaseStore.title=商店	#
+##|
+neteaseStore.search_place_holder=输入要查找的商品名称	#
+##|
+neteaseStore.search_result_empty=未找到相关的商品	#
+##|
+neteaseStore.not_enough_money=余额不足，是否前往充值	#
+##|
+neteaseStore.buy_item=购买	#
+##|
+neteaseStore.too_fast=购买太频繁，请稍后重试	#
+##|
+neteaseStore.time_expired=购买超时	#
+##|
+neteaseStore.purchase_progress=正在购买，稍后即可完成	#
+##|
+neteaseStore.points_not_enough=剩余货币不足	#
+##|
+neteaseStore.goto_purchase=前往充值	#
+##|
+neteaseStore.buy_succ=商品已成功购买	#
+##|
+neteaseStore.buy_failed=商品购买失败	#
+##|
+neteaseStore.no_expire_day=永久		#
+##|
+neteaseStore.item_expire_day=%d天		#
+##|
+neteaseStore.buy_item_expire_day=%Y年%m月%d日 %R到期		#
+##|
+neteaseVoice.send_btn_text=发送
+##|
+neteaseVoice.finish_btn_text=完成
+##|
+neteaseVoice.cancel_btn_text=取消
+##|
+neteaseVoice.recording=录制中...
+##|
+neteaseVoice.transing=正在转化中...
+##|
+neteaseVoice.recordfinish=录制完成
+##|
+neteaseVoice.nopermission=权限不足，无法录音
+##|
+neteaseVoice.recordfailed=录音失败
+##|
+neteaseVoice.tooshort=内容过短无法发送
+##|
+netease.report.title=社交界面
+##|
+netease.report.text.friend=申请好友
+##|
+netease.report.option.friend=申请
+##|
+netease.report.friend.dialog.message=好友邀请已发送
+##|
+netease.report.friend.dialog.warning=已经是好友，申请失败
+##|
+netease.report.text.report=举报玩家
+##|
+netease.report.option.report=举报
+##|
+netease.report.report.dialog.title=选择举报类型
+##|
+netease.report.report.option.bad_player=恶意玩家
+##|
+netease.report.report.option.bad_nickname=不雅昵称
+##|
+netease.report.report.option.language_violence=语言暴力
+##|
+netease.report.report.option.bad_information=发布不良信息
+##|
+netease.report.report.option.game_plug=外挂
+##|
+netease.report.report.option.other=其他
+##|
+netease.report.report.record.title=选择举报证据
+##|
+netease.report.report.record.error=请选择至少一项举报内容
+##|
+netease.report.text.record.title=选择举报证据
+##|
+netease.report.report.record.warning=最多可以选择10条记录作为证据
+##|
+netease.report.report.record.hint=举报成功，美化游戏环境人人有责。
+##|
+netease.report.text.shield=屏蔽玩家发言
+##|
+netease.report.option.shield=屏蔽
+##|
+netease.report.option.dont_shield=解除屏蔽
+##|
+netease.report.text.kick=踢除玩家
+##|
+netease.report.kick.if_kick_message=是否确认踢除玩家？
+##|
+netease.report.option.kick=踢除
+##|
+netease.report.kick.hint=你已被房主踢出房间
+##|
+netease.report.cancel=取消
+##|
+netease.permission.takeScreenError=请在系统设置中打开存储权限以开启截屏功能
+##|
+netease.permission.audioPermissionError=请在系统设置中打开麦克风权限以开启游戏内语音
+##|
+netease.permission.ngVoicePermissionError=请在系统设置中打开储存和麦克风权限以开启游戏语音转文字
+##|
+netease.warn_anti_addiction.verify=实名登记	#
+##|
+netease.warn_anti_addiction.hint=由于您是未实名账号，剩余游戏时间§4不足%d分钟§f，请尽快完成§b实名登记	#
+##|
+netease.warn_anti_addiction.verified.hint=距离休息时间§4不足15分钟§f，请合理安排游戏时间	#
+##|
+chat.font=字体	#
+##|
+tile.smooth_quartz_stairs.name=平滑石英楼梯	#
+##平滑石英阶梯	#|
+commands.removeedunpc.description=删除地图内所有NPC	#
+##|
+commands.removeedunpc.success=已删除NPC	#
+##|
+commands.enableedunpc.description=是否允许在地图内生成NPC: true允许, false禁止	#
+##|
+commands.enableedunpc.success.enable=已允许地图内生成NPC	#
+##|
+commands.enableedunpc.success.disable=已禁止地图内生成NPC	#
+##|
+mobileAuthenticate.title=绑定手机号	#
+##|
+mobileAuthenticate.guide.content=进行聊天需要绑定手机号，请前往绑定	#
+##|
+mobileAuthenticate.guide.cancel=取消	#
+##|
+mobileAuthenticate.guide.binding=前往绑定	#
+##|
+mobileAuthenticate.cancel=取消	#
+##|
+mobileAuthenticate.binding=绑定	#
+##|
+mobileAuthenticate.number.title=手机号码	#
+##|
+mobileAuthenticate.number.error=输入的手机号码有误	#
+##|
+mobileAuthenticate.code.title=验证码	#
+##|
+mobileAuthenticate.code.hint=输入收到的验证码	#
+##|
+mobileAuthenticate.code.request=获取验证码	#
+##|
+mobileAuthenticate.result.wrong=验证码错误	#
+##|
+mobileAuthenticate.result.success=绑定成功	#
+##|
+report_cheat.confirm=前往举报
+##|
+report_cheat.content=是否前往客户端举报？
+##|

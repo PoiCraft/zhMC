@@ -15,8 +15,10 @@ time = datetime.datetime.now(pytz.timezone('UTC')).strftime('%Y-%m-%d %H:%M:%S')
 
 source = open('data/zh_CN.lang').read()
 diff = open('data/zh_PC.diff.lang').read()
+sweetwinter = open('data/sweetwinter/zh_CN.sweetwinter.lang').read()
+sweetwinter_keys = open('data/sweetwinter/zh_CN.sweetwinter.txt').read().splitlines()
 
-sign_str = diff.encode(encoding='utf-8')
+sign_str = diff.encode(encoding='utf-8') + sweetwinter.encode(encoding='utf-8')
 m.update(sign_str)
 sign = f'Sign: {m.hexdigest()}'
 
@@ -61,10 +63,16 @@ def exportLang(lang_map):
 
 source_map = loadLang(source)
 diff_map = loadLang(diff)
+sweetwinter_map = loadLang(sweetwinter)
 
 for k in diff_map:
     print(k+':'+source_map[k]+' -> '+diff_map[k])
     source_map[k]=diff_map[k]
+
+for k in sweetwinter_keys:
+    print('Thank Coolapk@甜冬SweetWinter')
+    print(k+':'+source_map[k]+' -> '+sweetwinter_map[k])
+    source_map[k]=sweetwinter_map[k]
 
 with open('texts/zh_PC.lang','w') as f:
     f.write(exportLang(source_map))
