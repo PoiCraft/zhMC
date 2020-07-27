@@ -22,13 +22,6 @@ sign_str = diff.encode(encoding='utf-8') + sweetwinter.encode(encoding='utf-8') 
 m.update(sign_str)
 sign = f'Sign: {m.hexdigest()}'
 
-sign_old = open('texts/zh_PC.lang').read().splitlines()[0]
-
-print(sign_old,sign)
-if ('#'+sign) == sign_old:
-    print('Nothing Changed')
-    sys.exit()
-
 extra = [
         sign,
         'Github: https://github.com/PoiCraft/zhMC',
