@@ -18,7 +18,7 @@ diff = open('data/zh_PC.diff.lang').read()
 sweetwinter = open('data/sweetwinter/zh_CN.sweetwinter.lang').read()
 sweetwinter_keys = open('data/sweetwinter/zh_CN.sweetwinter.txt').read().splitlines()
 
-sign_str = diff.encode(encoding='utf-8') + sweetwinter.encode(encoding='utf-8') + sweetwinter_keys
+sign_str = diff.encode(encoding='utf-8') + sweetwinter.encode(encoding='utf-8') + ''.join(sweetwinter_keys)
 m.update(sign_str)
 sign = f'Sign: {m.hexdigest()}'
 
