@@ -21,11 +21,6 @@ jobs:
     - name: build zh_PC.lang
       id: build
       run: python3 build.py
-    - name: upload
-      uses: actions/upload-artifact@v2
-      with:
-        name: build
-        path: .
 
    
     
