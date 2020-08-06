@@ -3,15 +3,9 @@ name: Build zh_PC.lang
 on:
   push:
     branches: [ master ]
-    paths:
-      - 'data/zh_PC.diff.lang'
-      - 'data/zh_CN.lang'
-      - '!texts/zh_PC.lang'
+
   pull_request:
     branches: [ master ]
-    paths:
-      - 'data/'
-      - 'manifest.json'
 
 jobs:
   build:
@@ -28,16 +22,11 @@ jobs:
     - name: build zh_PC.lang
       id: build
       run: python3 build.py
-    - name: commiit
-      run: |
-        git config --global user.email 2331490629@qq.com
-        git config --global user.name gggxbbb
-        git add .
-        git commit -m "[Actions] Build zh_PC.lang" -a
-    - name: Push changes
-      uses: ad-m/github-push-action@master
+    - name: upload
+      uses: actions/upload-artifact@v2
       with:
-        github_token: ${{ github.token }}
+        name: build
+        path: .
 
    
     
