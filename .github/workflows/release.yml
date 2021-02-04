@@ -28,7 +28,7 @@ jobs:
         rm -rf data
         rm -rf .github
         rm *.md
-        rm build.py
+        rm *.py
         ls
         name="${{ github.ref }}"
         zip -r zhMC-${name##*/}.mcpack .

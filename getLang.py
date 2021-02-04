@@ -9,5 +9,10 @@ def d(n,s,t):
 p = "res.zip"
 
 with zipfile.ZipFile(p) as zf:
-    print(zf.namelist())
-    zf.extract("texts/zh_CN.lang", "data/")
+    zf.extract("texts/zh_CN.lang", "catch/")
+
+with open("catch/texts/zh_CN.lang", encoding='utf8') as f:
+    o = open("data/zh_CN.lang", "w", encoding='utf8')
+    o.write(f.read())
+    f.close()
+    o.close()

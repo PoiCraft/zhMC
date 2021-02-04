@@ -70,4 +70,4 @@ for k in sweetwinter_keys:
 with open('texts/zh_PC.lang','w') as f:
     f.write(exportLang(source_map))
     f.close()
-        
+
