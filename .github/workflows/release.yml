@@ -16,6 +16,8 @@ jobs:
         python-version: 3.8
     - name: install pytz
       run: pip3 install pytz
+    - name: get zh_CN.lang
+      run: python3 getLang.py
     - name: build zh_PC.lang
       id: build
       run: python3 build.py
